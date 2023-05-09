@@ -1,0 +1,23 @@
+{
+  "name": "be-home-away",
+  "version": "1.0.0",
+  "description": "back-end-integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Star-Grammers/BE-Home-Away.git"
+  },
+  "author": "maira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Star-Grammers/BE-Home-Away/issues"
+  },
+  "homepage": "https://github.com/Star-Grammers/BE-Home-Away#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
