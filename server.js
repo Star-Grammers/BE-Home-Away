@@ -1,12 +1,8 @@
 const express = require('express');
 const cors = require('cors')
 const app = express();
-// const path = require('path');
-// const basicAuth = require('express-basic-auth');
 
 const {PORT = 3030} = process.env;
-// const {PORT = 3001} = process.env;
-// const PORT = process.env.port || 3001;
 
 app.use(cors());
 app.use(express.json())
@@ -33,6 +29,7 @@ app.use('/user/signin', (req, res) => {
 
 });
 
+//need to use mongo db and implement proper post/get requests
 // app.get('/', function (req, res) {
 //     res.send('Hello World')
 // })
@@ -43,4 +40,3 @@ app.listen(PORT, function (err) {
     console.log("Server listening on PORT", PORT);
 });
 
-// app.listen(3001, () => console.log('API is running on port ' + PORT));
