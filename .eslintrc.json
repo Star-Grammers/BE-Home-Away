@@ -1,0 +1,150 @@
+// {
+//   "extends": [
+//     "airbnb",
+//     "plugin:prettier/recommended",
+//     "eslint:recommended",
+//     "plugin:@typescript-eslint/eslint-recommended",
+//     "plugin:@typescript-eslint/recommended"
+//   ],
+//   "parser": "@typescript-eslint/parser",
+//   "env": {
+//     "browser": true,
+//     "commonjs": true,
+//     "es6": true,
+//     "jest": true,
+//     "node": true
+//   },
+//   "settings": {
+//     "import/core-modules": ["express", "cors"]
+//   },
+//   "rules": {
+//     "no-console": "off",
+//     "jsx-a11y/href-no-hash": ["off"],
+//     "jsx-a11y/label-has-associated-control": [
+//       "error",
+//       {
+//         "required": {
+//           "some": ["nesting", "id"]
+//         }
+//       }
+//     ],
+//     "jsx-a11y/label-has-for": [
+//       "error",
+//       {
+//         "required": {
+//           "some": ["nesting", "id"]
+//         }
+//       }
+//     ],
+//     "no-use-before-define": "off",
+//     "@typescript-eslint/no-use-before-define": ["error"],
+//     "react/jsx-filename-extension": [
+//       "warn",
+//       { "extensions": [".js", ".jsx", ".tsx", ".ts"] }
+//     ],
+//     "max-len": [
+//       "warn",
+//       {
+//         "code": 80,
+//         "tabWidth": 2,
+//         "comments": 80,
+//         "ignoreComments": false,
+//         "ignoreTrailingComments": true,
+//         "ignoreUrls": true,
+//         "ignoreStrings": true,
+//         "ignoreTemplateLiterals": true,
+//         "ignoreRegExpLiterals": true
+//       }
+//     ]
+//   }
+// }
+{
+  "extends": [
+    "airbnb",
+    "plugin:prettier/recommended",
+    "eslint:recommended",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es6": true,
+    "jest": true,
+    "node": true
+  },
+  "settings": {
+    "import/core-modules": ["express", "cors"]
+  },
+  "plugins": ["unicorn", "import"],
+  "rules": {
+    "import/extensions": [
+      "error",
+      "ignorePackages",
+      {
+        "js": "never",
+        "json": "always"
+      }
+    ],
+    "unicorn/prevent-abbreviations": [
+      "off",
+      {
+        "replacements": {
+          "arg": false,
+          "env": false,
+          "prod": false,
+          "dev": false
+        }
+      }
+    ],
+    "no-console": "off",
+    "jsx-a11y/href-no-hash": ["off"],
+    "jsx-a11y/label-has-associated-control": [
+      "error",
+      {
+        "required": {
+          "some": ["nesting", "id"]
+        }
+      }
+    ],
+    "jsx-a11y/label-has-for": [
+      "error",
+      {
+        "required": {
+          "some": ["nesting", "id"]
+        }
+      }
+    ],
+    "no-use-before-define": "off",
+    "@typescript-eslint/no-use-before-define": ["error"],
+    "react/jsx-filename-extension": [
+      "warn",
+      { "extensions": [".js", ".jsx", ".tsx", ".ts"] }
+    ],
+    "max-len": [
+      "warn",
+      {
+        "code": 80,
+        "tabWidth": 2,
+        "comments": 80,
+        "ignoreComments": false,
+        "ignoreTrailingComments": true,
+        "ignoreUrls": true,
+        "ignoreStrings": true,
+        "ignoreTemplateLiterals": true,
+        "ignoreRegExpLiterals": true
+      }
+    ],
+    "no-restricted-syntax": [
+      "error",
+      {
+        "selector": "CallExpression[callee.name='require']",
+        "message": "Please use import statement instead of require()"
+      }
+    ]
+  },
+  "parserOptions": {
+    "sourceType": "module"
+  }
+}
