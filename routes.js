@@ -67,7 +67,6 @@ router.get("/users", async (req, res) => {
   try {
     const users = await User.find({});
     res.json(users);
-    // res.status(200).send(users)
   } catch (error) {
     res.status(500).send("An error occurred");
   }
@@ -83,7 +82,6 @@ router.post("/user/login", async (req, res) => {
       res.status(401).send("Invalid email or password");
     } else {
       res.status(200).send(user);
-      // res.send({ token: user.token });
     }
   } catch (error) {
     res.status(500).send("An error occurred");
