@@ -11,7 +11,7 @@ const userSchema = new mongoose.Schema({
   },
 });
 
-const UserModel = mongoose.model("User", userSchema);
+export const User = mongoose.model("User", userSchema);
 
 const reservationSchema = new mongoose.Schema({
   guestCount: {
@@ -32,5 +32,5 @@ const reservationSchema = new mongoose.Schema({
   },
 });
 
-const Reservation = mongoose.model("Reservation", reservationSchema);
-export default { UserModel, Reservation };
+export const Reservation = mongoose.model("Reservation", reservationSchema);
+// export default { User, Reservation};

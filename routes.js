@@ -1,19 +1,23 @@
 // import dotenv from "dotenv";
-// import cors from "cors";
+import cors from "cors";
 import express from "express";
 // import mongoose from "mongoose";
-import testData from "./testData.js";
-import UserModel from "./models/Post.js";
-
+import x from "./testData.js";
+import {User, Reservation
+} from "./models/Post.js";
+// console.log(User, 'hello')
 const router = express.Router();
 
 // dotenv.config();
 // const app = express();
 
-// const { PORT = 3000, DB_URI } = process.env;
+// const { PORT = 3030, DB_URI } = process.env;
 
 // app.use(cors());
 // app.use(express.json());
+
+router.use(cors());
+router.use(express.json());
 
 // mongoose
 //   .connect(DB_URI, {
@@ -72,30 +76,29 @@ const router = express.Router();
 //     });
 
 //     await newReservation.save();
-//     console.log(newReservation, "the newReservation");
 //     res.status(200).json({ message: "Reservation saved successfully" });
 //   } catch (error) {
 //     res.status(500).send("An error occurred");
 //   }
 // });
-// router.post("/api/reservations", async (req, res) => {
-//   const { guestCount, petsCount, phoneNumber, checkInDate } = req.body;
+router.post("/api/reservations", async (req, res) => {
+  const { guestCount, petsCount, phoneNumber, checkInDate } = req.body;
 
-//   try {
-//     const newReservation = new Reservation({
-//       guestCount,
-//       petsCount,
-//       phoneNumber,
-//       checkInDate,
-//     });
+  try {
+    const newReservation = new Reservation({
+      guestCount,
+      petsCount,
+      phoneNumber,
+      checkInDate,
+    });
 
-//     await newReservation.save();
-//     console.log(newReservation, "the newReservation");
-//     res.status(200).json({ message: "Reservation saved successfully" });
-//   } catch (error) {
-//     res.status(500).send("An error occurred");
-//   }
-// });
+    await newReservation.save();
+    console.log(newReservation, "the newReservation");
+    res.status(200).json({ message: "Reservation saved successfully" });
+  } catch (error) {
+    res.status(500).send("An error occurred");
+  }
+});
 
 // app.get("/api/reservations", async (req, res) => {
 //   try {
@@ -105,14 +108,15 @@ const router = express.Router();
 //     res.status(500).send("An error occurred");
 //   }
 // });
-// router.get("/api/reservations", async (req, res) => {
-//   try {
-//     const reservations = await Reservation.find({});
-//     res.json(reservations);
-//   } catch (error) {
-//     res.status(500).send("An error occurred");
-//   }
-// });
+
+router.get("/api/reservations", async (req, res) => {
+  try {
+    const reservations = await Reservation.find({});
+    res.json(reservations);
+  } catch (error) {
+    res.status(500).send("An error occurred");
+  }
+});
 
 // app.get("/", async (req, res) => {
 //   try {
@@ -152,18 +156,19 @@ router.post("/user/signup", async (req, res) => {
   const { email, password } = req.body;
 
   try {
-    const existingUser = await UserModel.findOne({ email });
+    const existingUser = await User.findOne({ email });
 
     if (existingUser) {
       res.status(409).send("User already exists");
     } else {
-      const newUser = new UserModel({ email, password });
+      const newUser = new User({ email, password });
       await newUser.save();
 
       res.send({ message: "User created successfully" });
     }
   } catch (error) {
-    res.status(500).send("An error occurred");
+    // res.status(500).send("This is your error:", error);
+   res.status(500).send(`This is your error: ${error}`);
   }
 });
 
@@ -177,8 +182,9 @@ router.post("/user/signup", async (req, res) => {
 // });
 router.get("/users", async (req, res) => {
   try {
-    const users = await UserModel.find({});
+    const users = await User.find({});
     res.json(users);
+// res.status(200).send(users)
   } catch (error) {
     res.status(500).send("An error occurred");
   }
@@ -203,12 +209,13 @@ router.post("/user/login", async (req, res) => {
   const { email, password } = req.body;
 
   try {
-    const user = await UserModel.findOne({ email });
+    const user = await User.findOne({ email });
 
     if (!user || user.password !== password) {
       res.status(401).send("Invalid email or password");
     } else {
-      res.send({ token: user.token });
+    res.status(200).send(user)
+      // res.send({ token: user.token });
     }
   } catch (error) {
     res.status(500).send("An error occurred");
@@ -216,11 +223,11 @@ router.post("/user/login", async (req, res) => {
 });
 
 // app.get("/api/listings", (req, res) => {
-//   res.json(testData);
+//   res.json(x);
 // });
 
 router.get("/api/listings", (req, res) => {
-  res.json(testData);
+  res.json(x);
 });
 
 // function errorHandler(err) {
