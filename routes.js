@@ -1,36 +1,67 @@
 import cors from "cors";
 import express from "express";
+import { v4 as uuidv4 } from "uuid";
 import x from "./testData.js";
-import { User, Reservation } from "./models/Post.js";
+import { User } from "./models/Post.js";
 
 const router = express.Router();
 
 router.use(cors());
 router.use(express.json());
 
-router.post("/api/reservations", async (req, res) => {
-  const { guestCount, petsCount, phoneNumber, checkInDate } = req.body;
-
+router.post("/api/reservations/", async (req, res) => {
+  const { userId } = req.body;
   try {
-    const newReservation = new Reservation({
-      guestCount,
-      petsCount,
-      phoneNumber,
-      checkInDate,
+    const user = await User.findById(userId);
+    res.status(200).json(user.reservations);
+  } catch (error) {
+    res.status(500).send("An error occurred");
+  }
+});
+// TODO: /api/reservation/edit, use $set, or wtvr works for editing each input
+router.put("/api/reservations/creation", async (req, res) => {
+  const { guestCount, petsCount, phoneNumber, checkInDate, userId } = req.body;
+  const reservationId = uuidv4();
+  try {
+    const userFound = await User.findByIdAndUpdate(userId, {
+      $push: {
+        reservations: {
+          guestCount,
+          petsCount,
+          phoneNumber,
+          checkInDate,
+          reservationId,
+        },
+      },
     });
-
-    await newReservation.save();
-    console.log(newReservation, "the newReservation");
-    res.status(200).json({ message: "Reservation saved successfully" });
+    res.status(200).json(userFound);
   } catch (error) {
     res.status(500).send("An error occurred");
   }
 });
 
-router.get("/api/reservations", async (req, res) => {
+router.put("/reservations/delete", async (req, res) => {
+  const { reservationId, userId } = req.body;
+  console.log(userId, "userId mofo");
+  console.log(reservationId, "the reservationId");
   try {
-    const reservations = await Reservation.find({});
-    res.json(reservations);
+    const reservationDeleted = await User.findByIdAndUpdate(userId, {
+      $pull: {
+        reservations: { reservationId },
+      },
+    });
+    res.status(200).json(reservationDeleted);
+  } catch (error) {
+    res.status(500).send("An error occurred");
+  }
+});
+
+router.delete("/users/delete", async (req, res) => {
+  const { userId } = req.body;
+  console.log(userId, "userId");
+  try {
+    await User.findOneAndDelete(userId);
+    res.status(200).send("reservation deleted");
   } catch (error) {
     res.status(500).send("An error occurred");
   }
