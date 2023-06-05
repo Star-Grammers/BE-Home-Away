@@ -1,70 +1,73 @@
-[
+const x = [
   {
-    "id": "43449093",
-    "url": "https://www.airbnb.com/rooms/43449093",
-    "deeplink": "https://www.airbnb.com/rooms/43449093?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 1,
-    "name": "Room in the heart of Paris",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Paris",
-    "images": [
+    id: "43449093",
+    url: "https://www.airbnb.com/rooms/43449093",
+    deeplink:
+      "https://www.airbnb.com/rooms/43449093?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 1,
+    name: "Room in the heart of Paris",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-43449093/original/49a62f19-7135-45ae-9811-441891d5279d.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/4a07fe2a-8c53-47ff-9093-7e1732972f4d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e8e77ec9-966c-407e-9ff6-f75231b9fbb5.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/f37c0947-9f4e-409a-b98e-8db0f37d3e8f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/daa9323f-e8be-4c3d-9068-f6331ad5316a.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/c3b8456c-4979-458e-a739-1528ac6672cc.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/fd1fd832-0158-4e63-a903-0825ba76368d.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/fd1fd832-0158-4e63-a903-0825ba76368d.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/72562b57-bfe3-43ac-a4cf-8fbad0cefbf7.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": true,
-    "lat": 48.86339,
-    "lng": 2.35232,
-    "persons": 1,
-    "reviewsCount": 263,
-    "rating": 4.54,
-    "type": "Entire rental unit",
-    "userId": 271527319,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [
-      35, 611, 4, 103, 40, 104, 42, 11, 44, 45, 77, 46, 85, 86, 663, 30
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/72562b57-bfe3-43ac-a4cf-8fbad0cefbf7.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: true,
+    lat: 48.86339,
+    lng: 2.35232,
+    persons: 1,
+    reviewsCount: 263,
+    rating: 4.54,
+    type: "Entire rental unit",
+    userId: 271527319,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [
+      35, 611, 4, 103, 40, 104, 42, 11, 44, 45, 77, 46, 85, 86, 663, 30,
     ],
-    "previewAmenities": ["Wifi"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 83,
-      "currency": "USD",
-      "total": 83,
-      "priceItems": [
+    previewAmenities: ["Wifi"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 83,
+      currency: "USD",
+      total: 83,
+      priceItems: [
         {
-          "amount": 63
+          amount: 63,
         },
         {
-          "amount": 5
+          amount: 5,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 4
-        }
-      ]
-    }
+          amount: 4,
+        },
+      ],
+    },
   },
   {
-    "id": "774582581519038073",
-    "url": "https://www.airbnb.com/rooms/774582581519038073",
-    "deeplink": "https://www.airbnb.com/rooms/774582581519038073?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 2,
-    "name": "Chill out room.",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Clichy",
-    "images": [
+    id: "774582581519038073",
+    url: "https://www.airbnb.com/rooms/774582581519038073",
+    deeplink:
+      "https://www.airbnb.com/rooms/774582581519038073?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 2,
+    name: "Chill out room.",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Clichy",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-774582581519038073/original/1edabf13-5e25-4bd9-a857-b2b58b58997c.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-774582581519038073/original/10b2e1a2-d457-429f-9903-159d15853697.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-774582581519038073/original/3db59b54-856c-4a1d-a3bb-763a6d8add1a.jpeg?im_w=720",
@@ -73,50 +76,52 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-774582581519038073/original/71b68203-e503-4694-9d95-963d3eb54b02.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-774582581519038073/original/f61d4232-c710-48cd-ac9a-b44048d8b120.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-774582581519038073/original/26ab4862-5562-4e91-8315-98e1d1697200.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-774582581519038073/original/6c9b3514-5c7d-4aaa-a941-524006f05288.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-774582581519038073/original/6c9b3514-5c7d-4aaa-a941-524006f05288.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-296443273/original/072cabd8-50af-4488-96a3-a77cf4687574.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 48.90083,
-    "lng": 2.30416,
-    "persons": 1,
-    "reviewsCount": 29,
-    "rating": 4.93,
-    "type": "Private room in bed and breakfast",
-    "userId": 296443273,
-    "address": "Clichy, Île-de-France, France",
-    "amenityIds": [1, 35, 227, 4, 5, 37, 8, 42, 15, 47, 287],
-    "previewAmenities": ["Wifi", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 49,
-      "currency": "USD",
-      "total": 49,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-296443273/original/072cabd8-50af-4488-96a3-a77cf4687574.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 48.90083,
+    lng: 2.30416,
+    persons: 1,
+    reviewsCount: 29,
+    rating: 4.93,
+    type: "Private room in bed and breakfast",
+    userId: 296443273,
+    address: "Clichy, Île-de-France, France",
+    amenityIds: [1, 35, 227, 4, 5, 37, 8, 42, 15, 47, 287],
+    previewAmenities: ["Wifi", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 49,
+      currency: "USD",
+      total: 49,
+      priceItems: [
         {
-          "amount": 40
+          amount: 40,
         },
         {
-          "amount": 7
+          amount: 7,
         },
         {
-          "amount": 2
-        }
-      ]
-    }
+          amount: 2,
+        },
+      ],
+    },
   },
   {
-    "id": "42654284",
-    "url": "https://www.airbnb.com/rooms/42654284",
-    "deeplink": "https://www.airbnb.com/rooms/42654284?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 3,
-    "name": "Paris: Chambre en duplex à la Villette",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Paris",
-    "images": [
+    id: "42654284",
+    url: "https://www.airbnb.com/rooms/42654284",
+    deeplink:
+      "https://www.airbnb.com/rooms/42654284?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 3,
+    name: "Paris: Chambre en duplex à la Villette",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-42654284/original/c87c0f17-3159-4619-b408-2a368618d7a9.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-42654284/original/5f8e35c8-96ad-4cf9-a27c-7797abf9f97a.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-42654284/original/a1fe3784-b00a-4b2f-903f-e3a38b3ff66e.jpeg?im_w=720",
@@ -137,56 +142,58 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-42654284/original/b284fdd3-f400-4e6a-b923-1ab21c9ce42d.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-42654284/original/6e6a4b33-702d-4104-900c-801a0c37c01a.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-42654284/original/3f49afea-f41b-4362-a6a6-a054eb33b885.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-42654284/original/ab6c1388-729a-4b85-a93a-ed01dcfd5290.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-42654284/original/ab6c1388-729a-4b85-a93a-ed01dcfd5290.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-44484854/original/36c532e5-8a84-4949-969f-068da7887ef0.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 48.89645,
-    "lng": 2.38952,
-    "persons": 2,
-    "reviewsCount": 30,
-    "rating": 4.93,
-    "type": "Private room in condo",
-    "userId": 44484854,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-44484854/original/36c532e5-8a84-4949-969f-068da7887ef0.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 48.89645,
+    lng: 2.38952,
+    persons: 2,
+    reviewsCount: 30,
+    rating: 4.93,
+    type: "Private room in condo",
+    userId: 44484854,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [
       1, 33, 35, 611, 4, 100, 8, 40, 45, 77, 46, 15, 47, 85, 86, 91, 667, 61,
-      93, 30, 671
+      93, 30, 671,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 111,
-      "currency": "USD",
-      "total": 111,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 111,
+      currency: "USD",
+      total: 111,
+      priceItems: [
         {
-          "amount": 82
+          amount: 82,
         },
         {
-          "amount": 9
+          amount: 9,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "31884678",
-    "url": "https://www.airbnb.com/rooms/31884678",
-    "deeplink": "https://www.airbnb.com/rooms/31884678?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 4,
-    "name": "Quiet room - Private bathroom + toilet @ 5min from Paris Expo",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Issy-les-Moulineaux",
-    "images": [
+    id: "31884678",
+    url: "https://www.airbnb.com/rooms/31884678",
+    deeplink:
+      "https://www.airbnb.com/rooms/31884678?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 4,
+    name: "Quiet room - Private bathroom + toilet @ 5min from Paris Expo",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Issy-les-Moulineaux",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-31884678/original/bd194e6d-43af-4342-b3ae-d09088d2afbb.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-31884678/original/4fcedaff-6486-4909-ae5f-eb9416c33493.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-31884678/original/147bc828-0613-43e4-8f57-8880d9467d33.jpeg?im_w=720",
@@ -205,56 +212,58 @@
       "https://a0.muscache.com/im/pictures/a010603d-fae3-47e5-8b83-ae22a77dfd76.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/b9f0c4f6-2505-40fb-8dc7-a32bb39ce300.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/1f5bc1fb-a482-4ab1-8987-585ed4c33ee9.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/c17b66aa-6708-44d9-8254-4513c807287d.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/c17b66aa-6708-44d9-8254-4513c807287d.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/dff20b96-4b31-46e5-9d81-c59f5f483462.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 48.82983,
-    "lng": 2.27809,
-    "persons": 2,
-    "reviewsCount": 204,
-    "rating": 4.89,
-    "type": "Private room in condo",
-    "userId": 322299,
-    "address": "Issy-les-Moulineaux, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/dff20b96-4b31-46e5-9d81-c59f5f483462.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 48.82983,
+    lng: 2.27809,
+    persons: 2,
+    reviewsCount: 204,
+    rating: 4.89,
+    type: "Private room in condo",
+    userId: 322299,
+    address: "Issy-les-Moulineaux, Île-de-France, France",
+    amenityIds: [
       1, 129, 4, 73, 137, 10, 394, 77, 79, 21, 85, 86, 663, 280, 90, 30, 415,
-      35, 611, 36, 100, 103, 40, 41, 42, 44, 45, 46, 47, 185, 61
+      35, 611, 36, 100, 103, 40, 41, 42, 44, 45, 46, 47, 185, 61,
     ],
-    "previewAmenities": ["Wifi"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 130,
-      "currency": "USD",
-      "total": 130,
-      "priceItems": [
+    previewAmenities: ["Wifi"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 130,
+      currency: "USD",
+      total: 130,
+      priceItems: [
         {
-          "amount": 88
+          amount: 88,
         },
         {
-          "amount": 22
+          amount: 22,
         },
         {
-          "amount": 18
+          amount: 18,
         },
         {
-          "amount": 2
-        }
-      ]
-    }
+          amount: 2,
+        },
+      ],
+    },
   },
   {
-    "id": "49651214",
-    "url": "https://www.airbnb.com/rooms/49651214",
-    "deeplink": "https://www.airbnb.com/rooms/49651214?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 5,
-    "name": "Small apartment close to subway 1",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Neuilly-sur-Seine",
-    "images": [
+    id: "49651214",
+    url: "https://www.airbnb.com/rooms/49651214",
+    deeplink:
+      "https://www.airbnb.com/rooms/49651214?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 5,
+    name: "Small apartment close to subway 1",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Neuilly-sur-Seine",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-49651214/original/81b8b8d4-5d70-4ade-94c0-d1602a1476cf.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-49651214/original/21f5e545-d697-4f72-a5b7-c84b65b25571.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-49651214/original/58dde851-36a5-4e26-acd1-2688c02a6719.jpeg?im_w=720",
@@ -265,56 +274,58 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-49651214/original/cbc4659f-e28f-4308-957b-3ae2c199d5a9.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-49651214/original/eda298f3-7377-4abf-ba44-da9948529489.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-49651214/original/e9466602-4c66-4380-a244-f50ef5bb348b.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-49651214/original/9531680d-a8f9-448d-8151-18e9743b275d.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-49651214/original/9531680d-a8f9-448d-8151-18e9743b275d.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/e3027851-9df1-4d2b-bdcf-f405a7234994.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.883854,
-    "lng": 2.25981,
-    "persons": 1,
-    "reviewsCount": 89,
-    "rating": 4.34,
-    "type": "Entire rental unit",
-    "userId": 400420530,
-    "address": "Neuilly-sur-Seine, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/e3027851-9df1-4d2b-bdcf-f405a7234994.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.883854,
+    lng: 2.25981,
+    persons: 1,
+    reviewsCount: 89,
+    rating: 4.34,
+    type: "Entire rental unit",
+    userId: 400420530,
+    address: "Neuilly-sur-Seine, Île-de-France, France",
+    amenityIds: [
       1, 4, 5, 8, 11, 12, 77, 146, 21, 85, 87, 89, 91, 93, 30, 94, 95, 671, 672,
-      35, 40, 42, 45, 46, 47, 308
+      35, 40, 42, 45, 46, 47, 308,
     ],
-    "previewAmenities": ["Wifi", "Kitchen"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 71,
-      "currency": "USD",
-      "total": 71,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 71,
+      currency: "USD",
+      total: 71,
+      priceItems: [
         {
-          "amount": 56
+          amount: 56,
         },
         {
-          "amount": 1
+          amount: 1,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 4
-        }
-      ]
-    }
+          amount: 4,
+        },
+      ],
+    },
   },
   {
-    "id": "53159715",
-    "url": "https://www.airbnb.com/rooms/53159715",
-    "deeplink": "https://www.airbnb.com/rooms/53159715?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 6,
-    "name": "private room < sleep in a home>",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Paris",
-    "images": [
+    id: "53159715",
+    url: "https://www.airbnb.com/rooms/53159715",
+    deeplink:
+      "https://www.airbnb.com/rooms/53159715?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 6,
+    name: "private room < sleep in a home>",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-53159715/original/c144bc26-f570-448b-a655-f9e5daf578e6.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-53159715/original/ed0af90c-708a-4065-a74f-7a029f4c109f.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-53159715/original/fa2be03e-12eb-46bd-a239-4dbe15e3a724.jpeg?im_w=720",
@@ -340,53 +351,55 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-53159715/original/6ee7b781-28bf-4470-95b5-acf7cec2f97e.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-53159715/original/bdc05b5f-01c3-44ed-b7b6-e12423c01ccc.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-53159715/original/a94abafc-81c0-4715-b4ea-2c026de8719e.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/70689f82-d9bd-4b3d-973e-d5705b1227ba.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/70689f82-d9bd-4b3d-973e-d5705b1227ba.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/08a6043b-b497-458e-a43f-c23572720b29.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 48.86539,
-    "lng": 2.37477,
-    "persons": 3,
-    "reviewsCount": 81,
-    "rating": 4.84,
-    "type": "Private room in bed and breakfast",
-    "userId": 420918610,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/08a6043b-b497-458e-a43f-c23572720b29.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 48.86539,
+    lng: 2.37477,
+    persons: 3,
+    reviewsCount: 81,
+    rating: 4.84,
+    type: "Private room in bed and breakfast",
+    userId: 420918610,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [
       672, 129, 35, 4, 40, 104, 73, 42, 44, 77, 47, 146, 21, 85, 86, 663, 89,
-      61, 30, 671
+      61, 30, 671,
     ],
-    "previewAmenities": ["Wifi"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 91,
-      "currency": "USD",
-      "total": 91,
-      "priceItems": [
+    previewAmenities: ["Wifi"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 91,
+      currency: "USD",
+      total: 91,
+      priceItems: [
         {
-          "amount": 77
+          amount: 77,
         },
         {
-          "amount": 13
+          amount: 13,
         },
         {
-          "amount": 1
-        }
-      ]
-    }
+          amount: 1,
+        },
+      ],
+    },
   },
   {
-    "id": "867745400048734017",
-    "url": "https://www.airbnb.com/rooms/867745400048734017",
-    "deeplink": "https://www.airbnb.com/rooms/867745400048734017?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 7,
-    "name": "Artist Cozy Studio",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Paris",
-    "images": [
+    id: "867745400048734017",
+    url: "https://www.airbnb.com/rooms/867745400048734017",
+    deeplink:
+      "https://www.airbnb.com/rooms/867745400048734017?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 7,
+    name: "Artist Cozy Studio",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-867745400048734017/original/93acf76e-e1fe-4a16-b3a4-6eb4daa3e829.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/35f23f06-c9f0-4ae9-82e0-2be38c878d62.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-867745400048734017/original/d9305ff5-3cde-44de-9630-0a0e2758304d.jpeg?im_w=720",
@@ -397,52 +410,54 @@
       "https://a0.muscache.com/im/pictures/fc3f7699-ae8f-4865-ae09-8a23297e3b37.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/b54b961b-15ea-4ac3-9716-fc4fd5b82dd7.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/900b1957-ac56-466b-b405-5c5d3f150bba.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/bd46e587-90fe-4022-a825-fcd5350f98d1.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/bd46e587-90fe-4022-a825-fcd5350f98d1.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/7ac9cc48-6b0d-4293-b204-14870b853e3c.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.8613312404689,
-    "lng": 2.3498901634065104,
-    "persons": 2,
-    "reviewsCount": 2,
-    "type": "Private room in rental unit",
-    "userId": 505546227,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/7ac9cc48-6b0d-4293-b204-14870b853e3c.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.8613312404689,
+    lng: 2.3498901634065104,
+    persons: 2,
+    reviewsCount: 2,
+    type: "Private room in rental unit",
+    userId: 505546227,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [
       672, 129, 35, 611, 4, 36, 39, 8, 40, 41, 77, 145, 146, 85, 661, 89, 665,
-      30
+      30,
     ],
-    "previewAmenities": ["Wifi", "Kitchen"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 128,
-      "currency": "USD",
-      "total": 128,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 128,
+      currency: "USD",
+      total: 128,
+      priceItems: [
         {
-          "amount": 105
+          amount: 105,
         },
         {
-          "amount": 18
+          amount: 18,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "15216293",
-    "url": "https://www.airbnb.com/rooms/15216293",
-    "deeplink": "https://www.airbnb.com/rooms/15216293?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 8,
-    "name": "Equipped studio near Montmartre",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 2,
-    "city": "Paris",
-    "images": [
+    id: "15216293",
+    url: "https://www.airbnb.com/rooms/15216293",
+    deeplink:
+      "https://www.airbnb.com/rooms/15216293?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 8,
+    name: "Equipped studio near Montmartre",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 2,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-15216293/original/295d3463-bb0e-4cde-b2e1-7a722cf58377.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-15216293/original/7f4da621-8747-4cbd-8f03-11e702fe8ce4.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-15216293/original/6cae67d8-ef71-4988-befc-38509c223b71.jpeg?im_w=720",
@@ -463,54 +478,56 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-15216293/original/7196e1f4-4389-4b06-81ae-6e639b371536.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-15216293/original/8304e779-131a-42e3-801f-95e37b19a2bf.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-15216293/original/5fac58d5-249d-477b-b9d7-5591741be48a.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/c714f40f-ecab-47ac-a6f2-002fa36712c2.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/c714f40f-ecab-47ac-a6f2-002fa36712c2.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/725e4785-3fcb-41e0-8be2-f1f845c7834c.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.894087,
-    "lng": 2.3411119,
-    "persons": 2,
-    "reviewsCount": 7,
-    "rating": 5,
-    "type": "Entire condo",
-    "userId": 48072063,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/725e4785-3fcb-41e0-8be2-f1f845c7834c.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.894087,
+    lng: 2.3411119,
+    persons: 2,
+    reviewsCount: 7,
+    rating: 5,
+    type: "Entire condo",
+    userId: 48072063,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [
       4, 8, 73, 137, 10, 394, 331, 77, 145, 85, 86, 663, 665, 90, 91, 667, 92,
       93, 30, 94, 95, 671, 672, 33, 34, 35, 611, 37, 103, 40, 104, 41, 42, 44,
-      236, 45, 46, 625, 51, 54, 185
+      236, 45, 46, 625, 51, 54, 185,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 121,
-      "currency": "USD",
-      "total": 121,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 121,
+      currency: "USD",
+      total: 121,
+      priceItems: [
         {
-          "amount": 99
+          amount: 99,
         },
         {
-          "amount": 17
+          amount: 17,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "720325368985631641",
-    "url": "https://www.airbnb.com/rooms/720325368985631641",
-    "deeplink": "https://www.airbnb.com/rooms/720325368985631641?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 9,
-    "name": "Parisian accommodation with central & quiet charm",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 2,
-    "city": "Paris",
-    "images": [
+    id: "720325368985631641",
+    url: "https://www.airbnb.com/rooms/720325368985631641",
+    deeplink:
+      "https://www.airbnb.com/rooms/720325368985631641?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 9,
+    name: "Parisian accommodation with central & quiet charm",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 2,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-666692431688913489/original/8916f7b8-c788-4c26-8c9e-c86728298a25.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/e97c7d4a-1fe3-42bf-b7f7-c6e7dcb55618.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/6f63b61a-38f3-477c-bda1-a9c60b1bb9db.jpg?im_w=720",
@@ -530,54 +547,56 @@
       "https://a0.muscache.com/im/pictures/d719ce2d-a73e-45fc-8a63-5fa28daacf36.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/ac350615-e20c-409a-8b41-ad976ec087de.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-666692431688913489/original/23b96179-e6e3-4a9d-99e1-8ad0afa3d7a8.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/3bfac737-98ff-4bb5-ae6f-bec38369e2ba.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/3bfac737-98ff-4bb5-ae6f-bec38369e2ba.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/e3016418-40f2-4fd2-b360-3f2c8cbc79f5.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.87749,
-    "lng": 2.35659,
-    "persons": 5,
-    "reviewsCount": 56,
-    "rating": 4.54,
-    "type": "Private room in condo",
-    "userId": 206643002,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/e3016418-40f2-4fd2-b360-3f2c8cbc79f5.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.87749,
+    lng: 2.35659,
+    persons: 5,
+    reviewsCount: 56,
+    rating: 4.54,
+    type: "Private room in condo",
+    userId: 206643002,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [
       4, 8, 72, 73, 137, 394, 522, 77, 79, 657, 85, 86, 663, 89, 665, 90, 91,
       667, 93, 30, 94, 415, 671, 96, 672, 611, 39, 40, 104, 41, 44, 236, 45, 47,
-      625, 51, 54, 251, 61
+      625, 51, 54, 251, 61,
     ],
-    "previewAmenities": ["Wifi", "Kitchen"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 133,
-      "currency": "USD",
-      "total": 133,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 133,
+      currency: "USD",
+      total: 133,
+      priceItems: [
         {
-          "amount": 110
+          amount: 110,
         },
         {
-          "amount": 18
+          amount: 18,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "2150160",
-    "url": "https://www.airbnb.com/rooms/2150160",
-    "deeplink": "https://www.airbnb.com/rooms/2150160?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 10,
-    "name": "Charming room in a charming flat",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Paris",
-    "images": [
+    id: "2150160",
+    url: "https://www.airbnb.com/rooms/2150160",
+    deeplink:
+      "https://www.airbnb.com/rooms/2150160?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 10,
+    name: "Charming room in a charming flat",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/airflow/Hosting-2150160/original/e0e23de6-a3aa-45be-94f0-e5ff7958c5e8.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/airflow/Hosting-2150160/original/20278634-c22e-47d1-a396-5f07074e6d56.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/7b165168-cc07-4a66-b52e-487415daef68.jpg?im_w=720",
@@ -607,59 +626,61 @@
       "https://a0.muscache.com/im/pictures/airflow/Hosting-2150160/original/5d941f08-0424-46fd-923d-971166b3530a.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/35768243/cf00d011_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/36066076/d1c71a11_original.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/36066127/4be5c3a8_original.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/36066127/4be5c3a8_original.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-3904491/original/3b5bc385-b2e7-40ee-9ca7-7af28b00579c.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.86279,
-    "lng": 2.38559,
-    "persons": 2,
-    "reviewsCount": 529,
-    "rating": 4.51,
-    "type": "Private room in rental unit",
-    "userId": 3904491,
-    "address": "Paris, IDF, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-3904491/original/3b5bc385-b2e7-40ee-9ca7-7af28b00579c.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.86279,
+    lng: 2.38559,
+    persons: 2,
+    reviewsCount: 529,
+    rating: 4.51,
+    type: "Private room in rental unit",
+    userId: 3904491,
+    address: "Paris, IDF, France",
+    amenityIds: [
       3, 4, 6, 8, 137, 10, 394, 522, 11, 12, 657, 21, 663, 665, 27, 667, 28, 30,
       31, 287, 415, 671, 672, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 44, 45,
       46, 50, 51, 308, 54, 57, 185, 59, 60, 61, 62, 63, 64, 66, 322, 68, 69, 70,
       71, 72, 73, 201, 74, 75, 77, 79, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94,
-      95, 96, 611, 100, 103, 104, 236, 625, 632, 251
+      95, 96, 611, 100, 103, 104, 236, 625, 632, 251,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 99,
-      "currency": "USD",
-      "total": 99,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 99,
+      currency: "USD",
+      total: 99,
+      priceItems: [
         {
-          "amount": 67
+          amount: 67,
         },
         {
-          "amount": 14
+          amount: 14,
         },
         {
-          "amount": 14
+          amount: 14,
         },
         {
-          "amount": 4
-        }
-      ]
-    }
+          amount: 4,
+        },
+      ],
+    },
   },
   {
-    "id": "860663943931949474",
-    "url": "https://www.airbnb.com/rooms/860663943931949474",
-    "deeplink": "https://www.airbnb.com/rooms/860663943931949474?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 11,
-    "name": "Studio aux Portes de Paris",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Gennevilliers",
-    "images": [
+    id: "860663943931949474",
+    url: "https://www.airbnb.com/rooms/860663943931949474",
+    deeplink:
+      "https://www.airbnb.com/rooms/860663943931949474?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 11,
+    name: "Studio aux Portes de Paris",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Gennevilliers",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-860663943931949474/original/23cd84a1-61af-4618-aaaf-f9336d689ef2.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-860663943931949474/original/8b46e69d-d6fd-4100-8925-9714bfefa0dd.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-860663943931949474/original/4e617141-fb82-41af-9ca5-9c4db0c3d633.jpeg?im_w=720",
@@ -671,54 +692,56 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-860663943931949474/original/06d7580f-1bfc-4a27-bbe4-00fdea9ae909.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-860663943931949474/original/bcf4c5cd-0009-45a4-8eb5-5b7f974bcd6f.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-860663943931949474/original/13d677b9-4ab2-4f4c-8913-506bce540c20.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-860663943931949474/original/fa30e106-7034-44e5-a337-fa1f4c7aca39.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-860663943931949474/original/fa30e106-7034-44e5-a337-fa1f4c7aca39.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_policy=medq_w_text&im_t=O&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.93083,
-    "lng": 2.29443,
-    "persons": 2,
-    "reviewsCount": 4,
-    "rating": 5,
-    "type": "Entire rental unit",
-    "userId": 421079139,
-    "address": "Gennevilliers, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_policy=medq_w_text&im_t=O&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.93083,
+    lng: 2.29443,
+    persons: 2,
+    reviewsCount: 4,
+    rating: 5,
+    type: "Entire rental unit",
+    userId: 421079139,
+    address: "Gennevilliers, Île-de-France, France",
+    amenityIds: [
       1, 4, 8, 73, 137, 11, 12, 77, 79, 85, 86, 87, 280, 89, 665, 90, 91, 667,
       93, 30, 94, 415, 671, 672, 33, 34, 98, 35, 611, 100, 103, 40, 104, 41, 44,
-      236, 45, 46, 625, 51, 179, 308, 53
+      236, 45, 46, 625, 51, 179, 308, 53,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 65,
-      "currency": "USD",
-      "total": 65,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 65,
+      currency: "USD",
+      total: 65,
+      priceItems: [
         {
-          "amount": 53
+          amount: 53,
         },
         {
-          "amount": 9
+          amount: 9,
         },
         {
-          "amount": 3
-        }
-      ]
-    }
+          amount: 3,
+        },
+      ],
+    },
   },
   {
-    "id": "770331968728342345",
-    "url": "https://www.airbnb.com/rooms/770331968728342345",
-    "deeplink": "https://www.airbnb.com/rooms/770331968728342345?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 12,
-    "name": "Beautiful room completely renovated",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Paris",
-    "images": [
+    id: "770331968728342345",
+    url: "https://www.airbnb.com/rooms/770331968728342345",
+    deeplink:
+      "https://www.airbnb.com/rooms/770331968728342345?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 12,
+    name: "Beautiful room completely renovated",
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 1,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-770331968728342345/original/a9cbd61b-7b33-43ca-a71f-64840646c768.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-770331968728342345/original/13c7eb1a-b301-471c-90c7-b93cd7590d20.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-770331968728342345/original/302f9e51-e4ff-417c-90ae-2e61e0a34168.jpeg?im_w=720",
@@ -733,58 +756,60 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-770331968728342345/original/833830cf-12ce-4df3-a016-1cfdbdf2fc45.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-770331968728342345/original/31fd85b4-dbb7-49ff-9f29-816c5bee9e74.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-770331968728342345/original/cb901ffb-82d3-40ac-a2f1-545b7dc19c57.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-770331968728342345/original/91515744-6459-4db0-8d79-6ffd60d329a9.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-770331968728342345/original/91515744-6459-4db0-8d79-6ffd60d329a9.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/51f74d87-b019-4cd2-a502-067b5b34f60e.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.840212503630745,
-    "lng": 2.3290130920654217,
-    "persons": 2,
-    "reviewsCount": 28,
-    "rating": 4.79,
-    "type": "Private room in rental unit",
-    "userId": 467026723,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/51f74d87-b019-4cd2-a502-067b5b34f60e.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.840212503630745,
+    lng: 2.3290130920654217,
+    persons: 2,
+    reviewsCount: 28,
+    rating: 4.79,
+    type: "Private room in rental unit",
+    userId: 467026723,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [
       1, 129, 4, 8, 392, 137, 10, 394, 522, 15, 657, 21, 663, 665, 667, 30, 287,
       415, 671, 672, 33, 34, 40, 41, 42, 44, 45, 46, 47, 308, 61, 66, 77, 79,
       210, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 98, 611, 103, 104, 236,
-      625, 500
+      625, 500,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 157,
-      "currency": "USD",
-      "total": 157,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 157,
+      currency: "USD",
+      total: 157,
+      priceItems: [
         {
-          "amount": 119
+          amount: 119,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 22
+          amount: 22,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "570823961081737179",
-    "url": "https://www.airbnb.com/rooms/570823961081737179",
-    "deeplink": "https://www.airbnb.com/rooms/570823961081737179?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 13,
-    "name": "Studio Entire Daguerre",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 2,
-    "city": "Paris",
-    "images": [
+    id: "570823961081737179",
+    url: "https://www.airbnb.com/rooms/570823961081737179",
+    deeplink:
+      "https://www.airbnb.com/rooms/570823961081737179?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 13,
+    name: "Studio Entire Daguerre",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 2,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/fcc96832-60f7-400a-87f7-e4d4f9a11055.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-570823961081737179/original/c013e5f0-93cf-4bea-a1a6-665ca849d095.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-570823961081737179/original/e7b876ab-5539-4224-bb94-97bd29b0fa03.jpeg?im_w=720",
@@ -797,110 +822,114 @@
       "https://a0.muscache.com/im/pictures/dee2c371-7bfc-4a84-8e00-cf84a6c8d270.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/4f162a7b-8720-4718-b6a9-aeb03e7a585b.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/4dac7e78-3c04-4b00-9a5a-61f354f6b446.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/51746f9d-313c-45c4-81f2-1dca2442db34.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/51746f9d-313c-45c4-81f2-1dca2442db34.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a051fa2a-c0eb-45eb-8d4f-cd40e9c32c50.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.83536,
-    "lng": 2.32782,
-    "persons": 2,
-    "reviewsCount": 76,
-    "rating": 4.04,
-    "type": "Private room in rental unit",
-    "userId": 404093904,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/a051fa2a-c0eb-45eb-8d4f-cd40e9c32c50.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.83536,
+    lng: 2.32782,
+    persons: 2,
+    reviewsCount: 76,
+    rating: 4.04,
+    type: "Private room in rental unit",
+    userId: 404093904,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [
       1, 4, 8, 137, 394, 77, 146, 85, 86, 87, 88, 89, 665, 91, 93, 30, 94, 415,
-      672, 33, 35, 611, 40, 44, 236, 45, 625, 51, 308, 54, 510
+      672, 33, 35, 611, 40, 44, 236, 45, 625, 51, 308, 54, 510,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 91,
-      "currency": "USD",
-      "total": 91,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 91,
+      currency: "USD",
+      total: 91,
+      priceItems: [
         {
-          "amount": 74
+          amount: 74,
         },
         {
-          "amount": 12
+          amount: 12,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "631708056804155314",
-    "url": "https://www.airbnb.com/rooms/631708056804155314",
-    "deeplink": "https://www.airbnb.com/rooms/631708056804155314?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 14,
-    "name": "Charming 17m2 room in Paris/lovely room Paris",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Paris",
-    "images": [
+    id: "631708056804155314",
+    url: "https://www.airbnb.com/rooms/631708056804155314",
+    deeplink:
+      "https://www.airbnb.com/rooms/631708056804155314?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 14,
+    name: "Charming 17m2 room in Paris/lovely room Paris",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-631708056804155314/original/fab1f719-a6ea-47ff-90c3-df7abeddb325.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-631708056804155314/original/64e69e7a-50be-4ddf-9013-e0f53e7115de.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-631708056804155314/original/2c1fcb95-7cca-4f34-a0c8-3e02029460b0.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-631708056804155314/original/6c9a69dc-3b1d-4991-b604-d563f7a8aadc.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-631708056804155314/original/74aef3de-1ad8-401e-8300-b433d40adc23.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-631708056804155314/original/57b49f6a-890b-4a51-9fec-d47d22e3380d.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-631708056804155314/original/5e89c902-95ae-46c7-a262-8a89cfa32368.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-631708056804155314/original/5e89c902-95ae-46c7-a262-8a89cfa32368.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/7ddbcdd5-4f5e-4921-a354-54183c6db1fa.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.887,
-    "lng": 2.35902,
-    "persons": 1,
-    "reviewsCount": 94,
-    "rating": 4.71,
-    "type": "Private room in rental unit",
-    "userId": 430904055,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/7ddbcdd5-4f5e-4921-a354-54183c6db1fa.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.887,
+    lng: 2.35902,
+    persons: 1,
+    reviewsCount: 94,
+    rating: 4.71,
+    type: "Private room in rental unit",
+    userId: 430904055,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [
       4, 69, 8, 73, 137, 394, 77, 15, 79, 657, 21, 85, 86, 23, 663, 89, 665, 90,
       27, 91, 667, 92, 93, 30, 94, 95, 415, 96, 672, 33, 98, 35, 227, 611, 36,
-      37, 103, 40, 104, 41, 44, 45, 46, 47, 308, 185, 251, 61
+      37, 103, 40, 104, 41, 44, 45, 46, 47, 308, 185, 251, 61,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 83,
-      "currency": "USD",
-      "total": 83,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 83,
+      currency: "USD",
+      total: 83,
+      priceItems: [
         {
-          "amount": 63
+          amount: 63,
         },
         {
-          "amount": 5
+          amount: 5,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 4
-        }
-      ]
-    }
+          amount: 4,
+        },
+      ],
+    },
   },
   {
-    "id": "9975524",
-    "url": "https://www.airbnb.com/rooms/9975524",
-    "deeplink": "https://www.airbnb.com/rooms/9975524?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 15,
-    "name": "Shared space",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Saint-Denis",
-    "images": [
+    id: "9975524",
+    url: "https://www.airbnb.com/rooms/9975524",
+    deeplink:
+      "https://www.airbnb.com/rooms/9975524?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 15,
+    name: "Shared space",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Saint-Denis",
+    images: [
       "https://a0.muscache.com/im/pictures/d29592d6-1ae6-443c-b9fc-1333ae4b38b0.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/43f160c7-585d-4441-b6d3-cd4fbdeb6a43.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/ecbd505f-92c1-4f0c-a1ab-3a3f2eabd553.jpg?im_w=720",
@@ -930,54 +959,56 @@
       "https://a0.muscache.com/im/pictures/537d8147-ebf3-41c2-b099-8a0bf9b254f7.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/caba9b50-83f2-4104-bb66-d30b619cbd42.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/bd7d3b9d-9f04-4fbf-9fe1-0ecd3e460584.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/eac3d16c-44ac-468c-ba19-f66f3ec8078d.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/eac3d16c-44ac-468c-ba19-f66f3ec8078d.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/b34f6c73-0b90-4c35-b4fd-ab3e0d1e0e0d.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": true,
-    "lat": 48.90553,
-    "lng": 2.35935,
-    "persons": 2,
-    "reviewsCount": 689,
-    "rating": 4.63,
-    "type": "Shared room in rental unit",
-    "userId": 51258167,
-    "address": "Saint-Denis, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/b34f6c73-0b90-4c35-b4fd-ab3e0d1e0e0d.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: true,
+    lat: 48.90553,
+    lng: 2.35935,
+    persons: 2,
+    reviewsCount: 689,
+    rating: 4.63,
+    type: "Shared room in rental unit",
+    userId: 51258167,
+    address: "Saint-Denis, Île-de-France, France",
+    amenityIds: [
       1, 3, 131, 4, 5, 6, 8, 10, 11, 12, 77, 16, 21, 23, 280, 89, 153, 90, 91,
       28, 92, 93, 30, 94, 31, 95, 287, 96, 33, 34, 35, 36, 100, 40, 41, 44, 45,
-      109, 47, 179, 127
+      109, 47, 179, 127,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 41,
-      "currency": "USD",
-      "total": 41,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 41,
+      currency: "USD",
+      total: 41,
+      priceItems: [
         {
-          "amount": 33
+          amount: 33,
         },
         {
-          "amount": 6
+          amount: 6,
         },
         {
-          "amount": 2
-        }
-      ]
-    }
+          amount: 2,
+        },
+      ],
+    },
   },
   {
-    "id": "314288",
-    "url": "https://www.airbnb.com/rooms/314288",
-    "deeplink": "https://www.airbnb.com/rooms/314288?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 16,
-    "name": "Bed & breakfast Paris Gare de Lyon",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Paris",
-    "images": [
+    id: "314288",
+    url: "https://www.airbnb.com/rooms/314288",
+    deeplink:
+      "https://www.airbnb.com/rooms/314288?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 16,
+    name: "Bed & breakfast Paris Gare de Lyon",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/3486728/e9848d10_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/3486764/39336e86_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/3487252/864a764a_original.jpg?im_w=720",
@@ -990,53 +1021,55 @@
       "https://a0.muscache.com/im/pictures/74576283/78e272ce_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/74576385/df5a3e20_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/74576895/83e27b56_original.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/74576955/d149d94a_original.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/74576955/d149d94a_original.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/users/1614803/profile_pic/1326754284/original.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 48.84537,
-    "lng": 2.38132,
-    "persons": 2,
-    "reviewsCount": 489,
-    "rating": 4.81,
-    "type": "Private room in bed and breakfast",
-    "userId": 1614803,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/users/1614803/profile_pic/1326754284/original.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 48.84537,
+    lng: 2.38132,
+    persons: 2,
+    reviewsCount: 489,
+    rating: 4.81,
+    type: "Private room in bed and breakfast",
+    userId: 1614803,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [
       3, 4, 6, 73, 10, 394, 522, 77, 79, 16, 21, 85, 663, 665, 28, 30, 31, 287,
-      671, 35, 611, 37, 103, 40, 104, 41, 42, 44, 236, 45, 46, 47, 50, 51, 54
+      671, 35, 611, 37, 103, 40, 104, 41, 42, 44, 236, 45, 46, 47, 50, 51, 54,
     ],
-    "previewAmenities": ["Wifi"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 142,
-      "currency": "USD",
-      "total": 142,
-      "priceItems": [
+    previewAmenities: ["Wifi"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 142,
+      currency: "USD",
+      total: 142,
+      priceItems: [
         {
-          "amount": 121
+          amount: 121,
         },
         {
-          "amount": 20
+          amount: 20,
         },
         {
-          "amount": 1
-        }
-      ]
-    }
+          amount: 1,
+        },
+      ],
+    },
   },
   {
-    "id": "657978216301639724",
-    "url": "https://www.airbnb.com/rooms/657978216301639724",
-    "deeplink": "https://www.airbnb.com/rooms/657978216301639724?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 17,
-    "name": "Room for Parisian getaway",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Paris",
-    "images": [
+    id: "657978216301639724",
+    url: "https://www.airbnb.com/rooms/657978216301639724",
+    deeplink:
+      "https://www.airbnb.com/rooms/657978216301639724?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 17,
+    name: "Room for Parisian getaway",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-657978216301639724/original/79f4afa7-331d-4b74-aff6-c61cf6e3498c.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-657978216301639724/original/5f0f2056-6b72-4ef4-8b23-c779ed3348ef.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-657978216301639724/original/913554a9-b23e-4027-842c-776fcde105dc.jpeg?im_w=720",
@@ -1047,56 +1080,58 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-657978216301639724/original/90a7dff5-7bdb-416e-aac6-fcfefa9f0c76.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-657978216301639724/original/cc36f112-fb50-411b-959b-e49aa200c5f6.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-657978216301639724/original/73a6c02f-75a3-4519-803e-32082a4eda52.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-657978216301639724/original/c3e16925-50fd-47da-90a6-9865b0461e2f.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-657978216301639724/original/c3e16925-50fd-47da-90a6-9865b0461e2f.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/users/28701046/profile_pic/1425414729/original.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 48.86572,
-    "lng": 2.36777,
-    "persons": 1,
-    "reviewsCount": 45,
-    "rating": 4.98,
-    "type": "Private room in rental unit",
-    "userId": 28701046,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/users/28701046/profile_pic/1425414729/original.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 48.86572,
+    lng: 2.36777,
+    persons: 1,
+    reviewsCount: 45,
+    rating: 4.98,
+    type: "Private room in rental unit",
+    userId: 28701046,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [
       322, 131, 4, 8, 73, 137, 77, 79, 85, 86, 665, 90, 91, 667, 92, 93, 30, 94,
-      95, 415, 33, 611, 40, 41, 44, 236, 45, 46, 625, 308, 251
+      95, 415, 33, 611, 40, 41, 44, 236, 45, 46, 625, 308, 251,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 109,
-      "currency": "USD",
-      "total": 109,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 109,
+      currency: "USD",
+      total: 109,
+      priceItems: [
         {
-          "amount": 78
+          amount: 78,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "23547316",
-    "url": "https://www.airbnb.com/rooms/23547316",
-    "deeplink": "https://www.airbnb.com/rooms/23547316?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 18,
-    "name": "Nice flat in the near suburbs of Paris (Arcueil)",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Arcueil",
-    "images": [
+    id: "23547316",
+    url: "https://www.airbnb.com/rooms/23547316",
+    deeplink:
+      "https://www.airbnb.com/rooms/23547316?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 18,
+    name: "Nice flat in the near suburbs of Paris (Arcueil)",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Arcueil",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-23547316/original/5c06984b-1d36-42df-b50c-1326ab512664.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/bee2680e-537c-4255-b8a4-a04b05952d01.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/f2e7f97e-804e-4e37-9f36-7788fb561041.jpg?im_w=720",
@@ -1110,109 +1145,113 @@
       "https://a0.muscache.com/im/pictures/bec64fbb-5988-4ac6-b24e-93b97e6b0a1a.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-23547316/original/f8666337-eb6c-422e-9e0a-88576faec5ab.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-23547316/original/22a14ec6-1034-4865-b28b-64a216cc3abd.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-23547316/original/7e8b76f5-671b-4b63-bf2d-ada6a59d0307.png?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-23547316/original/7e8b76f5-671b-4b63-bf2d-ada6a59d0307.png?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/797e2881-d5b7-4faf-b794-176e7d164ec9.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 48.80877,
-    "lng": 2.33266,
-    "persons": 2,
-    "reviewsCount": 272,
-    "rating": 4.97,
-    "type": "Private room in rental unit",
-    "userId": 6373861,
-    "address": "Arcueil, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/797e2881-d5b7-4faf-b794-176e7d164ec9.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 48.80877,
+    lng: 2.33266,
+    persons: 2,
+    reviewsCount: 272,
+    rating: 4.97,
+    type: "Private room in rental unit",
+    userId: 6373861,
+    address: "Arcueil, Île-de-France, France",
+    amenityIds: [
       129, 4, 8, 9, 137, 394, 522, 16, 21, 23, 663, 280, 665, 667, 30, 415, 671,
       672, 33, 35, 36, 37, 38, 39, 40, 41, 42, 44, 45, 46, 47, 51, 308, 54, 61,
       73, 77, 79, 85, 86, 88, 89, 90, 91, 347, 92, 476, 93, 94, 95, 96, 227,
-      611, 100, 103, 236, 251
+      611, 100, 103, 236, 251,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Free parking", "Washer"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 67,
-      "currency": "USD",
-      "total": 67,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Free parking", "Washer"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 67,
+      currency: "USD",
+      total: 67,
+      priceItems: [
         {
-          "amount": 55
+          amount: 55,
         },
         {
-          "amount": 9
+          amount: 9,
         },
         {
-          "amount": 3
-        }
-      ]
-    }
+          amount: 3,
+        },
+      ],
+    },
   },
   {
-    "id": "13000631",
-    "url": "https://www.airbnb.com/rooms/13000631",
-    "deeplink": "https://www.airbnb.com/rooms/13000631?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 19,
-    "name": "New Room",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Saint-Denis",
-    "images": [
+    id: "13000631",
+    url: "https://www.airbnb.com/rooms/13000631",
+    deeplink:
+      "https://www.airbnb.com/rooms/13000631?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 19,
+    name: "New Room",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Saint-Denis",
+    images: [
       "https://a0.muscache.com/im/pictures/cd9239b7-a4cc-4c3d-9473-fabf6cef85a9.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e6d7e53d-9e38-46dc-96af-6c54cc9b95c1.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/ae56d62c-1a9c-4969-a988-04fb2c540fa5.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/2f4bea6b-8a33-4584-ad2a-699d3c32f17e.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/218adf26-7cf3-43c7-b4ee-085bc0232240.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/218adf26-7cf3-43c7-b4ee-085bc0232240.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f76f97d0-fdc5-427d-a206-6322b86e68ea.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.93897,
-    "lng": 2.3615,
-    "persons": 2,
-    "reviewsCount": 360,
-    "rating": 4.71,
-    "type": "Private room in rental unit",
-    "userId": 71670211,
-    "address": "Saint-Denis, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/f76f97d0-fdc5-427d-a206-6322b86e68ea.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.93897,
+    lng: 2.3615,
+    persons: 2,
+    reviewsCount: 360,
+    rating: 4.71,
+    type: "Private room in rental unit",
+    userId: 71670211,
+    address: "Saint-Denis, Île-de-France, France",
+    amenityIds: [
       96, 33, 3, 35, 4, 100, 8, 40, 41, 44, 45, 77, 46, 49, 50, 21, 23, 91, 28,
-      93, 30, 94, 95
+      93, 30, 94, 95,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 49,
-      "currency": "USD",
-      "total": 49,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 49,
+      currency: "USD",
+      total: 49,
+      priceItems: [
         {
-          "amount": 32
+          amount: 32,
         },
         {
-          "amount": 8
+          amount: 8,
         },
         {
-          "amount": 7
+          amount: 7,
         },
         {
-          "amount": 2
-        }
-      ]
-    }
+          amount: 2,
+        },
+      ],
+    },
   },
   {
-    "id": "28377107",
-    "url": "https://www.airbnb.com/rooms/28377107",
-    "deeplink": "https://www.airbnb.com/rooms/28377107?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 20,
-    "name": "quiet studio with a view",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 2,
-    "city": "Paris",
-    "images": [
+    id: "28377107",
+    url: "https://www.airbnb.com/rooms/28377107",
+    deeplink:
+      "https://www.airbnb.com/rooms/28377107?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 20,
+    name: "quiet studio with a view",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 2,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/d09cb87a-337b-498b-9cfb-056b3fb34d40.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/a029550f-b40b-4604-bf8e-5f6c380ae34e.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5860f968-2028-41e0-a7e2-f16bb61d94b8.jpg?im_w=720",
@@ -1225,50 +1264,52 @@
       "https://a0.muscache.com/im/pictures/8679850c-789b-4996-bfff-140acadb2f19.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/1496ab96-b026-4398-ac01-a6cd78ba4ec8.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/62f5d68e-45dc-40bd-bda9-b6a6a5e5d948.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/9bb459e8-e7f0-4be2-ad5b-db48ba8f27c4.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/9bb459e8-e7f0-4be2-ad5b-db48ba8f27c4.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/179745ab-9b22-41c5-902d-16b519526e15.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.84529,
-    "lng": 2.34633,
-    "persons": 2,
-    "reviewsCount": 153,
-    "rating": 4.43,
-    "type": "Entire rental unit",
-    "userId": 136561923,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [129, 21, 8, 90, 91, 93],
-    "previewAmenities": ["Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 129,
-      "currency": "USD",
-      "total": 129,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/179745ab-9b22-41c5-902d-16b519526e15.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.84529,
+    lng: 2.34633,
+    persons: 2,
+    reviewsCount: 153,
+    rating: 4.43,
+    type: "Entire rental unit",
+    userId: 136561923,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [129, 21, 8, 90, 91, 93],
+    previewAmenities: ["Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 129,
+      currency: "USD",
+      total: 129,
+      priceItems: [
         {
-          "amount": 106
+          amount: 106,
         },
         {
-          "amount": 18
+          amount: 18,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "786694",
-    "url": "https://www.airbnb.com/rooms/786694",
-    "deeplink": "https://www.airbnb.com/rooms/786694?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 21,
-    "name": "Bedroom in Vincennes near Paris",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Vincennes",
-    "images": [
+    id: "786694",
+    url: "https://www.airbnb.com/rooms/786694",
+    deeplink:
+      "https://www.airbnb.com/rooms/786694?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 21,
+    name: "Bedroom in Vincennes near Paris",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Vincennes",
+    images: [
       "https://a0.muscache.com/im/pictures/d2cef07b-e3c6-45ca-8689-5a0308238472.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/241f9a8d-ccd8-47c4-9b8f-5a2c3400d085.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/73e2d18c-5140-47f0-9194-88196ee9b2b3.jpg?im_w=720",
@@ -1281,53 +1322,55 @@
       "https://a0.muscache.com/im/pictures/8e08ea10-6d72-4922-b242-1b30a3284bc8.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/7d3d68a4-0e71-4056-a9b7-9a68c520e82c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/f2787876-9de5-4f0d-82b0-796e4519a0c9.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/c634e812-917d-43ad-9bd4-6e31b0d5f721.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/c634e812-917d-43ad-9bd4-6e31b0d5f721.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/cfaa0e83-1376-4a42-86fa-968e914f82e3.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 48.84758,
-    "lng": 2.42091,
-    "persons": 2,
-    "reviewsCount": 119,
-    "rating": 4.91,
-    "type": "Entire rental unit",
-    "userId": 3366635,
-    "address": "Vincennes, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/cfaa0e83-1376-4a42-86fa-968e914f82e3.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 48.84758,
+    lng: 2.42091,
+    persons: 2,
+    reviewsCount: 119,
+    rating: 4.91,
+    type: "Entire rental unit",
+    userId: 3366635,
+    address: "Vincennes, Île-de-France, France",
+    amenityIds: [
       4, 8, 137, 79, 16, 21, 85, 86, 89, 90, 91, 667, 28, 92, 93, 30, 94, 31,
-      95, 672, 33, 35, 611, 40, 44, 236, 45, 46, 625, 308, 251, 61
+      95, 672, 33, 35, 611, 40, 44, 236, 45, 46, 625, 308, 251, 61,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 101,
-      "currency": "USD",
-      "total": 101,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 101,
+      currency: "USD",
+      total: 101,
+      priceItems: [
         {
-          "amount": 82
+          amount: 82,
         },
         {
-          "amount": 14
+          amount: 14,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "2642991",
-    "url": "https://www.airbnb.com/rooms/2642991",
-    "deeplink": "https://www.airbnb.com/rooms/2642991?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 22,
-    "name": "Charming Room in an Inspiring Flat ",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Paris",
-    "images": [
+    id: "2642991",
+    url: "https://www.airbnb.com/rooms/2642991",
+    deeplink:
+      "https://www.airbnb.com/rooms/2642991?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 22,
+    name: "Charming Room in an Inspiring Flat ",
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 1,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/airflow/Hosting-2642991/original/54ef26e1-d380-45e7-8239-3871ad05def4.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/airflow/Hosting-2642991/original/51715c44-0b7c-4261-8bcf-8a284221dc24.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/airflow/Hosting-2642991/original/8412c67e-adc2-46ab-b260-198749cc23fa.jpg?im_w=720",
@@ -1355,58 +1398,60 @@
       "https://a0.muscache.com/im/pictures/37682714/5cf5b8f9_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/37682727/641b370d_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/37682738/49ba24e2_original.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/37682751/065b577c_original.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/37682751/065b577c_original.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-3904491/original/3b5bc385-b2e7-40ee-9ca7-7af28b00579c.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.86397750450205,
-    "lng": 2.3864349438825725,
-    "persons": 2,
-    "reviewsCount": 437,
-    "rating": 4.55,
-    "type": "Private room in rental unit",
-    "userId": 3904491,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-3904491/original/3b5bc385-b2e7-40ee-9ca7-7af28b00579c.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.86397750450205,
+    lng: 2.3864349438825725,
+    persons: 2,
+    reviewsCount: 437,
+    rating: 4.55,
+    type: "Private room in rental unit",
+    userId: 3904491,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [
       4, 6, 8, 137, 10, 11, 12, 21, 665, 27, 667, 30, 31, 415, 671, 672, 33, 34,
       35, 36, 37, 39, 40, 41, 42, 44, 45, 46, 51, 308, 54, 57, 61, 62, 64, 66,
       322, 69, 70, 71, 72, 73, 77, 79, 85, 89, 90, 91, 92, 93, 94, 95, 96, 611,
-      100, 103, 107, 251
+      100, 103, 107, 251,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 100,
-      "currency": "USD",
-      "total": 100,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 100,
+      currency: "USD",
+      total: 100,
+      priceItems: [
         {
-          "amount": 67
+          amount: 67,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 14
+          amount: 14,
         },
         {
-          "amount": 4
-        }
-      ]
-    }
+          amount: 4,
+        },
+      ],
+    },
   },
   {
-    "id": "54314233",
-    "url": "https://www.airbnb.com/rooms/54314233",
-    "deeplink": "https://www.airbnb.com/rooms/54314233?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 23,
-    "name": "Paris center République great apartment",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 2,
-    "city": "Paris",
-    "images": [
+    id: "54314233",
+    url: "https://www.airbnb.com/rooms/54314233",
+    deeplink:
+      "https://www.airbnb.com/rooms/54314233?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 23,
+    name: "Paris center République great apartment",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 2,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/2057d31b-5e57-46bd-9db4-c6c54975eff2.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/f26af340-851c-46a3-b004-421d94b714c6.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/357996b1-adbb-49f2-b0d4-3f36749ef75a.jpg?im_w=720",
@@ -1416,53 +1461,55 @@
       "https://a0.muscache.com/im/pictures/be8a8fd8-ebc1-4ebb-958b-7510016accbf.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/1a819cb0-d28b-4279-9de6-505423e4bded.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/b4659f49-6f1b-466a-a2b9-62f16b97dcd9.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/5e4cae36-c591-4812-97c8-2c3bfdd8f3b2.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/5e4cae36-c591-4812-97c8-2c3bfdd8f3b2.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_policy=medq_w_text&im_t=Y&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.869202,
-    "lng": 2.368426,
-    "persons": 2,
-    "reviewsCount": 105,
-    "rating": 4.09,
-    "type": "Entire condo",
-    "userId": 440574634,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_policy=medq_w_text&im_t=Y&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.869202,
+    lng: 2.368426,
+    persons: 2,
+    reviewsCount: 105,
+    rating: 4.09,
+    type: "Entire condo",
+    userId: 440574634,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [
       1, 4, 8, 394, 12, 77, 85, 86, 663, 89, 665, 90, 91, 93, 30, 94, 671, 611,
-      167, 40, 104, 41, 44, 45, 46, 308
+      167, 40, 104, 41, 44, 45, 46, 308,
     ],
-    "previewAmenities": ["Wifi", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 108,
-      "currency": "USD",
-      "total": 108,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 108,
+      currency: "USD",
+      total: 108,
+      priceItems: [
         {
-          "amount": 88
+          amount: 88,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "41746397",
-    "url": "https://www.airbnb.com/rooms/41746397",
-    "deeplink": "https://www.airbnb.com/rooms/41746397?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 24,
-    "name": "Fully equipped, cozy apartment (1 metro to Paris)",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Saint-Denis",
-    "images": [
+    id: "41746397",
+    url: "https://www.airbnb.com/rooms/41746397",
+    deeplink:
+      "https://www.airbnb.com/rooms/41746397?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 24,
+    name: "Fully equipped, cozy apartment (1 metro to Paris)",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Saint-Denis",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-41746397/original/927a3eb0-9aca-43c5-9fbf-46221dd5216e.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-41746397/original/d75a8401-29b9-4c02-aa7d-c340414f9cd8.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/1159d7e6-8129-4cb7-a7f0-16db69648f1f.jpg?im_w=720",
@@ -1473,54 +1520,56 @@
       "https://a0.muscache.com/im/pictures/ff7b830f-73b2-4b5c-8988-3acda672f1ad.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/52794e3b-179f-468f-a753-19f6bfefc0cc.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/103d7776-1d7a-4fae-88d4-de3c0dc658a2.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/b1750e86-373f-4db7-b94d-568a71ccf6e8.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/b1750e86-373f-4db7-b94d-568a71ccf6e8.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/86681dfa-a6c2-4953-9483-c9f1d7761b1c.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.90591,
-    "lng": 2.36167,
-    "persons": 2,
-    "reviewsCount": 194,
-    "rating": 4.8,
-    "type": "Entire rental unit",
-    "userId": 329706049,
-    "address": "Saint-Denis, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/86681dfa-a6c2-4953-9483-c9f1d7761b1c.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.90591,
+    lng: 2.36167,
+    persons: 2,
+    reviewsCount: 194,
+    rating: 4.8,
+    type: "Entire rental unit",
+    userId: 329706049,
+    address: "Saint-Denis, Île-de-France, France",
+    amenityIds: [
       1, 4, 8, 72, 73, 137, 10, 522, 12, 77, 21, 85, 88, 89, 665, 90, 91, 667,
       92, 93, 30, 94, 95, 671, 96, 33, 34, 35, 37, 101, 44, 236, 45, 46, 47,
-      625, 51, 52, 57
+      625, 51, 52, 57,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 98,
-      "currency": "USD",
-      "total": 98,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 98,
+      currency: "USD",
+      total: 98,
+      priceItems: [
         {
-          "amount": 80
+          amount: 80,
         },
         {
-          "amount": 13
+          amount: 13,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "2500361",
-    "url": "https://www.airbnb.com/rooms/2500361",
-    "deeplink": "https://www.airbnb.com/rooms/2500361?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 25,
-    "name": "Independent room",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Boulogne-Billancourt",
-    "images": [
+    id: "2500361",
+    url: "https://www.airbnb.com/rooms/2500361",
+    deeplink:
+      "https://www.airbnb.com/rooms/2500361?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 25,
+    name: "Independent room",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Boulogne-Billancourt",
+    images: [
       "https://a0.muscache.com/im/pictures/47668947/9372bd9d_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/47668753/ab429ae7_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/47668821/352d2a03_original.jpg?im_w=720",
@@ -1535,103 +1584,107 @@
       "https://a0.muscache.com/im/pictures/47669513/828bd32f_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/47669587/35e306f2_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/47669730/71f45307_original.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/47669800/9badf630_original.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/47669800/9badf630_original.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/users/12797376/profile_pic/1410034523/original.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.83778,
-    "lng": 2.24293,
-    "persons": 2,
-    "reviewsCount": 474,
-    "rating": 4.46,
-    "type": "Private room in rental unit",
-    "userId": 12797376,
-    "address": "Boulogne-Billancourt, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/users/12797376/profile_pic/1410034523/original.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.83778,
+    lng: 2.24293,
+    persons: 2,
+    reviewsCount: 474,
+    rating: 4.46,
+    type: "Private room in rental unit",
+    userId: 12797376,
+    address: "Boulogne-Billancourt, Île-de-France, France",
+    amenityIds: [
       1, 35, 4, 103, 40, 104, 137, 42, 522, 44, 45, 77, 146, 51, 85, 55, 88, 57,
-      89, 665, 90, 91, 93, 30
+      89, 665, 90, 91, 93, 30,
     ],
-    "previewAmenities": ["Wifi"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 69,
-      "currency": "USD",
-      "total": 69,
-      "priceItems": [
+    previewAmenities: ["Wifi"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 69,
+      currency: "USD",
+      total: 69,
+      priceItems: [
         {
-          "amount": 58
+          amount: 58,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 1
-        }
-      ]
-    }
+          amount: 1,
+        },
+      ],
+    },
   },
   {
-    "id": "34667979",
-    "url": "https://www.airbnb.com/rooms/34667979",
-    "deeplink": "https://www.airbnb.com/rooms/34667979?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 26,
-    "name": "The City Campaign",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Neuilly-sur-Seine",
-    "images": [
+    id: "34667979",
+    url: "https://www.airbnb.com/rooms/34667979",
+    deeplink:
+      "https://www.airbnb.com/rooms/34667979?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 26,
+    name: "The City Campaign",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Neuilly-sur-Seine",
+    images: [
       "https://a0.muscache.com/im/pictures/56f5beb2-cd33-426d-9500-3f3f35856a46.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/2ba13459-0a93-4e37-8555-1aa5bca6e2f4.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/fe672a99-81f3-48e6-b867-5f792cbdaf06.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/ef4b4738-2130-41ef-9815-25a357ce25b6.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/ef4b4738-2130-41ef-9815-25a357ce25b6.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f6290921-9d18-402e-bee8-fdf5e5344a2f.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.89347,
-    "lng": 2.26591,
-    "persons": 2,
-    "reviewsCount": 75,
-    "rating": 4.43,
-    "type": "Room in hotel",
-    "userId": 68979814,
-    "address": "Neuilly-sur-Seine, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/f6290921-9d18-402e-bee8-fdf5e5344a2f.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.89347,
+    lng: 2.26591,
+    persons: 2,
+    reviewsCount: 75,
+    rating: 4.43,
+    type: "Room in hotel",
+    userId: 68979814,
+    address: "Neuilly-sur-Seine, Île-de-France, France",
+    amenityIds: [
       1, 2, 35, 4, 5, 37, 6, 38, 39, 40, 41, 42, 43, 44, 45, 77, 46, 16, 51, 21,
-      55, 30, 31
+      55, 30, 31,
     ],
-    "previewAmenities": ["Wifi"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 105,
-      "currency": "USD",
-      "total": 105,
-      "priceItems": [
+    previewAmenities: ["Wifi"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 105,
+      currency: "USD",
+      total: 105,
+      priceItems: [
         {
-          "amount": 88
+          amount: 88,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 2
-        }
-      ]
-    }
+          amount: 2,
+        },
+      ],
+    },
   },
   {
-    "id": "842872610948714909",
-    "url": "https://www.airbnb.com/rooms/842872610948714909",
-    "deeplink": "https://www.airbnb.com/rooms/842872610948714909?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 27,
-    "name": "Apartment in Auteuil",
-    "bathrooms": 2,
-    "bedrooms": 1,
-    "beds": 2,
-    "city": "Paris",
-    "images": [
+    id: "842872610948714909",
+    url: "https://www.airbnb.com/rooms/842872610948714909",
+    deeplink:
+      "https://www.airbnb.com/rooms/842872610948714909?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 27,
+    name: "Apartment in Auteuil",
+    bathrooms: 2,
+    bedrooms: 1,
+    beds: 2,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-842872610948714909/original/c705ecd7-6a06-4f04-a6b2-2a21c48a8dc8.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-842872610948714909/original/7938be76-06b5-459e-b467-216839b5dddc.png?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-842872610948714909/original/c53cb3a3-ee5f-458e-9630-356085c0e588.jpeg?im_w=720",
@@ -1646,50 +1699,52 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-842872610948714909/original/55db24aa-a1c4-40de-8ac3-f2ad7352f8d0.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-842872610948714909/original/11a148aa-ee4f-4715-98e7-a47517aedea3.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-842872610948714909/original/066a6baf-8447-4a81-92a9-3462f1fc0103.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/bca20996-7f6c-4c34-acbb-237832a9251c.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/bca20996-7f6c-4c34-acbb-237832a9251c.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/773d9424-a19f-4014-bda9-bc889775bfb3.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.852321255272116,
-    "lng": 2.268958819317937,
-    "persons": 2,
-    "reviewsCount": 13,
-    "rating": 4.31,
-    "type": "Entire rental unit",
-    "userId": 455917550,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [35, 5, 8, 40, 44, 77, 47, 85, 86, 665, 93, 30, 94, 671],
-    "previewAmenities": ["Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 98,
-      "currency": "USD",
-      "total": 98,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/773d9424-a19f-4014-bda9-bc889775bfb3.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.852321255272116,
+    lng: 2.268958819317937,
+    persons: 2,
+    reviewsCount: 13,
+    rating: 4.31,
+    type: "Entire rental unit",
+    userId: 455917550,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [35, 5, 8, 40, 44, 77, 47, 85, 86, 665, 93, 30, 94, 671],
+    previewAmenities: ["Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 98,
+      currency: "USD",
+      total: 98,
+      priceItems: [
         {
-          "amount": 80
+          amount: 80,
         },
         {
-          "amount": 13
+          amount: 13,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "937709",
-    "url": "https://www.airbnb.com/rooms/937709",
-    "deeplink": "https://www.airbnb.com/rooms/937709?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 28,
-    "name": "Private heaven in the heart of Paris",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Paris",
-    "images": [
+    id: "937709",
+    url: "https://www.airbnb.com/rooms/937709",
+    deeplink:
+      "https://www.airbnb.com/rooms/937709?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 28,
+    name: "Private heaven in the heart of Paris",
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 1,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/8c8432d9-8b6f-44e4-abe0-76e2fb64ca6c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5e65508f-e9a4-4d7a-8f3a-fe50820d86a7.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/a88d88f7-99c2-451b-9634-600c238641fb.jpg?im_w=720",
@@ -1719,108 +1774,112 @@
       "https://a0.muscache.com/im/pictures/a54df5d4-35dc-4cf0-9d40-b27e8b841253.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/d92fdea8-83f0-4055-a097-e2eafee70f51.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/d1f1a298-cc8e-4305-88a6-e74837f5728d.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/046e7751-05a6-4ccd-902b-15b83f105554.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/046e7751-05a6-4ccd-902b-15b83f105554.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/3cb7f46b-1280-4811-aa97-a53947761ca8.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": true,
-    "lat": 48.87034,
-    "lng": 2.35402,
-    "persons": 2,
-    "reviewsCount": 160,
-    "rating": 4.95,
-    "type": "Private room in rental unit",
-    "userId": 5051983,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/3cb7f46b-1280-4811-aa97-a53947761ca8.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: true,
+    lat: 48.87034,
+    lng: 2.35402,
+    persons: 2,
+    reviewsCount: 160,
+    rating: 4.95,
+    type: "Private room in rental unit",
+    userId: 5051983,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [
       1, 129, 3, 4, 5, 8, 394, 77, 17, 19, 85, 89, 90, 91, 667, 28, 92, 93, 30,
       94, 31, 95, 671, 96, 33, 34, 35, 611, 36, 38, 103, 40, 41, 42, 43, 44, 45,
-      50, 185
+      50, 185,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 158,
-      "currency": "USD",
-      "total": 158,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 158,
+      currency: "USD",
+      total: 158,
+      priceItems: [
         {
-          "amount": 98
+          amount: 98,
         },
         {
-          "amount": 33
+          amount: 33,
         },
         {
-          "amount": 22
+          amount: 22,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "12691180",
-    "url": "https://www.airbnb.com/rooms/12691180",
-    "deeplink": "https://www.airbnb.com/rooms/12691180?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 29,
-    "name": "« The countryside in the city \"",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Neuilly-sur-Seine",
-    "images": [
+    id: "12691180",
+    url: "https://www.airbnb.com/rooms/12691180",
+    deeplink:
+      "https://www.airbnb.com/rooms/12691180?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 29,
+    name: '« The countryside in the city "',
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Neuilly-sur-Seine",
+    images: [
       "https://a0.muscache.com/im/pictures/2ba13459-0a93-4e37-8555-1aa5bca6e2f4.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/56f5beb2-cd33-426d-9500-3f3f35856a46.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/dc3859af-58be-4dd0-98e6-dc2457ae4f93.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e6c4bdca-0c60-4099-a412-b6ef5121bdd0.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/ba3083e4-46ac-4352-b231-418919f39ecf.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/ba3083e4-46ac-4352-b231-418919f39ecf.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f6290921-9d18-402e-bee8-fdf5e5344a2f.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.89508,
-    "lng": 2.2672,
-    "persons": 2,
-    "reviewsCount": 173,
-    "rating": 4.6,
-    "type": "Room in boutique hotel",
-    "userId": 68979814,
-    "address": "Neuilly-sur-Seine, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/f6290921-9d18-402e-bee8-fdf5e5344a2f.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.89508,
+    lng: 2.2672,
+    persons: 2,
+    reviewsCount: 173,
+    rating: 4.6,
+    type: "Room in boutique hotel",
+    userId: 68979814,
+    address: "Neuilly-sur-Seine, Île-de-France, France",
+    amenityIds: [
       1, 2, 35, 4, 5, 37, 6, 38, 39, 40, 41, 42, 43, 44, 45, 77, 46, 16, 21, 30,
-      31
+      31,
     ],
-    "previewAmenities": ["Wifi"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 105,
-      "currency": "USD",
-      "total": 105,
-      "priceItems": [
+    previewAmenities: ["Wifi"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 105,
+      currency: "USD",
+      total: 105,
+      priceItems: [
         {
-          "amount": 88
+          amount: 88,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 2
-        }
-      ]
-    }
+          amount: 2,
+        },
+      ],
+    },
   },
   {
-    "id": "581846164167098371",
-    "url": "https://www.airbnb.com/rooms/581846164167098371",
-    "deeplink": "https://www.airbnb.com/rooms/581846164167098371?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 30,
-    "name": "Charmante chambre Paris 14 m²/Lovely Room in Paris",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 0,
-    "city": "Paris",
-    "images": [
+    id: "581846164167098371",
+    url: "https://www.airbnb.com/rooms/581846164167098371",
+    deeplink:
+      "https://www.airbnb.com/rooms/581846164167098371?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 30,
+    name: "Charmante chambre Paris 14 m²/Lovely Room in Paris",
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 0,
+    city: "Paris",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-581846164167098371/original/4c51914c-ab17-4975-b59b-194479a7f802.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-581846164167098371/original/0834f489-c6f3-4692-b988-e8c8daa857f1.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-581846164167098371/original/966d2436-340c-435f-acfb-72b99adbf947.jpeg?im_w=720",
@@ -1832,57 +1891,59 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-581846164167098371/original/84e86638-379e-4525-9969-839b03e6c7b0.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/df18f344-4840-4b7b-a314-9b695f381b57.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/23dddc4b-cf79-4e9b-84c0-fc24ad52abe0.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/21b49b0a-e1c6-4a3c-8e8e-0bf2739a90fc.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/21b49b0a-e1c6-4a3c-8e8e-0bf2739a90fc.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/d9aceef5-0423-421d-91ec-550f975b59d3.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.887505,
-    "lng": 2.360023,
-    "persons": 1,
-    "reviewsCount": 106,
-    "rating": 4.63,
-    "type": "Private room in rental unit",
-    "userId": 449383503,
-    "address": "Paris, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/d9aceef5-0423-421d-91ec-550f975b59d3.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.887505,
+    lng: 2.360023,
+    persons: 1,
+    reviewsCount: 106,
+    rating: 4.63,
+    type: "Private room in rental unit",
+    userId: 449383503,
+    address: "Paris, Île-de-France, France",
+    amenityIds: [
       4, 8, 73, 137, 10, 394, 522, 77, 15, 79, 657, 146, 21, 85, 89, 665, 90,
       91, 667, 92, 93, 30, 94, 95, 671, 672, 35, 227, 611, 36, 37, 39, 103, 40,
-      104, 41, 107, 44, 45, 46, 47, 51, 308, 54, 185, 251, 61
+      104, 41, 107, 44, 45, 46, 47, 51, 308, 54, 185, 251, 61,
     ],
-    "previewAmenities": ["Wifi", "Kitchen"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 77,
-      "currency": "USD",
-      "total": 77,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 77,
+      currency: "USD",
+      total: 77,
+      priceItems: [
         {
-          "amount": 60
+          amount: 60,
         },
         {
-          "amount": 2
+          amount: 2,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 4
-        }
-      ]
-    }
+          amount: 4,
+        },
+      ],
+    },
   },
   {
-    "id": "635983960492703673",
-    "url": "https://www.airbnb.com/rooms/635983960492703673",
-    "deeplink": "https://www.airbnb.com/rooms/635983960492703673?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 31,
-    "name": "Nearby room U arena defense",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 2,
-    "city": "Nanterre",
-    "images": [
+    id: "635983960492703673",
+    url: "https://www.airbnb.com/rooms/635983960492703673",
+    deeplink:
+      "https://www.airbnb.com/rooms/635983960492703673?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 31,
+    name: "Nearby room U arena defense",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 2,
+    city: "Nanterre",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-635983960492703673/original/97bf944e-231c-487d-acc0-8ee6903c4e44.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-635983960492703673/original/4a3973eb-514e-4325-a126-785e0b15a7d7.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-635983960492703673/original/0b0948e7-b1ba-49c4-a938-2de2256baa30.jpeg?im_w=720",
@@ -1909,56 +1970,58 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-635983960492703673/original/8e411469-bfc0-4ddb-bfbd-5d222a7ef05a.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-635983960492703673/original/e593d942-7a72-4704-bf97-256bbc70e495.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-635983960492703673/original/21b07775-682c-42e9-b905-82bf87dd096e.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-635983960492703673/original/6d6de563-df4d-4988-9688-4ef6cc4430cc.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-635983960492703673/original/6d6de563-df4d-4988-9688-4ef6cc4430cc.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/c45969d3-9988-4cea-bdb8-091636435e07.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 48.895653,
-    "lng": 2.225629,
-    "persons": 2,
-    "reviewsCount": 72,
-    "rating": 4.94,
-    "type": "Private room in rental unit",
-    "userId": 21976306,
-    "address": "Nanterre, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/c45969d3-9988-4cea-bdb8-091636435e07.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 48.895653,
+    lng: 2.225629,
+    persons: 2,
+    reviewsCount: 72,
+    rating: 4.94,
+    type: "Private room in rental unit",
+    userId: 21976306,
+    address: "Nanterre, Île-de-France, France",
+    amenityIds: [
       1, 33, 35, 4, 8, 40, 9, 42, 44, 236, 45, 625, 85, 89, 91, 251, 667, 61,
-      93, 30, 415, 671
+      93, 30, 415, 671,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Free parking", "Washer"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 111,
-      "currency": "USD",
-      "total": 111,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Free parking", "Washer"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 111,
+      currency: "USD",
+      total: 111,
+      priceItems: [
         {
-          "amount": 88
+          amount: 88,
         },
         {
-          "amount": 5
+          amount: 5,
         },
         {
-          "amount": 16
+          amount: 16,
         },
         {
-          "amount": 2
-        }
-      ]
-    }
+          amount: 2,
+        },
+      ],
+    },
   },
   {
-    "id": "44209986",
-    "url": "https://www.airbnb.com/rooms/44209986",
-    "deeplink": "https://www.airbnb.com/rooms/44209986?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 32,
-    "name": "Studio S II near house of exams, Paris",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Gentilly",
-    "images": [
+    id: "44209986",
+    url: "https://www.airbnb.com/rooms/44209986",
+    deeplink:
+      "https://www.airbnb.com/rooms/44209986?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 32,
+    name: "Studio S II near house of exams, Paris",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Gentilly",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-44209986/original/98905f28-4bc4-4d79-9592-1e9b8ffcbd1a.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-44209986/original/37cd1e3e-11e8-424a-9318-52c064bf2579.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-44209986/original/3da6ed3f-993d-4da3-91bb-14b87e9b3215.jpeg?im_w=720",
@@ -1970,54 +2033,56 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-44209986/original/3df1c2db-2586-4f7a-b889-1c474b27f62c.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-44209986/original/d65ede19-ab6a-4c7e-87b9-a19750465321.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-44209986/original/72a65600-f42e-49dd-9533-7a07fd26b1ee.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-44209986/original/c8738302-f866-40e6-b6a1-6ab59666d52e.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-44209986/original/c8738302-f866-40e6-b6a1-6ab59666d52e.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a6fb746d-d25e-4d43-b4bf-31354adb3d5a.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": true,
-    "lat": 48.81413,
-    "lng": 2.34489,
-    "persons": 2,
-    "reviewsCount": 258,
-    "rating": 4.69,
-    "type": "Entire rental unit",
-    "userId": 348347925,
-    "address": "Gentilly, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/a6fb746d-d25e-4d43-b4bf-31354adb3d5a.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: true,
+    lat: 48.81413,
+    lng: 2.34489,
+    persons: 2,
+    reviewsCount: 258,
+    rating: 4.69,
+    type: "Entire rental unit",
+    userId: 348347925,
+    address: "Gentilly, Île-de-France, France",
+    amenityIds: [
       1, 4, 8, 73, 137, 10, 522, 12, 77, 85, 663, 89, 665, 90, 91, 667, 93, 30,
       94, 95, 415, 671, 96, 672, 33, 35, 611, 100, 40, 104, 44, 236, 45, 46, 47,
-      625, 51, 308, 54, 57
+      625, 51, 308, 54, 57,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 107,
-      "currency": "USD",
-      "total": 107,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 107,
+      currency: "USD",
+      total: 107,
+      priceItems: [
         {
-          "amount": 87
+          amount: 87,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "872992934066075363",
-    "url": "https://www.airbnb.com/rooms/872992934066075363",
-    "deeplink": "https://www.airbnb.com/rooms/872992934066075363?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 33,
-    "name": "Charmant Studio à la campagne!",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Villejuif",
-    "images": [
+    id: "872992934066075363",
+    url: "https://www.airbnb.com/rooms/872992934066075363",
+    deeplink:
+      "https://www.airbnb.com/rooms/872992934066075363?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 33,
+    name: "Charmant Studio à la campagne!",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Villejuif",
+    images: [
       "https://a0.muscache.com/im/pictures/5497f3d6-b190-48de-8499-5c5fe736c9d9.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/9abb1460-2f1d-4bcb-9558-75c36e5e5d17.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-872992934066075363/original/60ff255e-4d1a-49e9-8f1e-b82d81bb40ed.jpeg?im_w=720",
@@ -2030,55 +2095,57 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-872992934066075363/original/0e222ec2-88ca-48de-aad3-c58bc4d7c9c9.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-872992934066075363/original/2365ebea-3739-4764-935a-59f1d4e252a9.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/6000aef7-ac0b-46de-a7fc-e68c96197e14.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/0100c594-82ff-4a20-878c-df6f638d77d3.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/0100c594-82ff-4a20-878c-df6f638d77d3.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/1be9a4c3-1e60-42c2-8ffb-737bac665ff6.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.803730024740275,
-    "lng": 2.360682897269726,
-    "persons": 2,
-    "reviewsCount": 1,
-    "type": "Private room in tiny home",
-    "userId": 16574988,
-    "address": "Villejuif, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/1be9a4c3-1e60-42c2-8ffb-737bac665ff6.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.803730024740275,
+    lng: 2.360682897269726,
+    persons: 2,
+    reviewsCount: 1,
+    type: "Private room in tiny home",
+    userId: 16574988,
+    address: "Villejuif, Île-de-France, France",
+    amenityIds: [
       33, 34, 66, 99, 4, 100, 101, 71, 9, 42, 74, 12, 45, 46, 47, 51, 179, 55,
-      90, 93, 30, 510
+      90, 93, 30, 510,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Washer"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 97,
-      "currency": "USD",
-      "total": 97,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Washer"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 97,
+      currency: "USD",
+      total: 97,
+      priceItems: [
         {
-          "amount": 71
+          amount: 71,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 14
+          amount: 14,
         },
         {
-          "amount": 1
-        }
-      ]
-    }
+          amount: 1,
+        },
+      ],
+    },
   },
   {
-    "id": "52069542",
-    "url": "https://www.airbnb.com/rooms/52069542",
-    "deeplink": "https://www.airbnb.com/rooms/52069542?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 34,
-    "name": "Beautiful view of Paris from the Stade de France.",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Saint-Denis",
-    "images": [
+    id: "52069542",
+    url: "https://www.airbnb.com/rooms/52069542",
+    deeplink:
+      "https://www.airbnb.com/rooms/52069542?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 34,
+    name: "Beautiful view of Paris from the Stade de France.",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Saint-Denis",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-52069542/original/6725d294-9b92-4167-9ce3-9128086c6815.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-52069542/original/abc65206-79ca-4696-bcec-68a99339ee43.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-52069542/original/f6d9ecde-1cc8-4fd4-b141-305450eb0350.jpeg?im_w=720",
@@ -2106,103 +2173,107 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-52069542/original/d803a7b5-4b94-4244-8365-3ed357fd0bbe.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-52069542/original/f98916ae-8935-44e5-b6c7-ba3af495fcaf.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-52069542/original/88e16ba5-f2b3-4d11-bb87-267dc487aee6.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-52069542/original/a6c6a5db-6a7c-408d-b698-18e91494eeeb.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-52069542/original/a6c6a5db-6a7c-408d-b698-18e91494eeeb.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a805b5d6-4274-4305-a445-317415569294.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.91692,
-    "lng": 2.36638,
-    "persons": 2,
-    "reviewsCount": 73,
-    "rating": 4.86,
-    "type": "Entire condo",
-    "userId": 39449039,
-    "address": "Saint-Denis, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/a805b5d6-4274-4305-a445-317415569294.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.91692,
+    lng: 2.36638,
+    persons: 2,
+    reviewsCount: 73,
+    rating: 4.86,
+    type: "Entire condo",
+    userId: 39449039,
+    address: "Saint-Denis, Île-de-France, France",
+    amenityIds: [
       1, 33, 129, 2, 35, 99, 4, 100, 8, 40, 9, 45, 46, 179, 280, 665, 90, 91,
-      93, 30, 94
+      93, 30, 94,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Free parking", "Washer"],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 110,
-      "currency": "USD",
-      "total": 110,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Free parking", "Washer"],
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 110,
+      currency: "USD",
+      total: 110,
+      priceItems: [
         {
-          "amount": 74
+          amount: 74,
         },
         {
-          "amount": 16
+          amount: 16,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "612052999038599594",
-    "url": "https://www.airbnb.com/rooms/612052999038599594",
-    "deeplink": "https://www.airbnb.com/rooms/612052999038599594?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 35,
-    "name": "Gennevilliers: Private room (A- 1 guest)",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Gennevilliers",
-    "images": [
+    id: "612052999038599594",
+    url: "https://www.airbnb.com/rooms/612052999038599594",
+    deeplink:
+      "https://www.airbnb.com/rooms/612052999038599594?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 35,
+    name: "Gennevilliers: Private room (A- 1 guest)",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Gennevilliers",
+    images: [
       "https://a0.muscache.com/im/pictures/c04d1f30-543b-42a6-a163-1485115e64d7.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-612052999038599594/original/4a068672-2893-4ac3-b417-ea6067bcf351.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-612052999038599594/original/3ad6b7a8-9703-403b-affa-f74822266eae.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/a8f04f70-1b82-4551-a8d0-9a42c2aaf3ce.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/a8f04f70-1b82-4551-a8d0-9a42c2aaf3ce.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/6d74979f-c139-420c-87ad-06d7b3dd4285.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 48.93179,
-    "lng": 2.28966,
-    "persons": 1,
-    "reviewsCount": 63,
-    "rating": 4.81,
-    "type": "Private room in rental unit",
-    "userId": 242769289,
-    "address": "Gennevilliers, Île-de-France, France",
-    "amenityIds": [129, 4, 100, 5, 30, 47],
-    "previewAmenities": ["Wifi"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 51,
-      "currency": "USD",
-      "total": 51,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/6d74979f-c139-420c-87ad-06d7b3dd4285.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 48.93179,
+    lng: 2.28966,
+    persons: 1,
+    reviewsCount: 63,
+    rating: 4.81,
+    type: "Private room in rental unit",
+    userId: 242769289,
+    address: "Gennevilliers, Île-de-France, France",
+    amenityIds: [129, 4, 100, 5, 30, 47],
+    previewAmenities: ["Wifi"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 51,
+      currency: "USD",
+      total: 51,
+      priceItems: [
         {
-          "amount": 41
+          amount: 41,
         },
         {
-          "amount": 7
+          amount: 7,
         },
         {
-          "amount": 3
-        }
-      ]
-    }
+          amount: 3,
+        },
+      ],
+    },
   },
   {
-    "id": "37766085",
-    "url": "https://www.airbnb.com/rooms/37766085",
-    "deeplink": "https://www.airbnb.com/rooms/37766085?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 36,
-    "name": "Chambres et sdb privées proche Nanterre Université",
-    "bathrooms": 1,
-    "bedrooms": 2,
-    "beds": 2,
-    "city": "Nanterre",
-    "images": [
+    id: "37766085",
+    url: "https://www.airbnb.com/rooms/37766085",
+    deeplink:
+      "https://www.airbnb.com/rooms/37766085?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 36,
+    name: "Chambres et sdb privées proche Nanterre Université",
+    bathrooms: 1,
+    bedrooms: 2,
+    beds: 2,
+    city: "Nanterre",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-37766085/original/04f67fd4-2f8a-4c48-9ed0-8562e375f700.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-37766085/original/ecb90a95-3a97-420a-ab78-8e274773093f.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-37766085/original/974040f9-1a96-4139-8416-57b4e5797ff9.jpeg?im_w=720",
@@ -2214,156 +2285,162 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-37766085/original/4914564a-1230-4539-8fd5-854b3906e4d4.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-37766085/original/d149c4cb-37c9-40a3-9b02-b561acf4f2d1.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-37766085/original/de35c558-d6bd-4f00-a7e0-e8e070577cb4.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-37766085/original/4e08ed99-c5fb-49fb-a658-c58d85b41667.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-37766085/original/4e08ed99-c5fb-49fb-a658-c58d85b41667.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-2175552/original/79ca1928-6890-485c-9202-bd3e06fe3736.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 48.90002,
-    "lng": 2.21262,
-    "persons": 4,
-    "reviewsCount": 56,
-    "rating": 4.98,
-    "type": "Private room in rental unit",
-    "userId": 2175552,
-    "address": "Nanterre, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-2175552/original/79ca1928-6890-485c-9202-bd3e06fe3736.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 48.90002,
+    lng: 2.21262,
+    persons: 4,
+    reviewsCount: 56,
+    rating: 4.98,
+    type: "Private room in rental unit",
+    userId: 2175552,
+    address: "Nanterre, Île-de-France, France",
+    amenityIds: [
       4, 73, 137, 10, 394, 77, 79, 21, 85, 86, 665, 30, 415, 671, 35, 611, 36,
-      37, 103, 40, 41, 42, 364, 45, 46, 47, 51, 52, 61
+      37, 103, 40, 41, 42, 364, 45, 46, 47, 51, 52, 61,
     ],
-    "previewAmenities": ["Wifi"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 124,
-      "currency": "USD",
-      "total": 124,
-      "priceItems": [
+    previewAmenities: ["Wifi"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 124,
+      currency: "USD",
+      total: 124,
+      priceItems: [
         {
-          "amount": 74
+          amount: 74,
         },
         {
-          "amount": 31
+          amount: 31,
         },
         {
-          "amount": 18
+          amount: 18,
         },
         {
-          "amount": 1
-        }
-      ]
-    }
+          amount: 1,
+        },
+      ],
+    },
   },
   {
-    "id": "649909563228721509",
-    "url": "https://www.airbnb.com/rooms/649909563228721509",
-    "deeplink": "https://www.airbnb.com/rooms/649909563228721509?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 37,
-    "name": "Studio face centre commercial",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Villeneuve-la-Garenne",
-    "images": [
+    id: "649909563228721509",
+    url: "https://www.airbnb.com/rooms/649909563228721509",
+    deeplink:
+      "https://www.airbnb.com/rooms/649909563228721509?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 37,
+    name: "Studio face centre commercial",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Villeneuve-la-Garenne",
+    images: [
       "https://a0.muscache.com/im/pictures/f0194ed8-3981-40cf-876b-c633bc70e930.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/fe79cf6f-38e8-41a5-a269-a764e822ea23.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/859a5549-1790-4011-b46d-4da6faf689b9.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/a362906e-65a2-43c1-88da-d4a16317da8d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/d9dc44c8-4eec-4dd8-afa3-e0d1a78731b1.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/dd8377da-218e-4014-a14d-305d84fcb676.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/05519e57-a430-4caa-a3d6-19fce0d441ee.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/05519e57-a430-4caa-a3d6-19fce0d441ee.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/0e9b9e40-f793-4850-a8f7-42b46c51777f.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.92645,
-    "lng": 2.32878,
-    "persons": 2,
-    "reviewsCount": 15,
-    "rating": 4.6,
-    "type": "Entire vacation home",
-    "userId": 430342810,
-    "address": "Villeneuve-la-Garenne, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/0e9b9e40-f793-4850-a8f7-42b46c51777f.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.92645,
+    lng: 2.32878,
+    persons: 2,
+    reviewsCount: 15,
+    rating: 4.6,
+    type: "Entire vacation home",
+    userId: 430342810,
+    address: "Villeneuve-la-Garenne, Île-de-France, France",
+    amenityIds: [
       1, 4, 8, 9, 73, 201, 522, 77, 15, 79, 145, 657, 146, 21, 85, 86, 23, 87,
       663, 89, 665, 91, 93, 30, 94, 35, 611, 103, 40, 104, 41, 107, 44, 625, 51,
-      54
+      54,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Free parking"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 64,
-      "currency": "USD",
-      "total": 64,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Free parking"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 64,
+      currency: "USD",
+      total: 64,
+      priceItems: [
         {
-          "amount": 55
+          amount: 55,
         },
         {
-          "amount": 9
-        }
-      ]
-    }
+          amount: 9,
+        },
+      ],
+    },
   },
   {
-    "id": "856528235776080015",
-    "url": "https://www.airbnb.com/rooms/856528235776080015",
-    "deeplink": "https://www.airbnb.com/rooms/856528235776080015?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 38,
-    "name": "Warm studio, Mairie de Montreuil district",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Montreuil",
-    "images": [
+    id: "856528235776080015",
+    url: "https://www.airbnb.com/rooms/856528235776080015",
+    deeplink:
+      "https://www.airbnb.com/rooms/856528235776080015?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 38,
+    name: "Warm studio, Mairie de Montreuil district",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Montreuil",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-856528235776080015/original/655aba3a-f421-459f-abec-2c8938b5f1a0.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-856528235776080015/original/012b4852-75d4-4742-b2c7-1657f63398c3.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-856528235776080015/original/b09e5da4-427f-4ab9-bd19-206703221ba9.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-856528235776080015/original/5da5c1da-4956-406b-a8bc-cae1a5e0bae4.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-856528235776080015/original/a27b30dc-86af-40f1-8aea-9a3f95e30f86.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-856528235776080015/original/e2457ca5-f5a1-4de4-9345-3e38da9cb3c9.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-856528235776080015/original/e2457ca5-f5a1-4de4-9345-3e38da9cb3c9.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/5739c64d-7871-4242-b03d-ba2ef7b168b2.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": true,
-    "lat": 48.86473,
-    "lng": 2.4434,
-    "persons": 2,
-    "reviewsCount": 3,
-    "rating": 4.67,
-    "type": "Entire rental unit",
-    "userId": 506522998,
-    "address": "Montreuil, Île-de-France, France",
-    "amenityIds": [1, 129, 35, 4, 37, 8, 287],
-    "previewAmenities": ["Wifi", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 66,
-      "currency": "USD",
-      "total": 66,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/5739c64d-7871-4242-b03d-ba2ef7b168b2.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: true,
+    lat: 48.86473,
+    lng: 2.4434,
+    persons: 2,
+    reviewsCount: 3,
+    rating: 4.67,
+    type: "Entire rental unit",
+    userId: 506522998,
+    address: "Montreuil, Île-de-France, France",
+    amenityIds: [1, 129, 35, 4, 37, 8, 287],
+    previewAmenities: ["Wifi", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 66,
+      currency: "USD",
+      total: 66,
+      priceItems: [
         {
-          "amount": 54
+          amount: 54,
         },
         {
-          "amount": 9
+          amount: 9,
         },
         {
-          "amount": 3
-        }
-      ]
-    }
+          amount: 3,
+        },
+      ],
+    },
   },
   {
-    "id": "741782000436199354",
-    "url": "https://www.airbnb.com/rooms/741782000436199354",
-    "deeplink": "https://www.airbnb.com/rooms/741782000436199354?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 39,
-    "name": "10 mins from Orly Cozy bright room",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Athis-Mons",
-    "images": [
+    id: "741782000436199354",
+    url: "https://www.airbnb.com/rooms/741782000436199354",
+    deeplink:
+      "https://www.airbnb.com/rooms/741782000436199354?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 39,
+    name: "10 mins from Orly Cozy bright room",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Athis-Mons",
+    images: [
       "https://a0.muscache.com/im/pictures/6c050b25-3ede-40b1-aec5-351d9b76db59.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/d576386c-e296-466a-aafe-3a1fb24a8eea.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/083a16a7-4a21-4461-8e13-04fd0b5833b6.jpg?im_w=720",
@@ -2383,55 +2460,57 @@
       "https://a0.muscache.com/im/pictures/57cfb536-95f3-4409-830d-364ad6eeb1e8.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/b8184f2b-2fe3-4d33-8371-d2df46e85c82.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/270f9134-9668-42fa-901c-f73af1d8e155.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/1ec5fd69-01a3-4e32-973a-d8dfcdbb01de.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/1ec5fd69-01a3-4e32-973a-d8dfcdbb01de.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/186cc4e1-895a-4eee-971e-8012721ae846.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 48.71067,
-    "lng": 2.38229,
-    "persons": 2,
-    "reviewsCount": 76,
-    "rating": 4.88,
-    "type": "Private room in condo",
-    "userId": 74196063,
-    "address": "Athis-Mons, Île-de-France, France",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/186cc4e1-895a-4eee-971e-8012721ae846.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 48.71067,
+    lng: 2.38229,
+    persons: 2,
+    reviewsCount: 76,
+    rating: 4.88,
+    type: "Private room in condo",
+    userId: 74196063,
+    address: "Athis-Mons, Île-de-France, France",
+    amenityIds: [
       1, 4, 8, 9, 137, 394, 11, 12, 657, 21, 23, 663, 665, 667, 30, 671, 32,
       672, 33, 35, 37, 167, 40, 41, 42, 44, 45, 46, 51, 308, 54, 185, 60, 67,
       73, 77, 79, 85, 86, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 99, 227, 611,
-      100, 103, 104, 236, 625, 626, 500
+      100, 103, 104, 236, 625, 626, 500,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Free parking", "Washer"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 54,
-      "currency": "USD",
-      "total": 54,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Free parking", "Washer"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 54,
+      currency: "USD",
+      total: 54,
+      priceItems: [
         {
-          "amount": 43
+          amount: 43,
         },
         {
-          "amount": 3
+          amount: 3,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "818257911551571971",
-    "url": "https://www.airbnb.com/rooms/818257911551571971",
-    "deeplink": "https://www.airbnb.com/rooms/818257911551571971?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 40,
-    "name": "Cosy and bright with 3 flowers.",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Orly",
-    "images": [
+    id: "818257911551571971",
+    url: "https://www.airbnb.com/rooms/818257911551571971",
+    deeplink:
+      "https://www.airbnb.com/rooms/818257911551571971?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 40,
+    name: "Cosy and bright with 3 flowers.",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Orly",
+    images: [
       "https://a0.muscache.com/im/pictures/bdc8491e-44f9-4441-a776-efe0ed81c11f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/ddf322b7-08c9-4012-baf5-9d4553eff2fb.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-818257911551571971/original/94f83bb4-58f2-44e3-8b1e-2a895a47ea1c.jpeg?im_w=720",
@@ -2439,50 +2518,52 @@
       "https://a0.muscache.com/im/pictures/efdd5e75-50b5-41b2-a4f8-879e5afc537a.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/4686c070-43bb-4644-8523-79823ff6c287.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/0785e542-080a-4d37-b86c-c05ad0003376.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/b9cdd06d-8e60-4feb-b36f-926f23b2cfa6.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/b9cdd06d-8e60-4feb-b36f-926f23b2cfa6.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/d6ff7973-49d8-42ca-95ea-7349329e67f1.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 48.7424499528029,
-    "lng": 2.4042198434472084,
-    "persons": 1,
-    "reviewsCount": 28,
-    "rating": 4.29,
-    "type": "Private room in rental unit",
-    "userId": 499178327,
-    "address": "Orly, Île-de-France, France",
-    "amenityIds": [1, 33, 4, 8, 42, 90, 91, 93, 47],
-    "previewAmenities": ["Wifi", "Kitchen", "Washer"],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 43,
-      "currency": "USD",
-      "total": 43,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/d6ff7973-49d8-42ca-95ea-7349329e67f1.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 48.7424499528029,
+    lng: 2.4042198434472084,
+    persons: 1,
+    reviewsCount: 28,
+    rating: 4.29,
+    type: "Private room in rental unit",
+    userId: 499178327,
+    address: "Orly, Île-de-France, France",
+    amenityIds: [1, 33, 4, 8, 42, 90, 91, 93, 47],
+    previewAmenities: ["Wifi", "Kitchen", "Washer"],
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 43,
+      currency: "USD",
+      total: 43,
+      priceItems: [
         {
-          "amount": 35
+          amount: 35,
         },
         {
-          "amount": 6
+          amount: 6,
         },
         {
-          "amount": 2
-        }
-      ]
-    }
+          amount: 2,
+        },
+      ],
+    },
   },
   {
-    "id": "29308965",
-    "url": "https://www.airbnb.com/rooms/29308965",
-    "deeplink": "https://www.airbnb.com/rooms/29308965?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 1,
-    "name": "Casa Luna (Room 3)",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "29308965",
+    url: "https://www.airbnb.com/rooms/29308965",
+    deeplink:
+      "https://www.airbnb.com/rooms/29308965?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 1,
+    name: "Casa Luna (Room 3)",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/6e3328bd-5b0d-4a3f-85ff-78ecd816165a.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/ddb82857-6e35-493f-b104-434095d20932.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e1d41b33-3b83-4730-8eae-224503953e0f.jpg?im_w=720",
@@ -2512,52 +2593,54 @@
       "https://a0.muscache.com/im/pictures/16e0d3bb-8d37-4dd7-923f-5105c88c69df.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e00a4a10-b12c-4958-bb74-4358762f8011.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e99d4736-ec46-4380-8fed-d374138bfacf.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/b2245f4e-5b87-42ab-b4c6-bd849173259a.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/b2245f4e-5b87-42ab-b4c6-bd849173259a.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/7793f54c-238b-4167-b466-415ebc39bc74.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.467125,
-    "lng": -66.11261,
-    "persons": 2,
-    "reviewsCount": 325,
-    "rating": 4.75,
-    "type": "Private room in rental unit",
-    "userId": 214681064,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
-      1, 35, 611, 4, 5, 39, 40, 41, 42, 44, 51, 85, 54, 57, 89, 90, 91, 92, 93
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/7793f54c-238b-4167-b466-415ebc39bc74.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.467125,
+    lng: -66.11261,
+    persons: 2,
+    reviewsCount: 325,
+    rating: 4.75,
+    type: "Private room in rental unit",
+    userId: 214681064,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
+      1, 35, 611, 4, 5, 39, 40, 41, 42, 44, 51, 85, 54, 57, 89, 90, 91, 92, 93,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Self check-in"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 131,
-      "currency": "USD",
-      "total": 131,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Self check-in"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 131,
+      currency: "USD",
+      total: 131,
+      priceItems: [
         {
-          "amount": 106
+          amount: 106,
         },
         {
-          "amount": 18
+          amount: 18,
         },
         {
-          "amount": 7
-        }
-      ]
-    }
+          amount: 7,
+        },
+      ],
+    },
   },
   {
-    "id": "882120105979944362",
-    "url": "https://www.airbnb.com/rooms/882120105979944362",
-    "deeplink": "https://www.airbnb.com/rooms/882120105979944362?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 2,
-    "name": "Domo Secreto 1",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Caguas",
-    "images": [
+    id: "882120105979944362",
+    url: "https://www.airbnb.com/rooms/882120105979944362",
+    deeplink:
+      "https://www.airbnb.com/rooms/882120105979944362?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 2,
+    name: "Domo Secreto 1",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Caguas",
+    images: [
       "https://a0.muscache.com/im/pictures/39b3dab1-dce1-4d05-b651-8032d6d104dd.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/fb19b5e8-742a-4e88-a1e2-ad80b08ba2b6.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/dd190ca1-81e9-466f-bc74-e2bb99bce085.jpg?im_w=720",
@@ -2571,114 +2654,118 @@
       "https://a0.muscache.com/im/pictures/066286a8-0da2-40d7-a925-24cef8bbd9b6.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-882120105979944362/original/e2f660e7-46c8-47b1-8bca-ca0b88af39d4.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-882120105979944362/original/74699d7c-dad3-4912-bda0-2082310fe47c.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/f75150bb-f739-4486-85b2-a57edb95bebd.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/f75150bb-f739-4486-85b2-a57edb95bebd.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/ff12806f-8ef9-4400-bdf7-27fe76dad571.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.24631,
-    "lng": -66.03458,
-    "persons": 2,
-    "reviewsCount": 0,
-    "type": "Dome",
-    "userId": 512717147,
-    "address": "Caguas, Caguas, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/ff12806f-8ef9-4400-bdf7-27fe76dad571.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.24631,
+    lng: -66.03458,
+    persons: 2,
+    reviewsCount: 0,
+    type: "Dome",
+    userId: 512717147,
+    address: "Caguas, Caguas, Puerto Rico",
+    amenityIds: [
       1, 4, 5, 133, 7, 8, 392, 9, 73, 459, 145, 146, 210, 85, 280, 89, 90, 91,
       219, 93, 94, 96, 672, 98, 99, 611, 100, 37, 101, 39, 40, 104, 41, 236, 47,
-      626, 51, 179, 308, 54, 184, 57, 61, 510
+      626, 51, 179, 308, 54, 184, 57, 61, 510,
     ],
-    "previewAmenities": [
+    previewAmenities: [
       "Air conditioning",
       "Wifi",
       "Free parking",
-      "Self check-in"
+      "Self check-in",
     ],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 306,
-      "currency": "USD",
-      "total": 306,
-      "priceItems": [
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 306,
+      currency: "USD",
+      total: 306,
+      priceItems: [
         {
-          "amount": 197
+          amount: 197,
         },
         {
-          "amount": 50
+          amount: 50,
         },
         {
-          "amount": 42
+          amount: 42,
         },
         {
-          "amount": 17
-        }
-      ]
-    }
+          amount: 17,
+        },
+      ],
+    },
   },
   {
-    "id": "6603939",
-    "url": "https://www.airbnb.com/rooms/6603939",
-    "deeplink": "https://www.airbnb.com/rooms/6603939?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 3,
-    "name": "Charming Room in Old San Juan",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "6603939",
+    url: "https://www.airbnb.com/rooms/6603939",
+    deeplink:
+      "https://www.airbnb.com/rooms/6603939?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 3,
+    name: "Charming Room in Old San Juan",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/83238995/66fae12b_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/83239055/fbfdf0d0_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/83247099/a9874da4_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/83247371/04c16e12_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/83247589/f3c50794_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/eeb4d698-f3fd-4c07-a182-f7cbc9cce5e2.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/383c6a5e-d79c-45c7-b50b-51a46e512e55.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/383c6a5e-d79c-45c7-b50b-51a46e512e55.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/users/14504989/profile_pic/1398013857/original.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.4672,
-    "lng": -66.11233,
-    "persons": 2,
-    "reviewsCount": 654,
-    "rating": 4.82,
-    "type": "Room in boutique hotel",
-    "userId": 14504989,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/users/14504989/profile_pic/1398013857/original.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.4672,
+    lng: -66.11233,
+    persons: 2,
+    reviewsCount: 654,
+    rating: 4.82,
+    type: "Room in boutique hotel",
+    userId: 14504989,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
       32, 129, 35, 4, 100, 5, 103, 8, 40, 10, 42, 44, 45, 77, 46, 17, 18, 50,
-      85, 90, 91
+      85, 90, 91,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 120,
-      "currency": "USD",
-      "total": 120,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 120,
+      currency: "USD",
+      total: 120,
+      priceItems: [
         {
-          "amount": 97
+          amount: 97,
         },
         {
-          "amount": 16
+          amount: 16,
         },
         {
-          "amount": 7
-        }
-      ]
-    }
+          amount: 7,
+        },
+      ],
+    },
   },
   {
-    "id": "41214641",
-    "url": "https://www.airbnb.com/rooms/41214641",
-    "deeplink": "https://www.airbnb.com/rooms/41214641?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 4,
-    "name": "Casa Luna (Room 9 Balcony)",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "41214641",
+    url: "https://www.airbnb.com/rooms/41214641",
+    deeplink:
+      "https://www.airbnb.com/rooms/41214641?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 4,
+    name: "Casa Luna (Room 9 Balcony)",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/709d6308-206f-4de6-9d75-4bffd34eadb2.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/b2c00fe9-2013-41cf-9e1b-05e7e02548d8.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/ac00c256-9477-439c-a17d-c3ac699a9b15.jpg?im_w=720",
@@ -2706,53 +2793,55 @@
       "https://a0.muscache.com/im/pictures/fc206517-3191-4482-8c91-567cba87c860.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/301f2d2a-d2ad-4467-b3de-c26d62e0478d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/c971b0d6-2b0c-4123-adda-90296bf9edb5.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/bd66ccc2-deb2-440a-8e47-15e211d4f31d.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/bd66ccc2-deb2-440a-8e47-15e211d4f31d.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/7793f54c-238b-4167-b466-415ebc39bc74.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.467186,
-    "lng": -66.112968,
-    "persons": 2,
-    "reviewsCount": 298,
-    "rating": 4.63,
-    "type": "Entire rental unit",
-    "userId": 214681064,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/7793f54c-238b-4167-b466-415ebc39bc74.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.467186,
+    lng: -66.112968,
+    persons: 2,
+    reviewsCount: 298,
+    rating: 4.63,
+    type: "Entire rental unit",
+    userId: 214681064,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
       1, 35, 611, 4, 100, 5, 101, 38, 39, 8, 40, 41, 42, 44, 79, 51, 627, 85,
-      54, 89, 90, 91, 93
+      54, 89, 90, 91, 93,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Self check-in"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 142,
-      "currency": "USD",
-      "total": 142,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Self check-in"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 142,
+      currency: "USD",
+      total: 142,
+      priceItems: [
         {
-          "amount": 115
+          amount: 115,
         },
         {
-          "amount": 19
+          amount: 19,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "36604255",
-    "url": "https://www.airbnb.com/rooms/36604255",
-    "deeplink": "https://www.airbnb.com/rooms/36604255?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 5,
-    "name": "Casa Amber | Puerto Rico",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Yauco",
-    "images": [
+    id: "36604255",
+    url: "https://www.airbnb.com/rooms/36604255",
+    deeplink:
+      "https://www.airbnb.com/rooms/36604255?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 5,
+    name: "Casa Amber | Puerto Rico",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Yauco",
+    images: [
       "https://a0.muscache.com/im/pictures/27252d1f-a9fb-4008-ad1e-a4d7c2a73b12.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/bca74471-3219-46d7-80a3-b9b8e574d0aa.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/07d4c94e-29a4-49d3-b2a6-88f338bd6cfb.jpg?im_w=720",
@@ -2765,53 +2854,55 @@
       "https://a0.muscache.com/im/pictures/56e5e364-7848-4a21-b07f-a60190ef9bfb.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e991ec2a-124f-41ee-8d37-53d82febfebc.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/83fad71f-051b-4c47-b8c5-b1c0d76e7c3c.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/4119f3c6-c15a-4675-8781-1221edcd9fb7.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/4119f3c6-c15a-4675-8781-1221edcd9fb7.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/c5c9857d-258b-4030-98de-d3fdfaf56ddb.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.09119,
-    "lng": -66.83961,
-    "persons": 2,
-    "reviewsCount": 544,
-    "rating": 4.85,
-    "type": "Camper/RV",
-    "userId": 168205009,
-    "address": "Yauco, Yauco, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/c5c9857d-258b-4030-98de-d3fdfaf56ddb.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.09119,
+    lng: -66.83961,
+    persons: 2,
+    reviewsCount: 544,
+    rating: 4.85,
+    type: "Camper/RV",
+    userId: 168205009,
+    address: "Yauco, Yauco, Puerto Rico",
+    amenityIds: [
       4, 7, 8, 9, 11, 12, 16, 85, 23, 665, 90, 91, 93, 94, 35, 99, 100, 37, 101,
-      39, 40, 42, 51, 54, 57
+      39, 40, 42, 51, 54, 57,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 127,
-      "currency": "USD",
-      "total": 127,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 127,
+      currency: "USD",
+      total: 127,
+      priceItems: [
         {
-          "amount": 103
+          amount: 103,
         },
         {
-          "amount": 17
+          amount: 17,
         },
         {
-          "amount": 7
-        }
-      ]
-    }
+          amount: 7,
+        },
+      ],
+    },
   },
   {
-    "id": "23120250",
-    "url": "https://www.airbnb.com/rooms/23120250",
-    "deeplink": "https://www.airbnb.com/rooms/23120250?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 6,
-    "name": "HiddenStudio Oceanview,Private Beach Access Rincon",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "BO BARRERO",
-    "images": [
+    id: "23120250",
+    url: "https://www.airbnb.com/rooms/23120250",
+    deeplink:
+      "https://www.airbnb.com/rooms/23120250?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 6,
+    name: "HiddenStudio Oceanview,Private Beach Access Rincon",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "BO BARRERO",
+    images: [
       "https://a0.muscache.com/im/pictures/66d40287-396b-4afd-a791-f65663942298.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/a592afaa-80ef-44c2-b08d-b108d91a1f0f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/c0d597df-dffc-4150-bf7e-d6c3d0efddb7.jpg?im_w=720",
@@ -2841,56 +2932,58 @@
       "https://a0.muscache.com/im/pictures/bfbaf3b1-19cf-49d4-89d5-b1848c46ede4.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/2dcbfe14-b137-4087-9e72-91b09fb29f75.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/d54ebe80-3cba-44df-b9e2-6b709634e444.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/9d2090f5-f3ab-4aa6-affc-1f43d6832bf3.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/9d2090f5-f3ab-4aa6-affc-1f43d6832bf3.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/4ba5bbf5-90ef-4d17-b45c-aaceb76e7896.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.29595,
-    "lng": -67.2268,
-    "persons": 2,
-    "reviewsCount": 329,
-    "rating": 4.64,
-    "type": "Entire guesthouse",
-    "userId": 20830,
-    "address": "BO BARRERO, Rincón, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/4ba5bbf5-90ef-4d17-b45c-aaceb76e7896.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.29595,
+    lng: -67.2268,
+    persons: 2,
+    reviewsCount: 329,
+    rating: 4.64,
+    type: "Entire guesthouse",
+    userId: 20830,
+    address: "BO BARRERO, Rincón, Puerto Rico",
+    amenityIds: [
       4, 5, 8, 72, 9, 77, 528, 23, 280, 89, 90, 91, 93, 30, 94, 31, 96, 674, 35,
-      99, 36, 100, 101, 40, 41, 47, 179
+      99, 36, 100, 101, 40, 41, 47, 179,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Free parking"],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 183,
-      "currency": "USD",
-      "total": 183,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Free parking"],
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 183,
+      currency: "USD",
+      total: 183,
+      priceItems: [
         {
-          "amount": 89
+          amount: 89,
         },
         {
-          "amount": 59
+          amount: 59,
         },
         {
-          "amount": 25
+          amount: 25,
         },
         {
-          "amount": 10
-        }
-      ]
-    }
+          amount: 10,
+        },
+      ],
+    },
   },
   {
-    "id": "48561519",
-    "url": "https://www.airbnb.com/rooms/48561519",
-    "deeplink": "https://www.airbnb.com/rooms/48561519?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 7,
-    "name": "Getaway Beach Studio, steps from the beach! {213}",
-    "bathrooms": 1,
-    "bedrooms": 0,
-    "beds": 1,
-    "city": "Carolina",
-    "images": [
+    id: "48561519",
+    url: "https://www.airbnb.com/rooms/48561519",
+    deeplink:
+      "https://www.airbnb.com/rooms/48561519?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 7,
+    name: "Getaway Beach Studio, steps from the beach! {213}",
+    bathrooms: 1,
+    bedrooms: 0,
+    beds: 1,
+    city: "Carolina",
+    images: [
       "https://a0.muscache.com/im/pictures/15f9739c-e80c-4212-9b29-cb4b3212b8b5.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/2fce9b87-4e83-499e-b2d4-c7fce9899f1b.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/00def6a2-2569-4364-8de8-6169a523311b.jpg?im_w=720",
@@ -2907,56 +3000,58 @@
       "https://a0.muscache.com/im/pictures/c50b2363-31f4-4819-b1cc-8d84454a3ab7.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/9d00146d-d9a9-4ccb-baeb-362c5d9450ad.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/999b55aa-064a-45b3-a546-317c6d6cc141.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/42441df2-c99c-4653-ad5e-759be0a7dfca.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/42441df2-c99c-4653-ad5e-759be0a7dfca.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/ff1d1f8c-be7e-4cab-b71d-e1ed67c158d1.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": true,
-    "lat": 18.44527,
-    "lng": -66.01642,
-    "persons": 2,
-    "reviewsCount": 202,
-    "rating": 4.56,
-    "type": "Entire rental unit",
-    "userId": 85877219,
-    "address": "Carolina, Carolina, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/ff1d1f8c-be7e-4cab-b71d-e1ed67c158d1.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: true,
+    lat: 18.44527,
+    lng: -66.01642,
+    persons: 2,
+    reviewsCount: 202,
+    rating: 4.56,
+    type: "Entire rental unit",
+    userId: 85877219,
+    address: "Carolina, Carolina, Puerto Rico",
+    amenityIds: [
       1, 4, 5, 134, 8, 9, 77, 21, 85, 89, 90, 91, 93, 94, 31, 96, 33, 34, 674,
-      35, 36, 37, 39, 40, 41, 43, 44, 45, 46, 47
+      35, 36, 37, 39, 40, 41, 43, 44, 45, 46, 47,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Free parking"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 151,
-      "currency": "USD",
-      "total": 151,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Free parking"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 151,
+      currency: "USD",
+      total: 151,
+      priceItems: [
         {
-          "amount": 82
+          amount: 82,
         },
         {
-          "amount": 40
+          amount: 40,
         },
         {
-          "amount": 20
+          amount: 20,
         },
         {
-          "amount": 9
-        }
-      ]
-    }
+          amount: 9,
+        },
+      ],
+    },
   },
   {
-    "id": "689863251732217428",
-    "url": "https://www.airbnb.com/rooms/689863251732217428",
-    "deeplink": "https://www.airbnb.com/rooms/689863251732217428?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 8,
-    "name": "Walk to the beach at this nice studio by Ca. Loiza",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "689863251732217428",
+    url: "https://www.airbnb.com/rooms/689863251732217428",
+    deeplink:
+      "https://www.airbnb.com/rooms/689863251732217428?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 8,
+    name: "Walk to the beach at this nice studio by Ca. Loiza",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-689863251732217428/original/890c9ab6-7fbe-48eb-8a18-62e6ac9ffd80.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-689863251732217428/original/62ae6a05-8f7a-4cdf-bdcf-aa23689bc640.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-689863251732217428/original/a1919e6b-dfd6-46d4-854e-104b0eaea7a6.jpeg?im_w=720",
@@ -2973,52 +3068,54 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-689863251732217428/original/3bb9a5f5-2e33-49e7-8e5e-5343d91d3b7e.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-689863251732217428/original/1329444f-a9d9-443d-9c89-23a530be128b.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-689863251732217428/original/905ab1d4-2a1b-49e9-bd9a-214f8d74edb7.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-689863251732217428/original/370c0a19-b740-45e9-85a8-ff4c72e507c9.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-689863251732217428/original/370c0a19-b740-45e9-85a8-ff4c72e507c9.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/5a0317a1-7698-4d34-aeb7-34bd444a1c3a.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.451,
-    "lng": -66.05232,
-    "persons": 2,
-    "reviewsCount": 63,
-    "rating": 4.76,
-    "type": "Entire rental unit",
-    "userId": 474192519,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
-      96, 1, 611, 4, 5, 8, 40, 104, 41, 77, 51, 85, 54, 23, 57, 89, 91, 93, 94
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/5a0317a1-7698-4d34-aeb7-34bd444a1c3a.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.451,
+    lng: -66.05232,
+    persons: 2,
+    reviewsCount: 63,
+    rating: 4.76,
+    type: "Entire rental unit",
+    userId: 474192519,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
+      96, 1, 611, 4, 5, 8, 40, 104, 41, 77, 51, 85, 54, 23, 57, 89, 91, 93, 94,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Self check-in"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 87,
-      "currency": "USD",
-      "total": 87,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Self check-in"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 87,
+      currency: "USD",
+      total: 87,
+      priceItems: [
         {
-          "amount": 70
+          amount: 70,
         },
         {
-          "amount": 12
+          amount: 12,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "43912545",
-    "url": "https://www.airbnb.com/rooms/43912545",
-    "deeplink": "https://www.airbnb.com/rooms/43912545?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 9,
-    "name": "Escape Puerto Rico",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Cayey",
-    "images": [
+    id: "43912545",
+    url: "https://www.airbnb.com/rooms/43912545",
+    deeplink:
+      "https://www.airbnb.com/rooms/43912545?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 9,
+    name: "Escape Puerto Rico",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Cayey",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-43912545/original/aae0d193-1146-402c-b55f-0874e43b57c2.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-43912545/original/c5469cc2-00d5-4d83-9a1b-0927c588e97d.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-43912545/original/cc4e4e84-8241-4e56-87ac-4ab8059da074.jpeg?im_w=720",
@@ -3041,56 +3138,58 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-43912545/original/e39469f3-d5eb-4163-a344-54f69ad5de26.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-43912545/original/cd1d1044-909c-44c8-be20-a63ccf98f24a.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-43912545/original/8c587a42-d334-4331-8ec3-c18eea405754.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-43912545/original/bb42d9d8-54a2-4078-983a-0c5c58273ad9.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-43912545/original/bb42d9d8-54a2-4078-983a-0c5c58273ad9.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a3cf83e5-7e5b-4dcc-bb46-0b54f4f39a4c.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.12815,
-    "lng": -66.07123,
-    "persons": 2,
-    "reviewsCount": 269,
-    "rating": 4.99,
-    "type": "Dome",
-    "userId": 75305848,
-    "address": "Cayey, Cayey, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/a3cf83e5-7e5b-4dcc-bb46-0b54f4f39a4c.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.12815,
+    lng: -66.07123,
+    persons: 2,
+    reviewsCount: 269,
+    rating: 4.99,
+    type: "Dome",
+    userId: 75305848,
+    address: "Cayey, Cayey, Puerto Rico",
+    amenityIds: [
       96, 35, 611, 5, 37, 7, 39, 8, 40, 9, 41, 44, 77, 657, 146, 210, 179, 184,
-      248, 57, 89, 93, 94
+      248, 57, 89, 93, 94,
     ],
-    "previewAmenities": ["Air conditioning", "Free parking"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 462,
-      "currency": "USD",
-      "total": 462,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Free parking"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 462,
+      currency: "USD",
+      total: 462,
+      priceItems: [
         {
-          "amount": 298
+          amount: 298,
         },
         {
-          "amount": 75
+          amount: 75,
         },
         {
-          "amount": 63
+          amount: 63,
         },
         {
-          "amount": 26
-        }
-      ]
-    }
+          amount: 26,
+        },
+      ],
+    },
   },
   {
-    "id": "31710061",
-    "url": "https://www.airbnb.com/rooms/31710061",
-    "deeplink": "https://www.airbnb.com/rooms/31710061?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 10,
-    "name": "GoodVibesOnly! Walk to Beach & Close to Airport #1",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 2,
-    "city": "Carolina",
-    "images": [
+    id: "31710061",
+    url: "https://www.airbnb.com/rooms/31710061",
+    deeplink:
+      "https://www.airbnb.com/rooms/31710061?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 10,
+    name: "GoodVibesOnly! Walk to Beach & Close to Airport #1",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 2,
+    city: "Carolina",
+    images: [
       "https://a0.muscache.com/im/pictures/39c3f165-d334-4106-ac57-f948bec9dac0.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-31710061/original/d8e836be-7d46-47ea-a78b-ddc6fb48d675.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/6a2ad3d2-4d9e-4aa3-956e-1565d5224fd4.jpg?im_w=720",
@@ -3120,63 +3219,65 @@
       "https://a0.muscache.com/im/pictures/8c4a9776-d53a-40cc-b8ba-36d152b40c12.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/6e4ba5aa-e91d-4f2d-954d-51c0f44d4dcc.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/dc0e381f-b623-4e7b-8e49-3ec733841d64.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/92f9bf14-88f5-4da0-acd1-472d60969dab.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/92f9bf14-88f5-4da0-acd1-472d60969dab.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/9f9076cb-6209-46c3-9668-ec0ca4697d8b.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.44085,
-    "lng": -66.02852,
-    "persons": 3,
-    "reviewsCount": 323,
-    "rating": 4.91,
-    "type": "Entire rental unit",
-    "userId": 237532175,
-    "address": "Carolina, Carolina, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/9f9076cb-6209-46c3-9668-ec0ca4697d8b.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.44085,
+    lng: -66.02852,
+    persons: 3,
+    reviewsCount: 323,
+    rating: 4.91,
+    type: "Entire rental unit",
+    userId: 237532175,
+    address: "Carolina, Carolina, Puerto Rico",
+    amenityIds: [
       1, 4, 5, 134, 8, 392, 9, 137, 394, 12, 657, 23, 663, 280, 153, 665, 415,
       671, 674, 35, 39, 40, 41, 42, 44, 45, 46, 47, 51, 308, 55, 184, 57, 66,
       71, 72, 74, 77, 85, 86, 89, 90, 91, 93, 94, 96, 98, 227, 611, 100, 101,
-      102, 103, 104, 236, 627
+      102, 103, 104, 236, 627,
     ],
-    "previewAmenities": [
+    previewAmenities: [
       "Air conditioning",
       "Wifi",
       "Free parking",
-      "Self check-in"
+      "Self check-in",
     ],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 174,
-      "currency": "USD",
-      "total": 174,
-      "priceItems": [
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 174,
+      currency: "USD",
+      total: 174,
+      priceItems: [
         {
-          "amount": 100
+          amount: 100,
         },
         {
-          "amount": 40
+          amount: 40,
         },
         {
-          "amount": 24
+          amount: 24,
         },
         {
-          "amount": 10
-        }
-      ]
-    }
+          amount: 10,
+        },
+      ],
+    },
   },
   {
-    "id": "566709032564158195",
-    "url": "https://www.airbnb.com/rooms/566709032564158195",
-    "deeplink": "https://www.airbnb.com/rooms/566709032564158195?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 11,
-    "name": "Centric  & Cozy 1 bedroom apt in the heart of SJ",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "566709032564158195",
+    url: "https://www.airbnb.com/rooms/566709032564158195",
+    deeplink:
+      "https://www.airbnb.com/rooms/566709032564158195?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 11,
+    name: "Centric  & Cozy 1 bedroom apt in the heart of SJ",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/60cced87-9693-4f62-82d8-217fec843e0d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-566709032564158195/original/30cb0a8a-c6e8-47de-becd-12fd655edeb4.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/2f2ba298-0e4e-426c-bb16-88f26c503697.jpg?im_w=720",
@@ -3184,60 +3285,62 @@
       "https://a0.muscache.com/im/pictures/23491196-5bc9-48d9-b4bc-a70038379cf5.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-566709032564158195/original/09467e74-007d-4f57-bfb0-a98f5ad97f7e.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-566709032564158195/original/5b385ddb-9978-49ec-abf8-052079f5eacf.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-566709032564158195/original/fb57e725-694d-43cf-b13f-1c906aab4d19.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-566709032564158195/original/fb57e725-694d-43cf-b13f-1c906aab4d19.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/2890a166-44a4-4723-8f06-91b8ec4388b3.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.45728,
-    "lng": -66.08806,
-    "persons": 2,
-    "reviewsCount": 123,
-    "rating": 4.81,
-    "type": "Entire condo",
-    "userId": 375353763,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
-      33, 4, 5, 39, 8, 40, 9, 44, 77, 46, 47, 51, 54, 91, 61, 93, 94
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/2890a166-44a4-4723-8f06-91b8ec4388b3.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.45728,
+    lng: -66.08806,
+    persons: 2,
+    reviewsCount: 123,
+    rating: 4.81,
+    type: "Entire condo",
+    userId: 375353763,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
+      33, 4, 5, 39, 8, 40, 9, 44, 77, 46, 47, 51, 54, 91, 61, 93, 94,
     ],
-    "previewAmenities": [
+    previewAmenities: [
       "Air conditioning",
       "Wifi",
       "Free parking",
-      "Self check-in"
+      "Self check-in",
     ],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 124,
-      "currency": "USD",
-      "total": 124,
-      "priceItems": [
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 124,
+      currency: "USD",
+      total: 124,
+      priceItems: [
         {
-          "amount": 80
+          amount: 80,
         },
         {
-          "amount": 20
+          amount: 20,
         },
         {
-          "amount": 17
+          amount: 17,
         },
         {
-          "amount": 7
-        }
-      ]
-    }
+          amount: 7,
+        },
+      ],
+    },
   },
   {
-    "id": "15821030",
-    "url": "https://www.airbnb.com/rooms/15821030",
-    "deeplink": "https://www.airbnb.com/rooms/15821030?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 12,
-    "name": "Incredible, Romantic Getaway! Beach front condo",
-    "bathrooms": 1,
-    "bedrooms": 0,
-    "beds": 1,
-    "city": "Luquillo",
-    "images": [
+    id: "15821030",
+    url: "https://www.airbnb.com/rooms/15821030",
+    deeplink:
+      "https://www.airbnb.com/rooms/15821030?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 12,
+    name: "Incredible, Romantic Getaway! Beach front condo",
+    bathrooms: 1,
+    bedrooms: 0,
+    beds: 1,
+    city: "Luquillo",
+    images: [
       "https://a0.muscache.com/im/pictures/ab8e6807-e4b3-4807-a882-d65a2f722b85.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/a97cc8d2-f791-4b46-a8f3-6141ab8b377f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/f223080e-0980-417d-b361-75453c44238e.jpg?im_w=720",
@@ -3264,61 +3367,63 @@
       "https://a0.muscache.com/im/pictures/9d054339-7f81-477d-9b7f-4f13a3afcc8e.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e2242c05-0afa-44e0-82b5-2f4347d2f2c2.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/c26940c9-556f-4251-8d9f-093f8327ba28.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/2007739f-d5ce-44ac-9fb2-cb4efd5febb7.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/2007739f-d5ce-44ac-9fb2-cb4efd5febb7.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a1b54288-232b-4981-940a-213dfb925b4a.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.38111,
-    "lng": -65.7194,
-    "persons": 2,
-    "reviewsCount": 428,
-    "rating": 4.82,
-    "type": "Entire condo",
-    "userId": 102422218,
-    "address": "Luquillo, Luquillo, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/a1b54288-232b-4981-940a-213dfb925b4a.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.38111,
+    lng: -65.7194,
+    persons: 2,
+    reviewsCount: 428,
+    rating: 4.82,
+    type: "Entire condo",
+    userId: 102422218,
+    address: "Luquillo, Luquillo, Puerto Rico",
+    amenityIds: [
       1, 4, 5, 134, 7, 8, 9, 77, 21, 280, 89, 90, 91, 93, 30, 94, 31, 671, 96,
-      33, 34, 674, 100, 37, 39, 40, 104, 44, 45, 49, 51, 54
+      33, 34, 674, 100, 37, 39, 40, 104, 44, 45, 49, 51, 54,
     ],
-    "previewAmenities": [
+    previewAmenities: [
       "Air conditioning",
       "Wifi",
       "Free parking",
-      "Self check-in"
+      "Self check-in",
     ],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 206,
-      "currency": "USD",
-      "total": 206,
-      "priceItems": [
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 206,
+      currency: "USD",
+      total: 206,
+      priceItems: [
         {
-          "amount": 106
+          amount: 106,
         },
         {
-          "amount": 60
+          amount: 60,
         },
         {
-          "amount": 28
+          amount: 28,
         },
         {
-          "amount": 12
-        }
-      ]
-    }
+          amount: 12,
+        },
+      ],
+    },
   },
   {
-    "id": "14125433",
-    "url": "https://www.airbnb.com/rooms/14125433",
-    "deeplink": "https://www.airbnb.com/rooms/14125433?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 13,
-    "name": "A cool Tripper's Inn Room #2",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "14125433",
+    url: "https://www.airbnb.com/rooms/14125433",
+    deeplink:
+      "https://www.airbnb.com/rooms/14125433?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 13,
+    name: "A cool Tripper's Inn Room #2",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/7a7df41a-a6e4-4fc1-a7fd-c899203b83f6.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5fe7010e-2e0b-40cf-9296-0b1f76d4ce9f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/d494a798-5acb-4c93-8b56-e3512e32871b.jpg?im_w=720",
@@ -3332,53 +3437,55 @@
       "https://a0.muscache.com/im/pictures/5de0c239-1a71-4992-94ba-c908f01fdce5.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/7699666b-48e5-4a87-bc4a-5be04988da82.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/be899c9e-45ad-47bc-abed-31c3935ec0a9.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/22f2b291-ff44-4c6b-afda-a50bf5667d0c.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/22f2b291-ff44-4c6b-afda-a50bf5667d0c.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/896957cd-2673-4bad-ae43-5bac586406e5.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.4517,
-    "lng": -66.05268,
-    "persons": 2,
-    "reviewsCount": 386,
-    "rating": 4.79,
-    "type": "Room in boutique hotel",
-    "userId": 244610,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/896957cd-2673-4bad-ae43-5bac586406e5.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.4517,
+    lng: -66.05268,
+    persons: 2,
+    reviewsCount: 386,
+    rating: 4.79,
+    type: "Room in boutique hotel",
+    userId: 244610,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
       4, 5, 101, 71, 103, 8, 40, 104, 41, 42, 43, 44, 45, 77, 46, 51, 53, 23,
-      89, 90, 91, 31
+      89, 90, 91, 31,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Self check-in"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 81,
-      "currency": "USD",
-      "total": 81,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Self check-in"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 81,
+      currency: "USD",
+      total: 81,
+      priceItems: [
         {
-          "amount": 65
+          amount: 65,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "697194532274647544",
-    "url": "https://www.airbnb.com/rooms/697194532274647544",
-    "deeplink": "https://www.airbnb.com/rooms/697194532274647544?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 14,
-    "name": "GM Studio #6, Everything at your fingertips",
-    "bathrooms": 1,
-    "bedrooms": 0,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "697194532274647544",
+    url: "https://www.airbnb.com/rooms/697194532274647544",
+    deeplink:
+      "https://www.airbnb.com/rooms/697194532274647544?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 14,
+    name: "GM Studio #6, Everything at your fingertips",
+    bathrooms: 1,
+    bedrooms: 0,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-697194532274647544/original/d90e7c05-a623-4c70-9fff-9da3a3e78f5d.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-697194532274647544/original/702d0c8d-7e19-4f82-84e4-b80e5ff45389.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-697194532274647544/original/14534cce-f4d4-4900-9071-4fe0e17f3a50.jpeg?im_w=720",
@@ -3398,59 +3505,61 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-697194532274647544/original/6515baca-3464-46e6-9d64-f823a6a0b829.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-697194532274647544/original/b4ffc137-dac6-4463-a284-7d035fcec957.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-697194532274647544/original/20b4c0dd-e7e4-401b-b486-cb4ce0f484bf.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-697194532274647544/original/c9452903-c2c0-4307-b27f-fd41a6e089b5.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-697194532274647544/original/c9452903-c2c0-4307-b27f-fd41a6e089b5.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-304735278/original/559f1aed-9e87-459d-ac37-2cb33af1868c.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.4451,
-    "lng": -66.06927,
-    "persons": 2,
-    "reviewsCount": 66,
-    "rating": 4.85,
-    "type": "Entire condo",
-    "userId": 304735278,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-304735278/original/559f1aed-9e87-459d-ac37-2cb33af1868c.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.4451,
+    lng: -66.06927,
+    persons: 2,
+    reviewsCount: 66,
+    rating: 4.85,
+    type: "Entire condo",
+    userId: 304735278,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
       1, 2, 4, 5, 8, 9, 73, 77, 657, 146, 85, 280, 89, 665, 90, 91, 93, 30, 94,
       671, 96, 33, 34, 35, 611, 37, 39, 40, 104, 232, 41, 42, 44, 45, 46, 47,
-      51, 54, 315
+      51, 54, 315,
     ],
-    "previewAmenities": [
+    previewAmenities: [
       "Air conditioning",
       "Wifi",
       "Free parking",
-      "Self check-in"
+      "Self check-in",
     ],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 79,
-      "currency": "USD",
-      "total": 79,
-      "priceItems": [
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 79,
+      currency: "USD",
+      total: 79,
+      priceItems: [
         {
-          "amount": 64
+          amount: 64,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 4
-        }
-      ]
-    }
+          amount: 4,
+        },
+      ],
+    },
   },
   {
-    "id": "36481834",
-    "url": "https://www.airbnb.com/rooms/36481834",
-    "deeplink": "https://www.airbnb.com/rooms/36481834?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 15,
-    "name": "El Yunque Waterfalls, forest  & river tiny house",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 2,
-    "city": "Naguabo",
-    "images": [
+    id: "36481834",
+    url: "https://www.airbnb.com/rooms/36481834",
+    deeplink:
+      "https://www.airbnb.com/rooms/36481834?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 15,
+    name: "El Yunque Waterfalls, forest  & river tiny house",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 2,
+    city: "Naguabo",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-36481834/original/cba4213d-1f7e-446a-9323-211a2b15708b.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-36481834/original/77d1181e-ceea-45f0-9ed5-e05b49f9159d.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-36481834/original/815cbbe6-cece-4afb-8c20-3148abf23a7d.jpeg?im_w=720",
@@ -3480,56 +3589,58 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-36481834/original/8d7b1222-e2e2-4006-b053-879c0929a723.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-36481834/original/15ace93a-71c3-46e7-8973-d96ba95ee4e2.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-36481834/original/96c73e17-6fce-44f7-9caf-d4e2866c0b4f.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-36481834/original/438b82cd-95d0-4906-b224-2b94a439495b.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-36481834/original/438b82cd-95d0-4906-b224-2b94a439495b.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/7abf8c15-bf95-432d-aca4-b44cbeac1ce2.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.24562,
-    "lng": -65.78666,
-    "persons": 4,
-    "reviewsCount": 410,
-    "rating": 4.92,
-    "type": "Entire guesthouse",
-    "userId": 250596717,
-    "address": "Naguabo, Naguabo, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/7abf8c15-bf95-432d-aca4-b44cbeac1ce2.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.24562,
+    lng: -65.78666,
+    persons: 4,
+    reviewsCount: 410,
+    rating: 4.92,
+    type: "Entire guesthouse",
+    userId: 250596717,
+    address: "Naguabo, Naguabo, Puerto Rico",
+    amenityIds: [
       132, 8, 392, 9, 521, 394, 522, 77, 657, 146, 210, 85, 280, 89, 665, 90,
       91, 219, 93, 94, 95, 415, 96, 672, 35, 611, 36, 100, 37, 101, 39, 40, 104,
-      41, 42, 44, 236, 51, 179, 627, 308, 54, 56, 57
+      41, 42, 44, 236, 51, 179, 627, 308, 54, 56, 57,
     ],
-    "previewAmenities": ["Free parking", "Self check-in"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 226,
-      "currency": "USD",
-      "total": 226,
-      "priceItems": [
+    previewAmenities: ["Free parking", "Self check-in"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 226,
+      currency: "USD",
+      total: 226,
+      priceItems: [
         {
-          "amount": 122
+          amount: 122,
         },
         {
-          "amount": 60
+          amount: 60,
         },
         {
-          "amount": 31
+          amount: 31,
         },
         {
-          "amount": 13
-        }
-      ]
-    }
+          amount: 13,
+        },
+      ],
+    },
   },
   {
-    "id": "712294828493427775",
-    "url": "https://www.airbnb.com/rooms/712294828493427775",
-    "deeplink": "https://www.airbnb.com/rooms/712294828493427775?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 16,
-    "name": "Toro Negro Mountaintop Ocean View Finca",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "images": [
+    id: "712294828493427775",
+    url: "https://www.airbnb.com/rooms/712294828493427775",
+    deeplink:
+      "https://www.airbnb.com/rooms/712294828493427775?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 16,
+    name: "Toro Negro Mountaintop Ocean View Finca",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    images: [
       "https://a0.muscache.com/im/pictures/3725e22b-6f47-46c5-9373-17bfecdaa086.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-712294828493427775/original/ac563f3a-d90b-4290-b2eb-e3b05c02e7b7.png?im_w=720",
       "https://a0.muscache.com/im/pictures/c9ab24a7-50c6-4159-83b6-a33193250ecc.jpg?im_w=720",
@@ -3554,62 +3665,64 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-712294828493427775/original/5e7fb498-c640-47c7-9534-8b6e1e942b9b.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-712294828493427775/original/9491d0e4-755d-4d19-b26f-efb0a886a022.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-712294828493427775/original/0c299786-01b9-43db-9021-49c3a0c04d66.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-712294828493427775/original/61200667-ff2d-4c3c-967a-dc76831e3eae.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-712294828493427775/original/61200667-ff2d-4c3c-967a-dc76831e3eae.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a4a423aa-c98f-4dc4-b1bf-9a3106207edb.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.14799,
-    "lng": -66.54036,
-    "persons": 2,
-    "reviewsCount": 57,
-    "rating": 4.93,
-    "type": "Shipping container",
-    "userId": 6560844,
-    "address": "PR, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/a4a423aa-c98f-4dc4-b1bf-9a3106207edb.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.14799,
+    lng: -66.54036,
+    persons: 2,
+    reviewsCount: 57,
+    rating: 4.93,
+    type: "Shipping container",
+    userId: 6560844,
+    address: "PR, Puerto Rico",
+    amenityIds: [
       4, 5, 8, 9, 73, 137, 77, 79, 145, 657, 146, 210, 85, 23, 280, 665, 90, 91,
       219, 93, 30, 94, 415, 96, 98, 35, 611, 36, 100, 101, 39, 40, 41, 107, 51,
-      179, 308, 54, 184, 248, 57, 61, 510
+      179, 308, 54, 184, 248, 57, 61, 510,
     ],
-    "previewAmenities": [
+    previewAmenities: [
       "Air conditioning",
       "Wifi",
       "Free parking",
-      "Self check-in"
+      "Self check-in",
     ],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 255,
-      "currency": "USD",
-      "total": 255,
-      "priceItems": [
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 255,
+      currency: "USD",
+      total: 255,
+      priceItems: [
         {
-          "amount": 146
+          amount: 146,
         },
         {
-          "amount": 60
+          amount: 60,
         },
         {
-          "amount": 35
+          amount: 35,
         },
         {
-          "amount": 14
-        }
-      ]
-    }
+          amount: 14,
+        },
+      ],
+    },
   },
   {
-    "id": "734918466899368741",
-    "url": "https://www.airbnb.com/rooms/734918466899368741",
-    "deeplink": "https://www.airbnb.com/rooms/734918466899368741?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 17,
-    "name": "Casa Berta centrally located Antique House in SG",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "San Germán",
-    "images": [
+    id: "734918466899368741",
+    url: "https://www.airbnb.com/rooms/734918466899368741",
+    deeplink:
+      "https://www.airbnb.com/rooms/734918466899368741?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 17,
+    name: "Casa Berta centrally located Antique House in SG",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "San Germán",
+    images: [
       "https://a0.muscache.com/im/pictures/8b447cdc-cbc6-44fa-aebe-ac8811ae7369.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/491ebd60-5ee7-45cd-b877-c4d506caaaa0.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/0ddda2c0-74c5-4145-947f-598765589528.jpg?im_w=720",
@@ -3627,54 +3740,56 @@
       "https://a0.muscache.com/im/pictures/a7462a97-4189-486f-8b53-ca427c049a60.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/2e76193d-8663-4bba-9d8e-906b4118f0e2.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/60a6ac3c-cbf6-4ae3-aa39-5257968adb5d.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/fbaf9d64-0b6d-4ab8-85f5-c056f7c68200.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/fbaf9d64-0b6d-4ab8-85f5-c056f7c68200.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/d653d11a-487f-468d-b020-6fa0141b50b9.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.08104,
-    "lng": -67.04625,
-    "persons": 2,
-    "reviewsCount": 17,
-    "rating": 4.76,
-    "type": "Entire home",
-    "userId": 467855270,
-    "address": "San Germán, San Germán, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/d653d11a-487f-468d-b020-6fa0141b50b9.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.08104,
+    lng: -67.04625,
+    persons: 2,
+    reviewsCount: 17,
+    rating: 4.76,
+    type: "Entire home",
+    userId: 467855270,
+    address: "San Germán, San Germán, Puerto Rico",
+    amenityIds: [
       1, 5, 8, 9, 394, 522, 12, 77, 79, 657, 146, 211, 85, 23, 663, 280, 89,
       665, 90, 91, 667, 93, 94, 415, 671, 96, 672, 100, 37, 39, 103, 40, 104,
-      41, 42, 44, 236, 46, 47, 51, 54, 57, 61
+      41, 42, 44, 236, 46, 47, 51, 54, 57, 61,
     ],
-    "previewAmenities": ["Air conditioning", "Free parking", "Self check-in"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 68,
-      "currency": "USD",
-      "total": 68,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Free parking", "Self check-in"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 68,
+      currency: "USD",
+      total: 68,
+      priceItems: [
         {
-          "amount": 55
+          amount: 55,
         },
         {
-          "amount": 9
+          amount: 9,
         },
         {
-          "amount": 4
-        }
-      ]
-    }
+          amount: 4,
+        },
+      ],
+    },
   },
   {
-    "id": "45783249",
-    "url": "https://www.airbnb.com/rooms/45783249",
-    "deeplink": "https://www.airbnb.com/rooms/45783249?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 18,
-    "name": "OLD SAN JUAN GUESTHOUSE INTERIOR ROOM",
-    "bathrooms": 1,
-    "bedrooms": 0,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "45783249",
+    url: "https://www.airbnb.com/rooms/45783249",
+    deeplink:
+      "https://www.airbnb.com/rooms/45783249?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 18,
+    name: "OLD SAN JUAN GUESTHOUSE INTERIOR ROOM",
+    bathrooms: 1,
+    bedrooms: 0,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/da364d40-d06c-4c9c-b15e-44ceb85ee1b1.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/34d3688c-d49d-4865-ab6e-6eb3c949a5ee.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/1db5ecf1-9ee2-4cf1-8217-d6d332d3eb7c.jpg?im_w=720",
@@ -3704,55 +3819,58 @@
       "https://a0.muscache.com/im/pictures/3add90d1-e873-470e-96ce-4ef81cb9db51.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/ffd2b0d2-4045-426d-bdf8-57c04b8e6085.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/9ee29c64-b15a-4c92-87a0-68489eb90891.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/6c9cf86a-1280-4f02-b08c-23523cbd21d7.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/6c9cf86a-1280-4f02-b08c-23523cbd21d7.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/7274ae5d-af47-4547-a5f9-f7abb8c2b8ca.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.46572,
-    "lng": -66.11506,
-    "persons": 2,
-    "reviewsCount": 196,
-    "rating": 4.62,
-    "type": "Private room in serviced apartment",
-    "userId": 95943500,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
-      1, 33, 34, 35, 4, 5, 101, 39, 103, 40, 41, 42, 44, 77, 657, 51, 54, 57, 91
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/7274ae5d-af47-4547-a5f9-f7abb8c2b8ca.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.46572,
+    lng: -66.11506,
+    persons: 2,
+    reviewsCount: 196,
+    rating: 4.62,
+    type: "Private room in serviced apartment",
+    userId: 95943500,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
+      1, 33, 34, 35, 4, 5, 101, 39, 103, 40, 41, 42, 44, 77, 657, 51, 54, 57,
+      91,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Self check-in"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 128,
-      "currency": "USD",
-      "total": 128,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Self check-in"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 128,
+      currency: "USD",
+      total: 128,
+      priceItems: [
         {
-          "amount": 89
+          amount: 89,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 17
+          amount: 17,
         },
         {
-          "amount": 7
-        }
-      ]
-    }
+          amount: 7,
+        },
+      ],
+    },
   },
   {
-    "id": "42493588",
-    "url": "https://www.airbnb.com/rooms/42493588",
-    "deeplink": "https://www.airbnb.com/rooms/42493588?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 19,
-    "name": "Beautiful studio for layover close airport&beach",
-    "bathrooms": 1,
-    "bedrooms": 0,
-    "beds": 2,
-    "city": "La Marina",
-    "images": [
+    id: "42493588",
+    url: "https://www.airbnb.com/rooms/42493588",
+    deeplink:
+      "https://www.airbnb.com/rooms/42493588?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 19,
+    name: "Beautiful studio for layover close airport&beach",
+    bathrooms: 1,
+    bedrooms: 0,
+    beds: 2,
+    city: "La Marina",
+    images: [
       "https://a0.muscache.com/im/pictures/11b16fea-0361-488e-a1db-0503e8180350.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/101af286-6ae0-45e3-b57d-9e762cf04650.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/c361706a-45f7-4634-ae2b-ab91a24a2fe9.jpg?im_w=720",
@@ -3765,56 +3883,58 @@
       "https://a0.muscache.com/im/pictures/d7f6247e-d9eb-4c40-b91e-509bd0ea6822.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/7878a313-658a-471f-93bf-0f7707dc6452.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/7a085757-7a73-4342-9bec-9b7f40e240a7.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/01a4012e-7ff6-423f-9a9f-599be6519c17.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/01a4012e-7ff6-423f-9a9f-599be6519c17.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/2624953f-672e-42dc-aa11-cfd142683993.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.42768,
-    "lng": -66.00961,
-    "persons": 3,
-    "reviewsCount": 328,
-    "rating": 4.28,
-    "type": "Entire rental unit",
-    "userId": 179242142,
-    "address": "La Marina, Carolina, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/2624953f-672e-42dc-aa11-cfd142683993.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.42768,
+    lng: -66.00961,
+    persons: 3,
+    reviewsCount: 328,
+    rating: 4.28,
+    type: "Entire rental unit",
+    userId: 179242142,
+    address: "La Marina, Carolina, Puerto Rico",
+    amenityIds: [
       1, 4, 5, 8, 12, 77, 85, 86, 23, 89, 90, 91, 93, 96, 98, 35, 100, 103, 40,
-      41, 45, 46, 51, 627, 54
+      41, 45, 46, 51, 627, 54,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Self check-in"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 86,
-      "currency": "USD",
-      "total": 86,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Self check-in"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 86,
+      currency: "USD",
+      total: 86,
+      priceItems: [
         {
-          "amount": 59
+          amount: 59,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 12
+          amount: 12,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "5006581",
-    "url": "https://www.airbnb.com/rooms/5006581",
-    "deeplink": "https://www.airbnb.com/rooms/5006581?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 20,
-    "name": "A cool room at a Tripper's Inn. #C",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "5006581",
+    url: "https://www.airbnb.com/rooms/5006581",
+    deeplink:
+      "https://www.airbnb.com/rooms/5006581?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 20,
+    name: "A cool room at a Tripper's Inn. #C",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/62680403/b8f676cb_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/62680389/1af868b7_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/62680396/3e2bf582_original.jpg?im_w=720",
@@ -3828,53 +3948,55 @@
       "https://a0.muscache.com/im/pictures/62680342/944a5ea4_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/62680408/fae30c83_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/62872675/dd322261_original.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/62872685/56c4745e_original.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/62872685/56c4745e_original.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/dc7672f2-de6e-4fcb-9fb9-0e39219ab4ef.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.45317,
-    "lng": -66.05533,
-    "persons": 2,
-    "reviewsCount": 719,
-    "rating": 4.83,
-    "type": "Entire rental unit",
-    "userId": 21940885,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/dc7672f2-de6e-4fcb-9fb9-0e39219ab4ef.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.45317,
+    lng: -66.05533,
+    persons: 2,
+    reviewsCount: 719,
+    rating: 4.83,
+    type: "Entire rental unit",
+    userId: 21940885,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
       1, 3, 4, 5, 8, 72, 77, 23, 89, 90, 91, 93, 94, 31, 35, 38, 39, 103, 40,
-      104, 44, 45, 46, 51, 53
+      104, 44, 45, 46, 51, 53,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Self check-in"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 124,
-      "currency": "USD",
-      "total": 124,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Self check-in"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 124,
+      currency: "USD",
+      total: 124,
+      priceItems: [
         {
-          "amount": 100
+          amount: 100,
         },
         {
-          "amount": 17
+          amount: 17,
         },
         {
-          "amount": 7
-        }
-      ]
-    }
+          amount: 7,
+        },
+      ],
+    },
   },
   {
-    "id": "54182690",
-    "url": "https://www.airbnb.com/rooms/54182690",
-    "deeplink": "https://www.airbnb.com/rooms/54182690?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 21,
-    "name": "Healing Mountain Retreat @ Finca Remedio Eco Farm",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Utuado",
-    "images": [
+    id: "54182690",
+    url: "https://www.airbnb.com/rooms/54182690",
+    deeplink:
+      "https://www.airbnb.com/rooms/54182690?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 21,
+    name: "Healing Mountain Retreat @ Finca Remedio Eco Farm",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Utuado",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-54182690/original/198fcb6f-c0d6-465e-b030-8a7a60377d25.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-54182690/original/578439d3-98d3-4b7f-a577-9dc133572abd.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-54182690/original/da1fa41b-f2fd-4b0c-b15d-3cd7b890b5fe.jpeg?im_w=720",
@@ -3904,56 +4026,58 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-54182690/original/a2054d1e-d69c-4b8d-8046-b4eeee62c30c.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/80ac79c1-de35-4642-a93b-a49b47e4d70c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/d23cb315-0bcf-4584-b074-6159bb3692ca.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-54182690/original/a80f64dd-7f6c-4b1d-a427-814734cbaef6.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-54182690/original/a80f64dd-7f6c-4b1d-a427-814734cbaef6.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a1ae4e2c-a10f-4a2a-84a2-28d4fe91909d.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.22625,
-    "lng": -66.70861,
-    "persons": 8,
-    "reviewsCount": 109,
-    "rating": 4.99,
-    "type": "Farm stay",
-    "userId": 45830432,
-    "address": "Utuado, Utuado, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/a1ae4e2c-a10f-4a2a-84a2-28d4fe91909d.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.22625,
+    lng: -66.70861,
+    persons: 8,
+    reviewsCount: 109,
+    rating: 4.99,
+    type: "Farm stay",
+    userId: 45830432,
+    address: "Utuado, Utuado, Puerto Rico",
+    amenityIds: [
       129, 4, 8, 9, 11, 77, 79, 146, 210, 211, 85, 86, 153, 665, 90, 91, 93, 94,
-      100, 37, 101, 40, 236, 47, 179, 510
+      100, 37, 101, 40, 236, 47, 179, 510,
     ],
-    "previewAmenities": ["Wifi", "Free parking"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 138,
-      "currency": "USD",
-      "total": 138,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 138,
+      currency: "USD",
+      total: 138,
+      priceItems: [
         {
-          "amount": 86
+          amount: 86,
         },
         {
-          "amount": 25
+          amount: 25,
         },
         {
-          "amount": 19
+          amount: 19,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "51068130",
-    "url": "https://www.airbnb.com/rooms/51068130",
-    "deeplink": "https://www.airbnb.com/rooms/51068130?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 22,
-    "name": "Casa Amber | Puerto Rico\nLa casita",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Yauco",
-    "images": [
+    id: "51068130",
+    url: "https://www.airbnb.com/rooms/51068130",
+    deeplink:
+      "https://www.airbnb.com/rooms/51068130?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 22,
+    name: "Casa Amber | Puerto Rico\nLa casita",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Yauco",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-51068130/original/310b4614-7847-4a2e-8a34-cf877cc6486d.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/e7967e20-3699-4336-84af-1a18bb4c6696.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/828d43dd-4df3-4055-9b9d-04268c975c51.jpg?im_w=720",
@@ -3964,53 +4088,55 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-51068130/original/309224de-91f7-4ae1-93d8-264944b5c0cf.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-51068130/original/6ce4b3e8-4040-4738-9186-14467a8246ff.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/878c8453-2511-46f3-a285-c08df6818b4b.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/6210bb47-c061-4159-90e5-8f5afc256351.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/6210bb47-c061-4159-90e5-8f5afc256351.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/c5c9857d-258b-4030-98de-d3fdfaf56ddb.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.09223,
-    "lng": -66.84021,
-    "persons": 2,
-    "reviewsCount": 201,
-    "rating": 4.89,
-    "type": "Entire cottage",
-    "userId": 168205009,
-    "address": "Yauco, Puerto Rico, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/c5c9857d-258b-4030-98de-d3fdfaf56ddb.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.09223,
+    lng: -66.84021,
+    persons: 2,
+    reviewsCount: 201,
+    rating: 4.89,
+    type: "Entire cottage",
+    userId: 168205009,
+    address: "Yauco, Puerto Rico, Puerto Rico",
+    amenityIds: [
       4, 8, 9, 394, 11, 139, 12, 77, 16, 146, 85, 23, 153, 90, 91, 219, 93, 94,
-      415, 671, 35, 99, 100, 37, 101, 39, 40, 104, 41, 51, 179, 54, 57, 510
+      415, 671, 35, 99, 100, 37, 101, 39, 40, 104, 41, 51, 179, 54, 57, 510,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 105,
-      "currency": "USD",
-      "total": 105,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 105,
+      currency: "USD",
+      total: 105,
+      priceItems: [
         {
-          "amount": 85
+          amount: 85,
         },
         {
-          "amount": 14
+          amount: 14,
         },
         {
-          "amount": 6
-        }
-      ]
-    }
+          amount: 6,
+        },
+      ],
+    },
   },
   {
-    "id": "28777650",
-    "url": "https://www.airbnb.com/rooms/28777650",
-    "deeplink": "https://www.airbnb.com/rooms/28777650?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 23,
-    "name": "Casa Luna (Room 8)",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "28777650",
+    url: "https://www.airbnb.com/rooms/28777650",
+    deeplink:
+      "https://www.airbnb.com/rooms/28777650?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 23,
+    name: "Casa Luna (Room 8)",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/c7888436-f8c6-4101-bf5e-3fd7fc2a7817.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/9ce41c45-1ec9-4695-824f-944e7889d537.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/cb2470a5-5b97-4d7d-b1cb-a800e671a5ed.jpg?im_w=720",
@@ -4040,52 +4166,54 @@
       "https://a0.muscache.com/im/pictures/275ea25f-04b0-4656-b52f-30eef8afefe8.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/cf003eab-7eb0-4004-996c-b88553b07a3e.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/bfcfb24b-10d9-46c6-bf3c-787beccc2701.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/d99f9b45-faec-47bc-9327-45fbca7b86e2.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/d99f9b45-faec-47bc-9327-45fbca7b86e2.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/7793f54c-238b-4167-b466-415ebc39bc74.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.467167,
-    "lng": -66.112717,
-    "persons": 2,
-    "reviewsCount": 244,
-    "rating": 4.74,
-    "type": "Private room in rental unit",
-    "userId": 214681064,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
-      1, 35, 611, 4, 5, 39, 40, 41, 42, 44, 51, 85, 54, 57, 89, 90, 91, 92, 93
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/7793f54c-238b-4167-b466-415ebc39bc74.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.467167,
+    lng: -66.112717,
+    persons: 2,
+    reviewsCount: 244,
+    rating: 4.74,
+    type: "Private room in rental unit",
+    userId: 214681064,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
+      1, 35, 611, 4, 5, 39, 40, 41, 42, 44, 51, 85, 54, 57, 89, 90, 91, 92, 93,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Self check-in"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 125,
-      "currency": "USD",
-      "total": 125,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Self check-in"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 125,
+      currency: "USD",
+      total: 125,
+      priceItems: [
         {
-          "amount": 101
+          amount: 101,
         },
         {
-          "amount": 17
+          amount: 17,
         },
         {
-          "amount": 7
-        }
-      ]
-    }
+          amount: 7,
+        },
+      ],
+    },
   },
   {
-    "id": "28489345",
-    "url": "https://www.airbnb.com/rooms/28489345",
-    "deeplink": "https://www.airbnb.com/rooms/28489345?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 24,
-    "name": "Casa Luna (Room 5)",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 2,
-    "city": "San Juan",
-    "images": [
+    id: "28489345",
+    url: "https://www.airbnb.com/rooms/28489345",
+    deeplink:
+      "https://www.airbnb.com/rooms/28489345?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 24,
+    name: "Casa Luna (Room 5)",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 2,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/54233e6a-c9cd-4f32-aa5c-6a3033aaf5ae.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/89191ecf-7927-4648-8417-54d06d3852f3.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/792b182c-aff1-465a-a037-f46e1fc260d8.jpg?im_w=720",
@@ -4115,52 +4243,54 @@
       "https://a0.muscache.com/im/pictures/b349f8a1-4d64-4717-8874-23c74db1d770.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/a57d6dd8-085d-41bd-8777-d444f168e00a.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/c739cd0a-a522-4474-8c77-c4ea698c0af0.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/f0a9f095-0d28-467a-aaa2-cea0257c9496.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/f0a9f095-0d28-467a-aaa2-cea0257c9496.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/7793f54c-238b-4167-b466-415ebc39bc74.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.467146,
-    "lng": -66.112617,
-    "persons": 3,
-    "reviewsCount": 405,
-    "rating": 4.76,
-    "type": "Entire rental unit",
-    "userId": 214681064,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
-      1, 35, 611, 4, 5, 39, 40, 41, 42, 44, 51, 85, 54, 57, 89, 90, 91, 92, 93
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/7793f54c-238b-4167-b466-415ebc39bc74.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.467146,
+    lng: -66.112617,
+    persons: 3,
+    reviewsCount: 405,
+    rating: 4.76,
+    type: "Entire rental unit",
+    userId: 214681064,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
+      1, 35, 611, 4, 5, 39, 40, 41, 42, 44, 51, 85, 54, 57, 89, 90, 91, 92, 93,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Self check-in"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 172,
-      "currency": "USD",
-      "total": 172,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Self check-in"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 172,
+      currency: "USD",
+      total: 172,
+      priceItems: [
         {
-          "amount": 139
+          amount: 139,
         },
         {
-          "amount": 23
+          amount: 23,
         },
         {
-          "amount": 10
-        }
-      ]
-    }
+          amount: 10,
+        },
+      ],
+    },
   },
   {
-    "id": "783913813436051291",
-    "url": "https://www.airbnb.com/rooms/783913813436051291",
-    "deeplink": "https://www.airbnb.com/rooms/783913813436051291?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 25,
-    "name": "Backpacker's/Surfer's Delight!",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Dorado",
-    "images": [
+    id: "783913813436051291",
+    url: "https://www.airbnb.com/rooms/783913813436051291",
+    deeplink:
+      "https://www.airbnb.com/rooms/783913813436051291?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 25,
+    name: "Backpacker's/Surfer's Delight!",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Dorado",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-783913813436051291/original/3c6b05a0-0066-4376-80c8-91e80d902514.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/8b3fd43a-69b0-451c-909a-8d5616f9a41e.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-783913813436051291/original/f7466d3c-e9af-4f98-8d19-b256ff88944f.jpeg?im_w=720",
@@ -4172,59 +4302,61 @@
       "https://a0.muscache.com/im/pictures/0d9a90ec-7e90-48a5-b844-94d2d10ddbf1.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-783913813436051291/original/49549d5a-6e63-4dea-9bad-d6e44d9383d3.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-783913813436051291/original/6ce778b6-a75e-47da-98df-7dc483985acb.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/060ba333-047a-4e0e-a1f8-ed88c72407a1.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/060ba333-047a-4e0e-a1f8-ed88c72407a1.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a7379fd3-3b50-4ae9-8c75-66e341a818c7.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.47648956266,
-    "lng": -66.26021426171064,
-    "persons": 2,
-    "reviewsCount": 42,
-    "rating": 4.93,
-    "type": "Entire rental unit",
-    "userId": 34049868,
-    "address": "Dorado, Dorado, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/a7379fd3-3b50-4ae9-8c75-66e341a818c7.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.47648956266,
+    lng: -66.26021426171064,
+    persons: 2,
+    reviewsCount: 42,
+    rating: 4.93,
+    type: "Entire rental unit",
+    userId: 34049868,
+    address: "Dorado, Dorado, Puerto Rico",
+    amenityIds: [
       4, 132, 5, 135, 8, 9, 73, 77, 79, 145, 657, 85, 86, 23, 87, 280, 89, 665,
       90, 91, 93, 30, 415, 671, 674, 35, 611, 36, 100, 37, 101, 102, 39, 103,
-      40, 104, 41, 107, 44, 51, 308, 54, 248, 57, 251, 510
+      40, 104, 41, 107, 44, 51, 308, 54, 248, 57, 251, 510,
     ],
-    "previewAmenities": [
+    previewAmenities: [
       "Air conditioning",
       "Wifi",
       "Free parking",
-      "Self check-in"
+      "Self check-in",
     ],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 83,
-      "currency": "USD",
-      "total": 83,
-      "priceItems": [
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 83,
+      currency: "USD",
+      total: 83,
+      priceItems: [
         {
-          "amount": 67
+          amount: 67,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "28867569",
-    "url": "https://www.airbnb.com/rooms/28867569",
-    "deeplink": "https://www.airbnb.com/rooms/28867569?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 26,
-    "name": "Blue Room/Pool/Cacao Tour/Forest/Wifi-A/C",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "",
-    "images": [
+    id: "28867569",
+    url: "https://www.airbnb.com/rooms/28867569",
+    deeplink:
+      "https://www.airbnb.com/rooms/28867569?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 26,
+    name: "Blue Room/Pool/Cacao Tour/Forest/Wifi-A/C",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "",
+    images: [
       "https://a0.muscache.com/im/pictures/7a6a81bb-1529-4968-98d8-cb93448e9b4f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/565dc3b9-0f38-4497-99fb-a6290c521961.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e34a3a13-0ea0-4c60-87b3-d08c2b5fcf01.jpg?im_w=720",
@@ -4254,117 +4386,121 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-28867569/original/1d2330ab-a954-47fe-9120-840bbce76881.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/0cc1681b-536b-449e-beec-fae29cbbbc1a.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/2a29488a-eefd-49ff-9175-b0911100adc0.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/e27166e8-88aa-43ac-9608-c41c8cb491e5.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/e27166e8-88aa-43ac-9608-c41c8cb491e5.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/4ae3fc13-e945-48f3-a846-49ebe0b55c9d.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.37155,
-    "lng": -67.18825,
-    "persons": 2,
-    "reviewsCount": 118,
-    "rating": 4.92,
-    "type": "Private room in cottage",
-    "userId": 214603251,
-    "address": "PR, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/4ae3fc13-e945-48f3-a846-49ebe0b55c9d.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.37155,
+    lng: -67.18825,
+    persons: 2,
+    reviewsCount: 118,
+    rating: 4.92,
+    type: "Private room in cottage",
+    userId: 214603251,
+    address: "PR, Puerto Rico",
+    amenityIds: [
       1, 4, 132, 5, 7, 8, 392, 9, 394, 139, 657, 280, 153, 665, 30, 415, 671,
       672, 674, 35, 37, 39, 40, 41, 42, 44, 47, 51, 179, 54, 66, 67, 73, 74, 77,
       79, 85, 86, 87, 89, 90, 91, 219, 93, 94, 96, 98, 99, 611, 100, 101, 103,
-      107, 236, 626, 251
+      107, 236, 626, 251,
     ],
-    "previewAmenities": [
+    previewAmenities: [
       "Air conditioning",
       "Wifi",
       "Free parking",
-      "Self check-in"
+      "Self check-in",
     ],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 99,
-      "currency": "USD",
-      "total": 99,
-      "priceItems": [
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 99,
+      currency: "USD",
+      total: 99,
+      priceItems: [
         {
-          "amount": 65
+          amount: 65,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 13
+          amount: 13,
         },
         {
-          "amount": 6
-        }
-      ]
-    }
+          amount: 6,
+        },
+      ],
+    },
   },
   {
-    "id": "631090881396056302",
-    "url": "https://www.airbnb.com/rooms/631090881396056302",
-    "deeplink": "https://www.airbnb.com/rooms/631090881396056302?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 27,
-    "name": "NOMADA HOSTEL ISLA VERDE-THE GLOBETROTTER",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Carolina",
-    "images": [
+    id: "631090881396056302",
+    url: "https://www.airbnb.com/rooms/631090881396056302",
+    deeplink:
+      "https://www.airbnb.com/rooms/631090881396056302?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 27,
+    name: "NOMADA HOSTEL ISLA VERDE-THE GLOBETROTTER",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Carolina",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-631090881396056302/original/7b44bfe8-3ece-4b24-bbb2-d62c5d65aac9.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-631090881396056302/original/ed27bee6-4e88-4879-a586-9233f12e551e.png?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-631090881396056302/original/c2a5dd52-8942-4e7e-b2ed-472e9096c214.png?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-631090881396056302/original/a33d5941-a0ac-41c8-af7d-b3835928d56c.png?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-631090881396056302/original/2225609a-56f4-4a2b-a971-977b9ea3831b.png?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-631090881396056302/original/8c40004e-0c5e-48b3-adc1-6aed6a18a821.png?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-631090881396056302/original/f35f0031-fb37-4eba-87fb-6932a8dc47e0.png?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-631090881396056302/original/f35f0031-fb37-4eba-87fb-6932a8dc47e0.png?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/067a8662-f49f-462d-a06a-bc9fa08c4cf6.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.44311,
-    "lng": -66.02844,
-    "persons": 1,
-    "reviewsCount": 15,
-    "rating": 4.53,
-    "type": "Shared room in hostel",
-    "userId": 434279543,
-    "address": "Carolina, Carolina, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/067a8662-f49f-462d-a06a-bc9fa08c4cf6.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.44311,
+    lng: -66.02844,
+    persons: 1,
+    reviewsCount: 15,
+    rating: 4.53,
+    type: "Shared room in hostel",
+    userId: 434279543,
+    address: "Carolina, Carolina, Puerto Rico",
+    amenityIds: [
       4, 5, 7, 8, 9, 77, 79, 210, 85, 86, 23, 280, 89, 90, 91, 93, 94, 671, 96,
       33, 34, 35, 99, 611, 37, 101, 39, 103, 40, 232, 41, 42, 44, 45, 46, 47,
-      626, 179, 308, 251, 510
+      626, 179, 308, 251, 510,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Free parking"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 32,
-      "currency": "USD",
-      "total": 32,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Free parking"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 32,
+      currency: "USD",
+      total: 32,
+      priceItems: [
         {
-          "amount": 40
+          amount: 40,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 2
-        }
-      ]
-    }
+          amount: 2,
+        },
+      ],
+    },
   },
   {
-    "id": "696673770027520925",
-    "url": "https://www.airbnb.com/rooms/696673770027520925",
-    "deeplink": "https://www.airbnb.com/rooms/696673770027520925?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 28,
-    "name": "GM Studio #10, all at your fingertips",
-    "bathrooms": 1,
-    "bedrooms": 0,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "696673770027520925",
+    url: "https://www.airbnb.com/rooms/696673770027520925",
+    deeplink:
+      "https://www.airbnb.com/rooms/696673770027520925?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 28,
+    name: "GM Studio #10, all at your fingertips",
+    bathrooms: 1,
+    bedrooms: 0,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-696673770027520925/original/bee3c150-de57-4f9b-9df1-cd4ed60bd5ed.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-696673770027520925/original/5a163dcd-fe85-4d9e-bcf3-009220fb8836.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-696673770027520925/original/b1663ed6-3321-4a01-b1b3-de523aa4256c.jpeg?im_w=720",
@@ -4383,59 +4519,61 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-696673770027520925/original/515423a3-780e-470a-b4b6-64c46de2b32a.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-696673770027520925/original/7c63bed4-c3a3-4690-913e-6f2f80d8b736.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-696673770027520925/original/00726178-dc2a-49ec-b18f-88a1982ebd20.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-696673770027520925/original/3c8e147c-1345-4167-9864-3b7939407329.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-696673770027520925/original/3c8e147c-1345-4167-9864-3b7939407329.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-304735278/original/559f1aed-9e87-459d-ac37-2cb33af1868c.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.4509,
-    "lng": -66.06547,
-    "persons": 2,
-    "reviewsCount": 62,
-    "rating": 4.66,
-    "type": "Entire condo",
-    "userId": 304735278,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-304735278/original/559f1aed-9e87-459d-ac37-2cb33af1868c.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.4509,
+    lng: -66.06547,
+    persons: 2,
+    reviewsCount: 62,
+    rating: 4.66,
+    type: "Entire condo",
+    userId: 304735278,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
       1, 2, 4, 5, 8, 9, 73, 77, 657, 146, 85, 280, 89, 665, 90, 91, 93, 30, 94,
       671, 96, 33, 34, 35, 611, 37, 39, 40, 104, 232, 41, 44, 236, 45, 46, 47,
-      51, 54, 315
+      51, 54, 315,
     ],
-    "previewAmenities": [
+    previewAmenities: [
       "Air conditioning",
       "Wifi",
       "Free parking",
-      "Self check-in"
+      "Self check-in",
     ],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 79,
-      "currency": "USD",
-      "total": 79,
-      "priceItems": [
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 79,
+      currency: "USD",
+      total: 79,
+      priceItems: [
         {
-          "amount": 64
+          amount: 64,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 4
-        }
-      ]
-    }
+          amount: 4,
+        },
+      ],
+    },
   },
   {
-    "id": "4164769",
-    "url": "https://www.airbnb.com/rooms/4164769",
-    "deeplink": "https://www.airbnb.com/rooms/4164769?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 29,
-    "name": "Mountain Home with Wonderful View",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Barranquitas",
-    "images": [
+    id: "4164769",
+    url: "https://www.airbnb.com/rooms/4164769",
+    deeplink:
+      "https://www.airbnb.com/rooms/4164769?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 29,
+    name: "Mountain Home with Wonderful View",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Barranquitas",
+    images: [
       "https://a0.muscache.com/im/pictures/ad0e93bd-c6ea-4e7a-931b-071ded8c6628.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-4164769/original/986b9807-7eed-4b83-b6a3-c057f6ec16e4.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-4164769/original/a63bf7f1-6910-4f36-82c3-9b76cd3f9df2.jpeg?im_w=720",
@@ -4448,56 +4586,58 @@
       "https://a0.muscache.com/im/pictures/be8cc612-3a54-4cee-b46a-e50c3413b41b.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/bb8c40f1-5846-4d5a-86fd-7eb2d9f36fff.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/1750f842-2244-4aef-8fa6-a7103309a85b.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/3222b4f3-cab1-49fb-9366-3c193c3f24e8.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/3222b4f3-cab1-49fb-9366-3c193c3f24e8.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/ef57a3a3-8b52-49f1-9bd3-abd19ba8f795.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.21175,
-    "lng": -66.27591,
-    "persons": 2,
-    "reviewsCount": 351,
-    "rating": 4.92,
-    "type": "Entire home",
-    "userId": 21615959,
-    "address": "Barranquitas, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/ef57a3a3-8b52-49f1-9bd3-abd19ba8f795.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.21175,
+    lng: -66.27591,
+    persons: 2,
+    reviewsCount: 351,
+    rating: 4.92,
+    type: "Entire home",
+    userId: 21615959,
+    address: "Barranquitas, Puerto Rico",
+    amenityIds: [
       129, 3, 4, 8, 9, 11, 77, 79, 17, 18, 19, 23, 90, 91, 93, 94, 96, 33, 34,
-      611, 100, 37, 103, 40, 104, 41, 42, 44, 45, 46, 47, 49, 50, 57
+      611, 100, 37, 103, 40, 104, 41, 42, 44, 45, 46, 47, 49, 50, 57,
     ],
-    "previewAmenities": ["Wifi", "Free parking"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 130,
-      "currency": "USD",
-      "total": 130,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 130,
+      currency: "USD",
+      total: 130,
+      priceItems: [
         {
-          "amount": 80
+          amount: 80,
         },
         {
-          "amount": 25
+          amount: 25,
         },
         {
-          "amount": 18
+          amount: 18,
         },
         {
-          "amount": 7
-        }
-      ]
-    }
+          amount: 7,
+        },
+      ],
+    },
   },
   {
-    "id": "17567166",
-    "url": "https://www.airbnb.com/rooms/17567166",
-    "deeplink": "https://www.airbnb.com/rooms/17567166?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 30,
-    "name": "El Yunque View Treehouse",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Río Grande",
-    "images": [
+    id: "17567166",
+    url: "https://www.airbnb.com/rooms/17567166",
+    deeplink:
+      "https://www.airbnb.com/rooms/17567166?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 30,
+    name: "El Yunque View Treehouse",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Río Grande",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-17567166/original/e80e4cf0-9b6f-4fd9-add3-2448146b5169.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/e1de7631-e885-4713-b963-5d6295f30c15.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-17567166/original/c726ac7a-43ec-435c-8f02-f7a74b9dae59.jpeg?im_w=720",
@@ -4521,62 +4661,64 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-17567166/original/93284ea7-e466-478e-879b-043524f55e81.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-17567166/original/165ca67b-94e8-4b92-9956-cd9c438f71cf.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-17567166/original/a97b587d-7776-4249-9d63-5ec0813995ca.png?im_w=720",
-      "https://a0.muscache.com/im/pictures/d0519383-bdb6-4ccd-8211-3f2c19de420d.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/d0519383-bdb6-4ccd-8211-3f2c19de420d.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/e28191c9-4d44-4155-8cb8-01342af449fe.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.342049,
-    "lng": -65.831184,
-    "persons": 2,
-    "reviewsCount": 590,
-    "rating": 4.96,
-    "type": "Treehouse",
-    "userId": 110317612,
-    "address": "Río Grande, Río Grande, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/e28191c9-4d44-4155-8cb8-01342af449fe.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.342049,
+    lng: -65.831184,
+    persons: 2,
+    reviewsCount: 590,
+    rating: 4.96,
+    type: "Treehouse",
+    userId: 110317612,
+    address: "Río Grande, Río Grande, Puerto Rico",
+    amenityIds: [
       1, 129, 2, 4, 5, 9, 73, 394, 77, 79, 657, 146, 85, 86, 87, 280, 89, 153,
       90, 219, 93, 415, 672, 35, 36, 100, 37, 101, 38, 39, 40, 41, 42, 236, 45,
-      46, 47, 49, 50, 51, 179, 54, 57
+      46, 47, 49, 50, 51, 179, 54, 57,
     ],
-    "previewAmenities": [
+    previewAmenities: [
       "Air conditioning",
       "Wifi",
       "Free parking",
-      "Self check-in"
+      "Self check-in",
     ],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 242,
-      "currency": "USD",
-      "total": 242,
-      "priceItems": [
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 242,
+      currency: "USD",
+      total: 242,
+      priceItems: [
         {
-          "amount": 175
+          amount: 175,
         },
         {
-          "amount": 20
+          amount: 20,
         },
         {
-          "amount": 33
+          amount: 33,
         },
         {
-          "amount": 14
-        }
-      ]
-    }
+          amount: 14,
+        },
+      ],
+    },
   },
   {
-    "id": "14125919",
-    "url": "https://www.airbnb.com/rooms/14125919",
-    "deeplink": "https://www.airbnb.com/rooms/14125919?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 31,
-    "name": "A cool Tripper's Inn Room #3",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "14125919",
+    url: "https://www.airbnb.com/rooms/14125919",
+    deeplink:
+      "https://www.airbnb.com/rooms/14125919?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 31,
+    name: "A cool Tripper's Inn Room #3",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/e72f748e-a739-4ee1-9caf-0726bdefbf0b.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/30335a03-1ac5-4ad7-ae80-26d04dc2ef18.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5c50f7eb-eb70-4c2d-8978-8db50ae24001.jpg?im_w=720",
@@ -4591,52 +4733,54 @@
       "https://a0.muscache.com/im/pictures/35526b15-e27b-4ae6-8d4f-aba1274ad344.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/f9d7d6b4-f8d3-4558-9ff0-d2db2f83f4af.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/ba892ab4-caf1-46ba-8f4d-a218d341e9df.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/4ff32893-06c0-485e-a00a-96af12741a95.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/4ff32893-06c0-485e-a00a-96af12741a95.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/896957cd-2673-4bad-ae43-5bac586406e5.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.45176,
-    "lng": -66.05266,
-    "persons": 2,
-    "reviewsCount": 444,
-    "rating": 4.72,
-    "type": "Room in boutique hotel",
-    "userId": 244610,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
-      4, 5, 71, 103, 8, 40, 41, 42, 43, 44, 45, 77, 46, 51, 53, 23, 31
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/896957cd-2673-4bad-ae43-5bac586406e5.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.45176,
+    lng: -66.05266,
+    persons: 2,
+    reviewsCount: 444,
+    rating: 4.72,
+    type: "Room in boutique hotel",
+    userId: 244610,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
+      4, 5, 71, 103, 8, 40, 41, 42, 43, 44, 45, 77, 46, 51, 53, 23, 31,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Self check-in"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 81,
-      "currency": "USD",
-      "total": 81,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Self check-in"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 81,
+      currency: "USD",
+      total: 81,
+      priceItems: [
         {
-          "amount": 65
+          amount: 65,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "43970388",
-    "url": "https://www.airbnb.com/rooms/43970388",
-    "deeplink": "https://www.airbnb.com/rooms/43970388?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 32,
-    "name": "Ocean View Studio, steps from the beach! {203}",
-    "bathrooms": 1,
-    "bedrooms": 0,
-    "beds": 1,
-    "city": "Carolina",
-    "images": [
+    id: "43970388",
+    url: "https://www.airbnb.com/rooms/43970388",
+    deeplink:
+      "https://www.airbnb.com/rooms/43970388?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 32,
+    name: "Ocean View Studio, steps from the beach! {203}",
+    bathrooms: 1,
+    bedrooms: 0,
+    beds: 1,
+    city: "Carolina",
+    images: [
       "https://a0.muscache.com/im/pictures/996ecff7-e299-4e66-ac09-731612786444.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/dec71430-882b-4529-bbc0-22a225222c50.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/0a2ab903-6441-41b9-96ee-ca554400d9a6.jpg?im_w=720",
@@ -4648,53 +4792,55 @@
       "https://a0.muscache.com/im/pictures/71fc065a-c7cb-4f51-94ab-76ece91762da.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/f77276cc-23c4-4eee-bfe9-8482486075e0.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/a5dd95e6-e27a-44ff-af96-3c1e211ee5f5.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/15be7d6c-a79e-4e51-aa4d-d36027ad8860.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/15be7d6c-a79e-4e51-aa4d-d36027ad8860.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/55351194-6cfb-419d-8692-5e4296d8d69f.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.44508,
-    "lng": -66.01741,
-    "persons": 2,
-    "reviewsCount": 216,
-    "rating": 4.5,
-    "type": "Entire condo",
-    "userId": 338184966,
-    "address": "Carolina, Carolina, Puerto Rico",
-    "amenityIds": [1, 33, 34, 35, 5, 37, 8, 40, 9, 41, 44, 45, 77, 46, 21, 85],
-    "previewAmenities": ["Air conditioning", "Free parking"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 147,
-      "currency": "USD",
-      "total": 147,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/55351194-6cfb-419d-8692-5e4296d8d69f.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.44508,
+    lng: -66.01741,
+    persons: 2,
+    reviewsCount: 216,
+    rating: 4.5,
+    type: "Entire condo",
+    userId: 338184966,
+    address: "Carolina, Carolina, Puerto Rico",
+    amenityIds: [1, 33, 34, 35, 5, 37, 8, 40, 9, 41, 44, 45, 77, 46, 21, 85],
+    previewAmenities: ["Air conditioning", "Free parking"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 147,
+      currency: "USD",
+      total: 147,
+      priceItems: [
         {
-          "amount": 79
+          amount: 79,
         },
         {
-          "amount": 40
+          amount: 40,
         },
         {
-          "amount": 20
+          amount: 20,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "854683475118527765",
-    "url": "https://www.airbnb.com/rooms/854683475118527765",
-    "deeplink": "https://www.airbnb.com/rooms/854683475118527765?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 33,
-    "name": "Perfect suite #1",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "854683475118527765",
+    url: "https://www.airbnb.com/rooms/854683475118527765",
+    deeplink:
+      "https://www.airbnb.com/rooms/854683475118527765?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 33,
+    name: "Perfect suite #1",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-854683475118527765/original/3e3d1409-0243-4fc9-8ad1-04daf922797f.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-854683475118527765/original/55170b62-a0ef-4f20-be3e-31318db16243.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-854683475118527765/original/44b99413-e385-4b6e-8e96-34778a1bf435.jpeg?im_w=720",
@@ -4706,106 +4852,110 @@
       "https://a0.muscache.com/im/pictures/0fd7f723-b531-42fe-9921-822c7b292acb.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/0bbf40c1-4e90-4780-a59d-03201f759ee8.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e9ef67d3-e54f-45a4-a45c-6b2aa5e267db.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/fe73656e-0929-41e5-bc68-e370d84cb7e2.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/fe73656e-0929-41e5-bc68-e370d84cb7e2.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/220d30f2-eb30-4eb0-8fa8-5e0388375199.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.432346327451206,
-    "lng": -66.05463534593582,
-    "persons": 3,
-    "reviewsCount": 12,
-    "rating": 4.92,
-    "type": "Entire rental unit",
-    "userId": 501798135,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [32, 1, 35, 4, 36, 5, 37, 39, 8, 9, 11, 12, 51, 179, 54, 510],
-    "previewAmenities": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/220d30f2-eb30-4eb0-8fa8-5e0388375199.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.432346327451206,
+    lng: -66.05463534593582,
+    persons: 3,
+    reviewsCount: 12,
+    rating: 4.92,
+    type: "Entire rental unit",
+    userId: 501798135,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [32, 1, 35, 4, 36, 5, 37, 39, 8, 9, 11, 12, 51, 179, 54, 510],
+    previewAmenities: [
       "Air conditioning",
       "Wifi",
       "Free parking",
-      "Self check-in"
+      "Self check-in",
     ],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 74,
-      "currency": "USD",
-      "total": 74,
-      "priceItems": [
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 74,
+      currency: "USD",
+      total: 74,
+      priceItems: [
         {
-          "amount": 60
+          amount: 60,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 4
-        }
-      ]
-    }
+          amount: 4,
+        },
+      ],
+    },
   },
   {
-    "id": "9760276",
-    "url": "https://www.airbnb.com/rooms/9760276",
-    "deeplink": "https://www.airbnb.com/rooms/9760276?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 34,
-    "name": "Lopez del Campo Room",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "9760276",
+    url: "https://www.airbnb.com/rooms/9760276",
+    deeplink:
+      "https://www.airbnb.com/rooms/9760276?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 34,
+    name: "Lopez del Campo Room",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/ad495a74-d1e6-4994-9bb3-e6d0e7608049.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/33094c4c-412a-4d39-ab64-d068d75b03a2.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/03b24ec3-b797-4c95-a03a-4fd717c35c48.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/cea923dd-3f0f-4f77-ac70-41f5b96f1962.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/d55ff85e-0198-4461-98be-a5a159cc768b.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/d55ff85e-0198-4461-98be-a5a159cc768b.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/users/14504989/profile_pic/1398013857/original.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.46727,
-    "lng": -66.11222,
-    "persons": 2,
-    "reviewsCount": 384,
-    "rating": 4.88,
-    "type": "Room in boutique hotel",
-    "userId": 14504989,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/users/14504989/profile_pic/1398013857/original.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.46727,
+    lng: -66.11222,
+    persons: 2,
+    reviewsCount: 384,
+    rating: 4.88,
+    type: "Room in boutique hotel",
+    userId: 14504989,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
       32, 35, 4, 36, 5, 103, 8, 40, 10, 42, 45, 77, 46, 17, 49, 18, 50, 51, 85,
-      86, 55, 89, 90, 91
+      86, 55, 89, 90, 91,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Self check-in"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 120,
-      "currency": "USD",
-      "total": 120,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Self check-in"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 120,
+      currency: "USD",
+      total: 120,
+      priceItems: [
         {
-          "amount": 97
+          amount: 97,
         },
         {
-          "amount": 16
+          amount: 16,
         },
         {
-          "amount": 7
-        }
-      ]
-    }
+          amount: 7,
+        },
+      ],
+    },
   },
   {
-    "id": "810225240139874486",
-    "url": "https://www.airbnb.com/rooms/810225240139874486",
-    "deeplink": "https://www.airbnb.com/rooms/810225240139874486?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 35,
-    "name": "SecretSpot",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "810225240139874486",
+    url: "https://www.airbnb.com/rooms/810225240139874486",
+    deeplink:
+      "https://www.airbnb.com/rooms/810225240139874486?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 35,
+    name: "SecretSpot",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/fa1694ca-2aa1-4949-b8dc-e671e2ec77e4.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/4155e60a-1ffe-4721-b901-38b50c9e6f39.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/c86362e9-ec22-4ecc-8ff4-7e9e8c9b2c8a.jpg?im_w=720",
@@ -4830,54 +4980,56 @@
       "https://a0.muscache.com/im/pictures/b449660d-fd4f-4612-8991-dabe66b4b1ae.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/523cb4f9-b10e-4da9-b94d-171097fdcd63.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/b0c80aa0-7565-4242-b444-635bec0fcf9a.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/60c6ef82-61bf-4d80-85b1-03dcc149c825.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/60c6ef82-61bf-4d80-85b1-03dcc149c825.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/9a8c728a-552d-48d1-8bec-89cff70e7818.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": true,
-    "lat": 18.41803,
-    "lng": -66.05183,
-    "persons": 2,
-    "reviewsCount": 43,
-    "rating": 4.74,
-    "type": "Entire home",
-    "userId": 497447429,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/9a8c728a-552d-48d1-8bec-89cff70e7818.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: true,
+    lat: 18.41803,
+    lng: -66.05183,
+    persons: 2,
+    reviewsCount: 43,
+    rating: 4.74,
+    type: "Entire home",
+    userId: 497447429,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
       1, 4, 5, 73, 77, 79, 657, 146, 85, 23, 87, 25, 89, 665, 90, 91, 476, 93,
       415, 671, 672, 98, 35, 611, 36, 37, 39, 103, 40, 104, 41, 44, 236, 45, 46,
-      686, 47, 51, 308, 54, 57
+      686, 47, 51, 308, 54, 57,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Self check-in"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 81,
-      "currency": "USD",
-      "total": 81,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Self check-in"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 81,
+      currency: "USD",
+      total: 81,
+      priceItems: [
         {
-          "amount": 65
+          amount: 65,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "54398857",
-    "url": "https://www.airbnb.com/rooms/54398857",
-    "deeplink": "https://www.airbnb.com/rooms/54398857?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 36,
-    "name": "Studio with separate entrance,Wifi, floor and Netflix.",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "San Juan",
-    "images": [
+    id: "54398857",
+    url: "https://www.airbnb.com/rooms/54398857",
+    deeplink:
+      "https://www.airbnb.com/rooms/54398857?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 36,
+    name: "Studio with separate entrance,Wifi, floor and Netflix.",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "San Juan",
+    images: [
       "https://a0.muscache.com/im/pictures/e6d24c93-4f2c-4d72-8ef1-2e3d12cb0313.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/c147737f-958f-4fad-991b-4f44dd18ac8d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/2ae70366-b47f-43d1-beba-43fef5962e1e.jpg?im_w=720",
@@ -4886,62 +5038,64 @@
       "https://a0.muscache.com/im/pictures/89293e67-67b2-437a-8d2b-9080bff51cc3.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/d5364c31-edfa-44a3-9c3e-03fc1f09f06f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/fdfd7ef6-2d0b-41cf-a448-da55d9660080.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/5678d291-0604-4cee-8f58-189cf799480c.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/5678d291-0604-4cee-8f58-189cf799480c.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/db716751-367b-4638-865b-35b6225b511b.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": true,
-    "lat": 18.40307,
-    "lng": -66.07243,
-    "persons": 2,
-    "reviewsCount": 206,
-    "rating": 4.87,
-    "type": "Entire home",
-    "userId": 257789064,
-    "address": "San Juan, San Juan, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/db716751-367b-4638-865b-35b6225b511b.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: true,
+    lat: 18.40307,
+    lng: -66.07243,
+    persons: 2,
+    reviewsCount: 206,
+    rating: 4.87,
+    type: "Entire home",
+    userId: 257789064,
+    address: "San Juan, San Juan, Puerto Rico",
+    amenityIds: [
       1, 4, 5, 8, 9, 394, 139, 77, 79, 657, 85, 86, 663, 89, 665, 90, 91, 93,
       94, 95, 415, 671, 96, 672, 98, 35, 611, 36, 40, 104, 41, 44, 236, 45, 46,
-      47, 51, 308, 54, 57
+      47, 51, 308, 54, 57,
     ],
-    "previewAmenities": [
+    previewAmenities: [
       "Air conditioning",
       "Wifi",
       "Free parking",
-      "Self check-in"
+      "Self check-in",
     ],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 74,
-      "currency": "USD",
-      "total": 74,
-      "priceItems": [
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 74,
+      currency: "USD",
+      total: 74,
+      priceItems: [
         {
-          "amount": 55
+          amount: 55,
         },
         {
-          "amount": 5
+          amount: 5,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 4
-        }
-      ]
-    }
+          amount: 4,
+        },
+      ],
+    },
   },
   {
-    "id": "753746205233121459",
-    "url": "https://www.airbnb.com/rooms/753746205233121459",
-    "deeplink": "https://www.airbnb.com/rooms/753746205233121459?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 37,
-    "name": "Charming spot in Carolina",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Carolina",
-    "images": [
+    id: "753746205233121459",
+    url: "https://www.airbnb.com/rooms/753746205233121459",
+    deeplink:
+      "https://www.airbnb.com/rooms/753746205233121459?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 37,
+    name: "Charming spot in Carolina",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Carolina",
+    images: [
       "https://a0.muscache.com/im/pictures/843af818-71cc-420c-a1c8-e34f7f300000.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/8a24743e-b172-4f94-b246-9497cc4f6347.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/fb23c817-b6b8-4817-9cad-bddc8b11ac10.jpg?im_w=720",
@@ -4956,58 +5110,60 @@
       "https://a0.muscache.com/im/pictures/da70ae94-bc46-404f-9c21-3d9fa17d8585.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/68791f0f-000a-4e80-aab3-2a4ee99384bd.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/1633dde1-0467-4f4a-aca7-dd3ac98b2668.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/b4a04519-5af2-41fe-a1db-f932aef5839f.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/b4a04519-5af2-41fe-a1db-f932aef5839f.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/624ada09-414a-449e-bd49-476c1b00950c.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.43065,
-    "lng": -66.01208,
-    "persons": 2,
-    "reviewsCount": 61,
-    "rating": 4.75,
-    "type": "Private room in guesthouse",
-    "userId": 395161752,
-    "address": "Carolina, Carolina, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/624ada09-414a-449e-bd49-476c1b00950c.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.43065,
+    lng: -66.01208,
+    persons: 2,
+    reviewsCount: 61,
+    rating: 4.75,
+    type: "Private room in guesthouse",
+    userId: 395161752,
+    address: "Carolina, Carolina, Puerto Rico",
+    amenityIds: [
       1, 4, 5, 9, 73, 77, 79, 657, 146, 86, 23, 87, 280, 153, 667, 671, 611,
-      100, 103, 40, 104, 41, 42, 44, 46, 51, 179, 54, 57
+      100, 103, 40, 104, 41, 42, 44, 46, 51, 179, 54, 57,
     ],
-    "previewAmenities": [
+    previewAmenities: [
       "Air conditioning",
       "Wifi",
       "Free parking",
-      "Self check-in"
+      "Self check-in",
     ],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 74,
-      "currency": "USD",
-      "total": 74,
-      "priceItems": [
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 74,
+      currency: "USD",
+      total: 74,
+      priceItems: [
         {
-          "amount": 60
+          amount: 60,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 4
-        }
-      ]
-    }
+          amount: 4,
+        },
+      ],
+    },
   },
   {
-    "id": "54092716",
-    "url": "https://www.airbnb.com/rooms/54092716",
-    "deeplink": "https://www.airbnb.com/rooms/54092716?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 38,
-    "name": "Apartamento en Carolina by airport",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 2,
-    "city": "Carolina",
-    "images": [
+    id: "54092716",
+    url: "https://www.airbnb.com/rooms/54092716",
+    deeplink:
+      "https://www.airbnb.com/rooms/54092716?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 38,
+    name: "Apartamento en Carolina by airport",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 2,
+    city: "Carolina",
+    images: [
       "https://a0.muscache.com/im/pictures/e3882bc5-05c6-4136-b523-745b6fe5fcb3.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/bfbfade8-2402-4110-82ac-da0680536a52.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/597d8f64-23c2-4468-b082-75d8eb620a2d.jpg?im_w=720",
@@ -5017,59 +5173,61 @@
       "https://a0.muscache.com/im/pictures/683a2ff6-04f4-4162-8248-f774409a7583.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/0627981c-3a38-4265-bfd1-3a0d71f35a9c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/d5deed55-c59b-4d38-a505-7a097b89e16f.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/1a7dbc95-0975-4d33-b08d-40aceabdfed9.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/1a7dbc95-0975-4d33-b08d-40aceabdfed9.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/624ada09-414a-449e-bd49-476c1b00950c.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 18.43162,
-    "lng": -66.01385,
-    "persons": 3,
-    "reviewsCount": 159,
-    "rating": 4.74,
-    "type": "Entire rental unit",
-    "userId": 395161752,
-    "address": "Carolina, Carolina, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/624ada09-414a-449e-bd49-476c1b00950c.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 18.43162,
+    lng: -66.01385,
+    persons: 3,
+    reviewsCount: 159,
+    rating: 4.74,
+    type: "Entire rental unit",
+    userId: 395161752,
+    address: "Carolina, Carolina, Puerto Rico",
+    amenityIds: [
       1, 4, 5, 8, 9, 73, 77, 79, 657, 146, 210, 85, 23, 87, 280, 89, 665, 90,
       91, 667, 93, 94, 415, 671, 672, 611, 100, 101, 103, 40, 104, 41, 236, 46,
-      47, 51, 54, 57, 510
+      47, 51, 54, 57, 510,
     ],
-    "previewAmenities": [
+    previewAmenities: [
       "Air conditioning",
       "Wifi",
       "Free parking",
-      "Self check-in"
+      "Self check-in",
     ],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 105,
-      "currency": "USD",
-      "total": 105,
-      "priceItems": [
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 105,
+      currency: "USD",
+      total: 105,
+      priceItems: [
         {
-          "amount": 85
+          amount: 85,
         },
         {
-          "amount": 14
+          amount: 14,
         },
         {
-          "amount": 6
-        }
-      ]
-    }
+          amount: 6,
+        },
+      ],
+    },
   },
   {
-    "id": "17096594",
-    "url": "https://www.airbnb.com/rooms/17096594",
-    "deeplink": "https://www.airbnb.com/rooms/17096594?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 39,
-    "name": "Travel to Luna @ iL Dreamer",
-    "bathrooms": 1,
-    "bedrooms": 0,
-    "beds": 2,
-    "city": "Aguadilla",
-    "images": [
+    id: "17096594",
+    url: "https://www.airbnb.com/rooms/17096594",
+    deeplink:
+      "https://www.airbnb.com/rooms/17096594?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 39,
+    name: "Travel to Luna @ iL Dreamer",
+    bathrooms: 1,
+    bedrooms: 0,
+    beds: 2,
+    city: "Aguadilla",
+    images: [
       "https://a0.muscache.com/im/pictures/a322d8e8-67d6-4196-8843-3e92040fbc0d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/1d6ccd5b-2120-4536-afa5-63483b44c308.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/4653c82d-96fe-4fe9-ae58-f9bd9f68dba9.jpg?im_w=720",
@@ -5091,56 +5249,58 @@
       "https://a0.muscache.com/im/pictures/b280c114-9ff8-4476-a98f-b6d8b0cb4d37.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/ee98d01e-926a-4a22-8ca0-5a0abaaeccba.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/6e1a0323-8015-4ac6-ae6e-77ef138f7f2d.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/fc6a5d0d-47dc-46f3-9bed-71c1ca70f179.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/fc6a5d0d-47dc-46f3-9bed-71c1ca70f179.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/e5525719-db98-45a0-a739-16f23d07d384.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.49163,
-    "lng": -67.11947,
-    "persons": 3,
-    "reviewsCount": 422,
-    "rating": 4.88,
-    "type": "Entire guesthouse",
-    "userId": 87392924,
-    "address": "Aguadilla, Aguadilla, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/e5525719-db98-45a0-a739-16f23d07d384.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.49163,
+    lng: -67.11947,
+    persons: 3,
+    reviewsCount: 422,
+    rating: 4.88,
+    type: "Entire guesthouse",
+    userId: 87392924,
+    address: "Aguadilla, Aguadilla, Puerto Rico",
+    amenityIds: [
       1, 129, 3, 4, 5, 8, 9, 12, 77, 17, 18, 85, 23, 90, 91, 93, 94, 31, 96, 33,
-      34, 99, 100, 101, 103, 40, 42, 44, 45, 46, 57
+      34, 99, 100, 101, 103, 40, 42, 44, 45, 46, 57,
     ],
-    "previewAmenities": ["Air conditioning", "Wifi", "Free parking"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 99,
-      "currency": "USD",
-      "total": 99,
-      "priceItems": [
+    previewAmenities: ["Air conditioning", "Wifi", "Free parking"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 99,
+      currency: "USD",
+      total: 99,
+      priceItems: [
         {
-          "amount": 60
+          amount: 60,
         },
         {
-          "amount": 20
+          amount: 20,
         },
         {
-          "amount": 13
+          amount: 13,
         },
         {
-          "amount": 6
-        }
-      ]
-    }
+          amount: 6,
+        },
+      ],
+    },
   },
   {
-    "id": "35063652",
-    "url": "https://www.airbnb.com/rooms/35063652",
-    "deeplink": "https://www.airbnb.com/rooms/35063652?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 40,
-    "name": "Cocal Sunrise",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "El Negro",
-    "images": [
+    id: "35063652",
+    url: "https://www.airbnb.com/rooms/35063652",
+    deeplink:
+      "https://www.airbnb.com/rooms/35063652?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 40,
+    name: "Cocal Sunrise",
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 1,
+    city: "El Negro",
+    images: [
       "https://a0.muscache.com/im/pictures/7dba8b54-44ad-48f4-8704-01a7d1662f8f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/59dd3d38-07e9-4616-a11a-08f3c90d4ab7.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/bd7a4437-29e4-42c0-991a-d67dce9280e0.jpg?im_w=720",
@@ -5158,59 +5318,61 @@
       "https://a0.muscache.com/im/pictures/6c416701-4553-49fe-b59f-4e53ca8ff10a.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/4b06b4c6-655d-4867-871c-eda866ae3633.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/644d808c-3312-46eb-b164-f5753a56e39d.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/172796e5-c869-4453-a2a4-8a0d71df9302.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/172796e5-c869-4453-a2a4-8a0d71df9302.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/bfd59180-f330-4c6d-a176-2a1131831135.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 18.02046133128715,
-    "lng": -65.85040028520719,
-    "persons": 2,
-    "reviewsCount": 30,
-    "rating": 5,
-    "type": "Entire cottage",
-    "userId": 84570705,
-    "address": "El Negro, Yabucoa, Puerto Rico",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/bfd59180-f330-4c6d-a176-2a1131831135.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 18.02046133128715,
+    lng: -65.85040028520719,
+    persons: 2,
+    reviewsCount: 30,
+    rating: 5,
+    type: "Entire cottage",
+    userId: 84570705,
+    address: "El Negro, Yabucoa, Puerto Rico",
+    amenityIds: [
       1, 67, 4, 5, 8, 9, 73, 394, 77, 79, 657, 85, 86, 663, 25, 89, 665, 90, 91,
       93, 94, 415, 671, 96, 672, 98, 674, 37, 101, 39, 40, 41, 42, 44, 236, 46,
-      51, 308, 54, 57, 185, 510
+      51, 308, 54, 57, 185, 510,
     ],
-    "previewAmenities": [
+    previewAmenities: [
       "Air conditioning",
       "Wifi",
       "Free parking",
-      "Self check-in"
+      "Self check-in",
     ],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 297,
-      "currency": "USD",
-      "total": 297,
-      "priceItems": [
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 297,
+      currency: "USD",
+      total: 297,
+      priceItems: [
         {
-          "amount": 240
+          amount: 240,
         },
         {
-          "amount": 40
+          amount: 40,
         },
         {
-          "amount": 17
-        }
-      ]
-    }
+          amount: 17,
+        },
+      ],
+    },
   },
   {
-    "id": "46421552",
-    "url": "https://www.airbnb.com/rooms/46421552",
-    "deeplink": "https://www.airbnb.com/rooms/46421552?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 1,
-    "name": "Spacious unit for a great price Midtown Houston",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 2,
-    "city": "Houston",
-    "images": [
+    id: "46421552",
+    url: "https://www.airbnb.com/rooms/46421552",
+    deeplink:
+      "https://www.airbnb.com/rooms/46421552?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 1,
+    name: "Spacious unit for a great price Midtown Houston",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 2,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/5c188441-5a82-4c4f-877c-17b0f4188001.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/fe79de34-f9af-4a65-aab5-90a17cb2d613.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/eca864ae-8551-472c-8156-463659f020c6.jpg?im_w=720",
@@ -5222,162 +5384,168 @@
       "https://a0.muscache.com/im/pictures/98f97132-aea6-4beb-adb9-9a11b730d32f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/2544d5ec-9e42-450b-b86b-ecc5aeaf4e09.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/37a49b31-fff2-49e8-87c1-4545874dcea1.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/9ee799bf-7980-4a16-82f1-0ab4fe743096.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/9ee799bf-7980-4a16-82f1-0ab4fe743096.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/6a10f6dd-6ecc-4a95-b4cc-48997791a2bf.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.74613,
-    "lng": -95.37703,
-    "persons": 2,
-    "reviewsCount": 307,
-    "rating": 4.64,
-    "type": "Entire rental unit",
-    "userId": 67753663,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/6a10f6dd-6ecc-4a95-b4cc-48997791a2bf.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.74613,
+    lng: -95.37703,
+    persons: 2,
+    reviewsCount: 307,
+    rating: 4.64,
+    type: "Entire rental unit",
+    userId: 67753663,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 4, 5, 8, 9, 137, 139, 12, 77, 86, 663, 89, 90, 91, 93, 30, 94, 95, 671,
       96, 672, 33, 34, 98, 35, 39, 40, 104, 41, 107, 44, 236, 45, 46, 47, 57,
-      251
+      251,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 95,
-      "currency": "USD",
-      "total": 95,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 95,
+      currency: "USD",
+      total: 95,
+      priceItems: [
         {
-          "amount": 61
+          amount: 61,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 12
+          amount: 12,
         },
         {
-          "amount": 12
-        }
-      ]
-    }
+          amount: 12,
+        },
+      ],
+    },
   },
   {
-    "id": "41850623",
-    "url": "https://www.airbnb.com/rooms/41850623",
-    "deeplink": "https://www.airbnb.com/rooms/41850623?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 2,
-    "name": "Popular Midtown  Houston restaurants/nightlife",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "41850623",
+    url: "https://www.airbnb.com/rooms/41850623",
+    deeplink:
+      "https://www.airbnb.com/rooms/41850623?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 2,
+    name: "Popular Midtown  Houston restaurants/nightlife",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-41850623/original/5f22ecb0-cd79-4cac-94fb-f23126ee1789.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-41850623/original/26801e20-a5b1-4ee8-b67f-7462efa7b38f.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-41850623/original/7e4b91a5-0b3d-4f29-96e7-bf957f8ba8f4.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-41850623/original/d79a53ea-b0e9-4dd7-858e-8f4f27c645c0.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-41850623/original/754ef02c-23ec-4034-8a1b-a66268840302.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-41850623/original/e6b6fc1e-de1a-4f2a-8acf-e74faf727c7e.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-41850623/original/e6b6fc1e-de1a-4f2a-8acf-e74faf727c7e.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/6a10f6dd-6ecc-4a95-b4cc-48997791a2bf.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.74459,
-    "lng": -95.37878,
-    "persons": 2,
-    "reviewsCount": 197,
-    "rating": 4.54,
-    "type": "Entire rental unit",
-    "userId": 67753663,
-    "address": "Houston, TX, United States",
-    "amenityIds": [1, 33, 34, 4, 5, 8, 9, 12, 45, 47, 79, 90, 91, 93, 30, 94],
-    "previewAmenities": ["Wifi", "Free parking", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 86,
-      "currency": "USD",
-      "total": 86,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/6a10f6dd-6ecc-4a95-b4cc-48997791a2bf.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.74459,
+    lng: -95.37878,
+    persons: 2,
+    reviewsCount: 197,
+    rating: 4.54,
+    type: "Entire rental unit",
+    userId: 67753663,
+    address: "Houston, TX, United States",
+    amenityIds: [1, 33, 34, 4, 5, 8, 9, 12, 45, 47, 79, 90, 91, 93, 30, 94],
+    previewAmenities: ["Wifi", "Free parking", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 86,
+      currency: "USD",
+      total: 86,
+      priceItems: [
         {
-          "amount": 54
+          amount: 54,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 11
-        }
-      ]
-    }
+          amount: 11,
+        },
+      ],
+    },
   },
   {
-    "id": "816607196769039539",
-    "url": "https://www.airbnb.com/rooms/816607196769039539",
-    "deeplink": "https://www.airbnb.com/rooms/816607196769039539?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 3,
-    "name": "5 Minutes from Hobby",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "816607196769039539",
+    url: "https://www.airbnb.com/rooms/816607196769039539",
+    deeplink:
+      "https://www.airbnb.com/rooms/816607196769039539?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 3,
+    name: "5 Minutes from Hobby",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/cca08f97-811e-49df-9ffc-1cc4388dd62e.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-816607196769039539/original/72e0e127-b9b3-4951-b5e3-05a081fc6284.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-816607196769039539/original/b616b164-be26-4b5b-b74a-5f04af2285ad.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-816607196769039539/original/e5b7be51-f70b-4f4c-8e6a-00cee46ddee2.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/ea238cd6-9b5e-4372-b335-f06cb92041e7.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/40764f06-d137-40ca-a128-c10ffdd9ab81.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/40764f06-d137-40ca-a128-c10ffdd9ab81.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/bec0ffe0-de34-4126-95bb-c762adcfef9a.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.6622,
-    "lng": -95.29186,
-    "persons": 2,
-    "reviewsCount": 43,
-    "rating": 4.93,
-    "type": "Entire rental unit",
-    "userId": 164892,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/bec0ffe0-de34-4126-95bb-c762adcfef9a.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.6622,
+    lng: -95.29186,
+    persons: 2,
+    reviewsCount: 43,
+    rating: 4.93,
+    type: "Entire rental unit",
+    userId: 164892,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 66, 131, 4, 5, 8, 9, 394, 12, 77, 79, 146, 86, 280, 89, 665, 90, 91,
       93, 30, 94, 415, 671, 672, 33, 97, 34, 35, 99, 611, 100, 101, 39, 103, 40,
-      45, 47, 179, 57, 510
+      45, 47, 179, 57, 510,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 95,
-      "currency": "USD",
-      "total": 95,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 95,
+      currency: "USD",
+      total: 95,
+      priceItems: [
         {
-          "amount": 71
+          amount: 71,
         },
         {
-          "amount": 12
+          amount: 12,
         },
         {
-          "amount": 12
-        }
-      ]
-    }
+          amount: 12,
+        },
+      ],
+    },
   },
   {
-    "id": "36322782",
-    "url": "https://www.airbnb.com/rooms/36322782",
-    "deeplink": "https://www.airbnb.com/rooms/36322782?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 4,
-    "name": "Comfy, Medical center, Museums, Montrose, Downtown",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "36322782",
+    url: "https://www.airbnb.com/rooms/36322782",
+    deeplink:
+      "https://www.airbnb.com/rooms/36322782?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 4,
+    name: "Comfy, Medical center, Museums, Montrose, Downtown",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/44be83d1-88dd-410a-b5bc-88bb3170e96e.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/10c644e0-bcdf-45a4-8d22-103c01d28bb2.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/f6187278-e55e-461e-8445-ceb5c1f968af.jpg?im_w=720",
@@ -5407,58 +5575,60 @@
       "https://a0.muscache.com/im/pictures/ad339972-2d31-4727-972d-536e556707e7.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/04626cf2-c921-4582-b3e1-2f2258b6300e.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/b2b26d08-e937-4b40-a0bf-371e7df29c54.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/6fb0dd15-301e-4e57-a65d-c8f837ce92fb.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/6fb0dd15-301e-4e57-a65d-c8f837ce92fb.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/ddf8d1ce-20d4-472a-a3c2-d925548a0f49.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.67657,
-    "lng": -95.37105,
-    "persons": 2,
-    "reviewsCount": 162,
-    "rating": 4.88,
-    "type": "Private room in home",
-    "userId": 40032486,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/ddf8d1ce-20d4-472a-a3c2-d925548a0f49.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.67657,
+    lng: -95.37105,
+    persons: 2,
+    reviewsCount: 162,
+    rating: 4.88,
+    type: "Private room in home",
+    userId: 40032486,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 2, 4, 5, 8, 9, 522, 11, 139, 15, 657, 146, 23, 25, 665, 30, 415, 671,
       672, 33, 34, 35, 36, 37, 39, 40, 41, 42, 44, 45, 46, 47, 51, 52, 308, 56,
       315, 61, 73, 75, 77, 79, 85, 86, 87, 89, 90, 91, 92, 93, 94, 95, 96, 98,
-      99, 611, 100, 101, 103, 104, 232, 107, 626, 251
+      99, 611, 100, 101, 103, 104, 232, 107, 626, 251,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 58,
-      "currency": "USD",
-      "total": 58,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 58,
+      currency: "USD",
+      total: 58,
+      priceItems: [
         {
-          "amount": 39
+          amount: 39,
         },
         {
-          "amount": 5
+          amount: 5,
         },
         {
-          "amount": 7
+          amount: 7,
         },
         {
-          "amount": 7
-        }
-      ]
-    }
+          amount: 7,
+        },
+      ],
+    },
   },
   {
-    "id": "17407857",
-    "url": "https://www.airbnb.com/rooms/17407857",
-    "deeplink": "https://www.airbnb.com/rooms/17407857?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 5,
-    "name": "Elephant Room:Near NRG/MedCtr/Rice-no cleaning fee",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "17407857",
+    url: "https://www.airbnb.com/rooms/17407857",
+    deeplink:
+      "https://www.airbnb.com/rooms/17407857?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 5,
+    name: "Elephant Room:Near NRG/MedCtr/Rice-no cleaning fee",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/a40ee713-952e-49b3-8087-2fbe169c78f2.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/dd682572-5295-499d-8236-9683b164e97c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/4deed9e5-6676-42ba-ba5a-5a3e2ebce2ec.jpg?im_w=720",
@@ -5481,55 +5651,57 @@
       "https://a0.muscache.com/im/pictures/755fffaf-51a0-4f62-b533-62c77ed4b953.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5ec7b0f1-13eb-452a-9db3-5d6ecf94ee32.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e94cf768-442f-4782-b5c2-7bae36e5e746.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-17407857/original/029813fa-ea4e-4cbd-8718-51603546d888.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-17407857/original/029813fa-ea4e-4cbd-8718-51603546d888.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a3f34120-d3b1-4ccf-a388-d5cfd41e87f1.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.68816,
-    "lng": -95.42618,
-    "persons": 2,
-    "reviewsCount": 233,
-    "rating": 4.97,
-    "type": "Private room in home",
-    "userId": 90659311,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/a3f34120-d3b1-4ccf-a388-d5cfd41e87f1.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.68816,
+    lng: -95.42618,
+    persons: 2,
+    reviewsCount: 233,
+    rating: 4.97,
+    type: "Private room in home",
+    userId: 90659311,
+    address: "Houston, TX, United States",
+    amenityIds: [
       3, 4, 5, 7, 8, 392, 9, 394, 522, 139, 17, 145, 657, 18, 19, 23, 663, 280,
       25, 665, 30, 415, 671, 672, 33, 34, 35, 36, 38, 40, 41, 42, 44, 45, 46,
       686, 47, 49, 50, 51, 179, 308, 53, 61, 322, 77, 79, 85, 86, 89, 90, 91,
-      92, 93, 94, 95, 96, 100, 101, 102, 103, 104, 236, 625, 248, 251
+      92, 93, 94, 95, 96, 100, 101, 102, 103, 104, 236, 625, 248, 251,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 58,
-      "currency": "USD",
-      "total": 58,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 58,
+      currency: "USD",
+      total: 58,
+      priceItems: [
         {
-          "amount": 44
+          amount: 44,
         },
         {
-          "amount": 7
+          amount: 7,
         },
         {
-          "amount": 7
-        }
-      ]
-    }
+          amount: 7,
+        },
+      ],
+    },
   },
   {
-    "id": "20361114",
-    "url": "https://www.airbnb.com/rooms/20361114",
-    "deeplink": "https://www.airbnb.com/rooms/20361114?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 6,
-    "name": "Crepe Myrtle Place",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Cypress",
-    "images": [
+    id: "20361114",
+    url: "https://www.airbnb.com/rooms/20361114",
+    deeplink:
+      "https://www.airbnb.com/rooms/20361114?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 6,
+    name: "Crepe Myrtle Place",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Cypress",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-20361114/original/a53fed72-26b7-4b17-84a1-92143b08bf36.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-20361114/original/ba94ff4e-8808-4ddd-9632-fca1cafd1407.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-20361114/original/327fd19b-17ca-4bbf-bcfb-41789d3a8c82.jpeg?im_w=720",
@@ -5550,54 +5722,56 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-20361114/original/2971f0bc-c5b4-4ddd-aa29-2cd389769538.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-20361114/original/24377d6c-aaef-4776-ab54-5421f13761b4.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-20361114/original/82adca73-cfb0-4810-b1a3-dd366165b3a2.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-20361114/original/96c83cfd-bbb8-4258-a483-1d5ffe78ba0c.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-20361114/original/96c83cfd-bbb8-4258-a483-1d5ffe78ba0c.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/224972dd-2353-46c9-89b2-376f0d42e015.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 30.00007,
-    "lng": -95.74019,
-    "persons": 2,
-    "reviewsCount": 286,
-    "rating": 4.95,
-    "type": "Private room in home",
-    "userId": 145232089,
-    "address": "Cypress, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/224972dd-2353-46c9-89b2-376f0d42e015.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 30.00007,
+    lng: -95.74019,
+    persons: 2,
+    reviewsCount: 286,
+    rating: 4.95,
+    type: "Private room in home",
+    userId: 145232089,
+    address: "Cypress, TX, United States",
+    amenityIds: [
       129, 4, 5, 69, 394, 522, 139, 77, 79, 16, 657, 85, 86, 23, 280, 89, 665,
       91, 30, 415, 671, 33, 34, 35, 36, 100, 101, 38, 39, 103, 40, 41, 42, 44,
-      236, 45, 46, 179, 61
+      236, 45, 46, 179, 61,
     ],
-    "previewAmenities": ["Wifi"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 46,
-      "currency": "USD",
-      "total": 46,
-      "priceItems": [
+    previewAmenities: ["Wifi"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 46,
+      currency: "USD",
+      total: 46,
+      priceItems: [
         {
-          "amount": 35
+          amount: 35,
         },
         {
-          "amount": 6
+          amount: 6,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "43712767",
-    "url": "https://www.airbnb.com/rooms/43712767",
-    "deeplink": "https://www.airbnb.com/rooms/43712767?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 7,
-    "name": "Studio Zo-PrivateRoom Near Galveston/Houston/Hobby",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Friendswood",
-    "images": [
+    id: "43712767",
+    url: "https://www.airbnb.com/rooms/43712767",
+    deeplink:
+      "https://www.airbnb.com/rooms/43712767?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 7,
+    name: "Studio Zo-PrivateRoom Near Galveston/Houston/Hobby",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Friendswood",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-43712767/original/fbdb549c-736a-4ba4-a62c-bfef887a3d19.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-43712767/original/c764a552-d09a-4c32-b8bf-a89906dc2392.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-43712767/original/1b0341a4-bd6a-4b91-90b9-493967e951ee.jpeg?im_w=720",
@@ -5615,57 +5789,59 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-43712767/original/c6f523a6-7576-412c-9380-af646fb213e4.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-43712767/original/ba05ab32-a043-430f-8b57-baf53c0899f7.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/b5644b08-ba65-4540-8c44-2842eedc7a28.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-43712767/original/ebb7f0ba-dc3a-4e0d-b327-0ef49aa61f28.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-43712767/original/ebb7f0ba-dc3a-4e0d-b327-0ef49aa61f28.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-233902848/original/32475b7f-1208-4ece-a609-d84f80724b2f.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.54453,
-    "lng": -95.17369,
-    "persons": 2,
-    "reviewsCount": 117,
-    "rating": 4.95,
-    "type": "Private room in home",
-    "userId": 233902848,
-    "address": "Friendswood, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-233902848/original/32475b7f-1208-4ece-a609-d84f80724b2f.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.54453,
+    lng: -95.17369,
+    persons: 2,
+    reviewsCount: 117,
+    rating: 4.95,
+    type: "Private room in home",
+    userId: 233902848,
+    address: "Friendswood, TX, United States",
+    amenityIds: [
       1, 4, 5, 9, 73, 394, 522, 139, 77, 15, 79, 657, 85, 86, 23, 280, 89, 90,
       91, 93, 30, 671, 97, 35, 36, 100, 37, 101, 39, 40, 41, 42, 44, 45, 46, 47,
-      51, 179, 53, 56, 185, 61
+      51, 179, 53, 56, 185, 61,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in"],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 94,
-      "currency": "USD",
-      "total": 94,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in"],
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 94,
+      currency: "USD",
+      total: 94,
+      priceItems: [
         {
-          "amount": 46
+          amount: 46,
         },
         {
-          "amount": 25
+          amount: 25,
         },
         {
-          "amount": 12
+          amount: 12,
         },
         {
-          "amount": 11
-        }
-      ]
-    }
+          amount: 11,
+        },
+      ],
+    },
   },
   {
-    "id": "52799616",
-    "url": "https://www.airbnb.com/rooms/52799616",
-    "deeplink": "https://www.airbnb.com/rooms/52799616?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 8,
-    "name": "Cozy Room in Heart of Houston (EaDo/East Downtown)",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "52799616",
+    url: "https://www.airbnb.com/rooms/52799616",
+    deeplink:
+      "https://www.airbnb.com/rooms/52799616?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 8,
+    name: "Cozy Room in Heart of Houston (EaDo/East Downtown)",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/8392a405-aee2-477a-98d9-4eca29ea2741.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/17785510-574e-464b-89d1-db392ca0a675.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/3b9a6ffa-3b89-4338-ae39-58a9aef303cf.jpg?im_w=720",
@@ -5689,59 +5865,61 @@
       "https://a0.muscache.com/im/pictures/ca68ae74-e0d2-4528-b483-eca7878927e0.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/107c4f0e-a122-479f-8993-bfb4d42606f2.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e0834f72-59ca-4f98-9f19-65a89dbe04b2.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/23a4a558-6f44-49c0-b37c-206c3303f7dc.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/23a4a558-6f44-49c0-b37c-206c3303f7dc.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/4397ca11-6f5c-43c7-8912-4b0c77fbb56e.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.75124,
-    "lng": -95.34307,
-    "persons": 2,
-    "reviewsCount": 85,
-    "rating": 4.96,
-    "type": "Private room in home",
-    "userId": 101668992,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/4397ca11-6f5c-43c7-8912-4b0c77fbb56e.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.75124,
+    lng: -95.34307,
+    persons: 2,
+    reviewsCount: 85,
+    rating: 4.96,
+    type: "Private room in home",
+    userId: 101668992,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 4, 5, 9, 139, 79, 146, 85, 86, 23, 663, 280, 30, 671, 98, 35, 36, 100,
-      101, 39, 40, 41, 42, 44, 46, 51, 53, 57, 61
+      101, 39, 40, 41, 42, 44, 46, 51, 53, 57, 61,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 99,
-      "currency": "USD",
-      "total": 98,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 99,
+      currency: "USD",
+      total: 98,
+      priceItems: [
         {
-          "amount": 70
+          amount: 70,
         },
         {
-          "amount": 4
+          amount: 4,
         },
         {
-          "amount": 7
+          amount: 7,
         },
         {
-          "amount": 12
+          amount: 12,
         },
         {
-          "amount": 13
-        }
-      ]
-    }
+          amount: 13,
+        },
+      ],
+    },
   },
   {
-    "id": "873414977709761119",
-    "url": "https://www.airbnb.com/rooms/873414977709761119",
-    "deeplink": "https://www.airbnb.com/rooms/873414977709761119?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 9,
-    "name": "Luxury Private Room. No cleaning fee",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "873414977709761119",
+    url: "https://www.airbnb.com/rooms/873414977709761119",
+    deeplink:
+      "https://www.airbnb.com/rooms/873414977709761119?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 9,
+    name: "Luxury Private Room. No cleaning fee",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/7b0ebf1e-d67a-47a6-915d-1e9a7242fc55.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/944fa1ec-d2ba-4916-9f74-52cdbd64381f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5f69997c-63a4-45dd-b38b-08ba9462e9c2.jpg?im_w=720",
@@ -5766,54 +5944,56 @@
       "https://a0.muscache.com/im/pictures/377f4fe6-f52a-424d-91dc-ac2af85f0b6b.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/88df2096-a0b5-4e09-8bfa-04fed3079255.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/50030fdd-cc60-43d5-80c5-bf356ad9966d.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/c0682621-5f91-4f40-9d41-04cc84ae01ea.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/c0682621-5f91-4f40-9d41-04cc84ae01ea.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-510872531/original/616d772e-4338-4d75-b26d-d3eddf7c12e6.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.7526,
-    "lng": -95.38572,
-    "persons": 2,
-    "reviewsCount": 5,
-    "rating": 5,
-    "type": "Private room in rental unit",
-    "userId": 510872531,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-510872531/original/616d772e-4338-4d75-b26d-d3eddf7c12e6.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.7526,
+    lng: -95.38572,
+    persons: 2,
+    reviewsCount: 5,
+    rating: 5,
+    type: "Private room in rental unit",
+    userId: 510872531,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 322, 4, 5, 7, 8, 9, 137, 77, 79, 145, 21, 85, 661, 25, 89, 665, 91, 92,
       93, 30, 94, 95, 96, 33, 34, 35, 99, 227, 36, 37, 39, 40, 104, 44, 236, 46,
-      47, 51, 179, 308, 54, 61, 510
+      47, 51, 179, 308, 54, 61, 510,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 80,
-      "currency": "USD",
-      "total": 80,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 80,
+      currency: "USD",
+      total: 80,
+      priceItems: [
         {
-          "amount": 60
+          amount: 60,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 10
-        }
-      ]
-    }
+          amount: 10,
+        },
+      ],
+    },
   },
   {
-    "id": "23731053",
-    "url": "https://www.airbnb.com/rooms/23731053",
-    "deeplink": "https://www.airbnb.com/rooms/23731053?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 10,
-    "name": "Earthy  Room 1.7 miles (7 minute) from IAH Airprt.",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Humble",
-    "images": [
+    id: "23731053",
+    url: "https://www.airbnb.com/rooms/23731053",
+    deeplink:
+      "https://www.airbnb.com/rooms/23731053?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 10,
+    name: "Earthy  Room 1.7 miles (7 minute) from IAH Airprt.",
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 1,
+    city: "Humble",
+    images: [
       "https://a0.muscache.com/im/pictures/db8cf1ea-92ba-4db7-b7e8-fcc9590c7883.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/df4d4866-c88c-439a-a34e-492aa712307f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/21d3f59b-198b-4a2a-aadb-b25fcadf31fa.jpg?im_w=720",
@@ -5821,56 +6001,58 @@
       "https://a0.muscache.com/im/pictures/04b79fd1-62b4-41eb-a7ca-f4df2dd8b106.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/0bf04fd5-a452-4989-b5ce-470be150bfc8.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/94cb0778-d8ea-4827-b5cc-bd49eeb40b04.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/a576f6e3-534b-478e-a86c-0c98bb7603dc.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/a576f6e3-534b-478e-a86c-0c98bb7603dc.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-177891077/original/056847e8-9daf-4e65-810a-7344becfd94a.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 30.01084,
-    "lng": -95.30875,
-    "persons": 2,
-    "reviewsCount": 555,
-    "rating": 4.95,
-    "type": "Private room in home",
-    "userId": 177891077,
-    "address": "Humble, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-177891077/original/056847e8-9daf-4e65-810a-7344becfd94a.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 30.01084,
+    lng: -95.30875,
+    persons: 2,
+    reviewsCount: 555,
+    rating: 4.95,
+    type: "Private room in home",
+    userId: 177891077,
+    address: "Humble, TX, United States",
+    amenityIds: [
       1, 35, 611, 4, 36, 5, 37, 103, 40, 41, 73, 139, 44, 45, 77, 46, 51, 53,
-      85, 86, 23, 93, 30, 671
+      85, 86, 23, 93, 30, 671,
     ],
-    "previewAmenities": ["Wifi", "Self check-in"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 60,
-      "currency": "USD",
-      "total": 60,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Self check-in"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 60,
+      currency: "USD",
+      total: 60,
+      priceItems: [
         {
-          "amount": 35
+          amount: 35,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 8
+          amount: 8,
         },
         {
-          "amount": 7
-        }
-      ]
-    }
+          amount: 7,
+        },
+      ],
+    },
   },
   {
-    "id": "34466872",
-    "url": "https://www.airbnb.com/rooms/34466872",
-    "deeplink": "https://www.airbnb.com/rooms/34466872?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 11,
-    "name": "Room in Home, Instantly Book",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "34466872",
+    url: "https://www.airbnb.com/rooms/34466872",
+    deeplink:
+      "https://www.airbnb.com/rooms/34466872?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 11,
+    name: "Room in Home, Instantly Book",
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-34466872/original/e15fc9cf-44c5-46d1-aa23-c247cfeed56c.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-34466872/original/53439a83-bda7-4b8b-8c61-380da80b9b26.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/803fcedf-8e48-444f-8075-de07df28a3a8.jpg?im_w=720",
@@ -5884,50 +6066,52 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-34466872/original/b208000f-27fa-4484-b61c-e8251a8d3895.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-34466872/original/f2c8e712-4d36-4d34-8525-e9d5bd88f780.png?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-34466872/original/8666c1b4-2ad5-4935-9a01-b6e3608c61a3.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-34466872/original/4d93cac1-f687-43d3-b897-dac6b1015fdf.png?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-34466872/original/4d93cac1-f687-43d3-b897-dac6b1015fdf.png?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/27c0ef26-1070-484a-b037-9a07f12a1514.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.67729,
-    "lng": -95.37268,
-    "persons": 1,
-    "reviewsCount": 109,
-    "rating": 4.8,
-    "type": "Private room in home",
-    "userId": 173482585,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/27c0ef26-1070-484a-b037-9a07f12a1514.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.67729,
+    lng: -95.37268,
+    persons: 1,
+    reviewsCount: 109,
+    rating: 4.8,
+    type: "Private room in home",
+    userId: 173482585,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 4, 5, 8, 9, 77, 85, 86, 23, 89, 90, 91, 92, 93, 30, 94, 95, 96, 33, 34,
       98, 35, 99, 611, 36, 100, 37, 101, 39, 103, 40, 41, 42, 107, 44, 45, 46,
-      47, 51, 627, 52
+      47, 51, 627, 52,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 56,
-      "currency": "USD",
-      "total": 56,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 56,
+      currency: "USD",
+      total: 56,
+      priceItems: [
         {
-          "amount": 48
+          amount: 48,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "46928653",
-    "url": "https://www.airbnb.com/rooms/46928653",
-    "deeplink": "https://www.airbnb.com/rooms/46928653?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 12,
-    "name": "Great price /location studio in Midtown Houston",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "city": "Houston",
-    "images": [
+    id: "46928653",
+    url: "https://www.airbnb.com/rooms/46928653",
+    deeplink:
+      "https://www.airbnb.com/rooms/46928653?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 12,
+    name: "Great price /location studio in Midtown Houston",
+    bathrooms: 1,
+    bedrooms: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/c154b124-6352-405c-b56b-7e086945f012.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/45cc6747-f40e-4754-bf34-d95ff6592777.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/87ce0fcf-2dec-49a9-9d05-818dfd71f0d0.jpg?im_w=720",
@@ -5935,53 +6119,55 @@
       "https://a0.muscache.com/im/pictures/6046c51b-5644-459d-b1ad-019679b9e681.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/79f69f0f-9d94-44a3-b424-1a960e64fe8e.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/c3e858e0-16e2-4d76-828d-f8df4f52f3ab.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/bcde3f91-6fc8-4a27-b804-e877fb655c4e.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/bcde3f91-6fc8-4a27-b804-e877fb655c4e.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/6a10f6dd-6ecc-4a95-b4cc-48997791a2bf.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.7449,
-    "lng": -95.37875,
-    "persons": 1,
-    "reviewsCount": 180,
-    "rating": 4.66,
-    "type": "Entire rental unit",
-    "userId": 67753663,
-    "address": "Houston, TX, United States",
-    "amenityIds": [1, 33, 34, 4, 5, 40, 9, 41, 12, 45, 46, 30, 94],
-    "previewAmenities": ["Wifi", "Free parking"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 75,
-      "currency": "USD",
-      "total": 75,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/6a10f6dd-6ecc-4a95-b4cc-48997791a2bf.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.7449,
+    lng: -95.37875,
+    persons: 1,
+    reviewsCount: 180,
+    rating: 4.66,
+    type: "Entire rental unit",
+    userId: 67753663,
+    address: "Houston, TX, United States",
+    amenityIds: [1, 33, 34, 4, 5, 40, 9, 41, 12, 45, 46, 30, 94],
+    previewAmenities: ["Wifi", "Free parking"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 75,
+      currency: "USD",
+      total: 75,
+      priceItems: [
         {
-          "amount": 46
+          amount: 46,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 9
+          amount: 9,
         },
         {
-          "amount": 10
-        }
-      ]
-    }
+          amount: 10,
+        },
+      ],
+    },
   },
   {
-    "id": "21093854",
-    "url": "https://www.airbnb.com/rooms/21093854",
-    "deeplink": "https://www.airbnb.com/rooms/21093854?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 13,
-    "name": "Private Room+Bath near Downtown, Galleria",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "21093854",
+    url: "https://www.airbnb.com/rooms/21093854",
+    deeplink:
+      "https://www.airbnb.com/rooms/21093854?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 13,
+    name: "Private Room+Bath near Downtown, Galleria",
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/14afd45b-a903-4855-a00a-0fdd2556d7e0.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/bd229fe6-b220-464c-af18-db6f0b723987.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/f74f7898-c3c8-4752-826b-d21686cf818c.jpg?im_w=720",
@@ -5994,57 +6180,59 @@
       "https://a0.muscache.com/im/pictures/fab58611-5215-41bd-bceb-2c37c27c867c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/094db611-6ff1-486c-b7b8-2cbdd9862c60.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/18ce8cc6-22a7-4cf3-8385-c4a613c0e2f6.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/53988b10-8e6d-4c61-84fd-29f42f088917.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/53988b10-8e6d-4c61-84fd-29f42f088917.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/c946d99a-1e2b-4dcc-9a6c-27d020d08519.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.77378,
-    "lng": -95.42089,
-    "persons": 2,
-    "reviewsCount": 124,
-    "rating": 4.93,
-    "type": "Private room in townhouse",
-    "userId": 32613559,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/c946d99a-1e2b-4dcc-9a6c-27d020d08519.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.77378,
+    lng: -95.42089,
+    persons: 2,
+    reviewsCount: 124,
+    rating: 4.93,
+    type: "Private room in townhouse",
+    userId: 32613559,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 322, 4, 5, 8, 9, 75, 77, 17, 18, 146, 85, 86, 23, 280, 89, 90, 91, 92,
       93, 30, 94, 95, 415, 96, 33, 34, 35, 36, 100, 37, 103, 40, 104, 41, 44,
-      45, 46, 47, 625, 51, 179, 53, 315, 61
+      45, 46, 47, 625, 51, 179, 53, 315, 61,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 88,
-      "currency": "USD",
-      "total": 88,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 88,
+      currency: "USD",
+      total: 88,
+      priceItems: [
         {
-          "amount": 51
+          amount: 51,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 11
-        }
-      ]
-    }
+          amount: 11,
+        },
+      ],
+    },
   },
   {
-    "id": "4310978",
-    "url": "https://www.airbnb.com/rooms/4310978",
-    "deeplink": "https://www.airbnb.com/rooms/4310978?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 14,
-    "name": "Rice Univ./Med. Center/Downtown/NRG",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "4310978",
+    url: "https://www.airbnb.com/rooms/4310978",
+    deeplink:
+      "https://www.airbnb.com/rooms/4310978?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 14,
+    name: "Rice Univ./Med. Center/Downtown/NRG",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/f093b90c-2a52-47ec-9eb3-1e3b02de6434.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/0517d904-ed0b-42f8-8a5e-49540aa8971b.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/7c0565f6-9dd3-4b43-bceb-7111c65781c0.jpg?im_w=720",
@@ -6069,57 +6257,59 @@
       "https://a0.muscache.com/im/pictures/a1c0e499-881f-4c6b-9d25-a2672282fdbe.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/bd771661-4820-4262-af25-2fd84ab57b2a.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/d02c188b-4878-488b-ab7f-b7be856fb11d.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/569f994e-ac32-4d20-b301-2c83f88fe440.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/569f994e-ac32-4d20-b301-2c83f88fe440.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/users/2903277/profile_pic/1346876150/original.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.71328,
-    "lng": -95.40708,
-    "persons": 2,
-    "reviewsCount": 478,
-    "rating": 4.95,
-    "type": "Private room in home",
-    "userId": 2903277,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/users/2903277/profile_pic/1346876150/original.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.71328,
+    lng: -95.40708,
+    persons: 2,
+    reviewsCount: 478,
+    rating: 4.95,
+    type: "Private room in home",
+    userId: 2903277,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 131, 4, 5, 8, 9, 137, 16, 17, 657, 18, 23, 665, 30, 31, 672, 33, 34,
       35, 36, 37, 40, 41, 42, 44, 45, 46, 47, 308, 315, 61, 77, 79, 85, 86, 87,
-      89, 90, 91, 93, 94, 95, 96, 611, 101, 103, 236, 625, 627, 251
+      89, 90, 91, 93, 94, 95, 96, 611, 101, 103, 236, 625, 627, 251,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Kitchen"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 120,
-      "currency": "USD",
-      "total": 120,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Kitchen"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 120,
+      currency: "USD",
+      total: 120,
+      priceItems: [
         {
-          "amount": 75
+          amount: 75,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 15
-        }
-      ]
-    }
+          amount: 15,
+        },
+      ],
+    },
   },
   {
-    "id": "853012744076864937",
-    "url": "https://www.airbnb.com/rooms/853012744076864937",
-    "deeplink": "https://www.airbnb.com/rooms/853012744076864937?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 15,
-    "name": "Above the Clouds in H-Town (Tx Med Center/Downtwn)",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "853012744076864937",
+    url: "https://www.airbnb.com/rooms/853012744076864937",
+    deeplink:
+      "https://www.airbnb.com/rooms/853012744076864937?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 15,
+    name: "Above the Clouds in H-Town (Tx Med Center/Downtwn)",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-853012744076864937/original/d0d09b44-c9b3-4b94-92a5-f83f4e2377f8.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/f8de5538-702c-4bdd-b3ca-11963b479aae.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/22177726-6d30-47f1-a518-8c17544cbc33.jpg?im_w=720",
@@ -6127,55 +6317,57 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-853012744076864937/original/27f0ac8c-0387-41d0-9cb3-03af445c7dbf.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-853012744076864937/original/1740015c-9014-4e30-9463-51dfbb52c17c.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-853012744076864937/original/88b93815-f754-4e4d-b91e-b839c1bac3e3.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-853012744076864937/original/a003c255-9369-4192-8ffb-55908b969bce.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-853012744076864937/original/a003c255-9369-4192-8ffb-55908b969bce.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/5496db75-9b31-422d-832f-e361867c6a3e.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.71234,
-    "lng": -95.40136,
-    "persons": 5,
-    "reviewsCount": 10,
-    "rating": 5,
-    "type": "Entire loft",
-    "userId": 114264244,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/5496db75-9b31-422d-832f-e361867c6a3e.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.71234,
+    lng: -95.40136,
+    persons: 5,
+    reviewsCount: 10,
+    rating: 5,
+    type: "Entire loft",
+    userId: 114264244,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 4, 5, 7, 8, 392, 9, 137, 521, 11, 139, 15, 657, 21, 665, 30, 415, 32,
       672, 33, 34, 35, 36, 37, 39, 40, 41, 44, 45, 46, 51, 308, 54, 61, 322, 77,
       79, 85, 87, 89, 90, 91, 92, 93, 94, 95, 96, 97, 99, 227, 100, 236, 251,
-      510
+      510,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 154,
-      "currency": "USD",
-      "total": 154,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 154,
+      currency: "USD",
+      total: 154,
+      priceItems: [
         {
-          "amount": 115
+          amount: 115,
         },
         {
-          "amount": 19
+          amount: 19,
         },
         {
-          "amount": 20
-        }
-      ]
-    }
+          amount: 20,
+        },
+      ],
+    },
   },
   {
-    "id": "45878723",
-    "url": "https://www.airbnb.com/rooms/45878723",
-    "deeplink": "https://www.airbnb.com/rooms/45878723?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 16,
-    "name": "Great value/ historical Avondale Montrose unit",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "45878723",
+    url: "https://www.airbnb.com/rooms/45878723",
+    deeplink:
+      "https://www.airbnb.com/rooms/45878723?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 16,
+    name: "Great value/ historical Avondale Montrose unit",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/9276e15b-6eee-4c99-a380-4fc6f5c704d0.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/23481478-d8a2-4b4b-88ce-adad45eea997.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/930603b2-756f-4842-b712-3abfdf658e23.jpg?im_w=720",
@@ -6188,56 +6380,58 @@
       "https://a0.muscache.com/im/pictures/d01aca7c-e20d-47cd-8dc6-26c21a10066f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/15409057-b8a8-40e8-8ef2-e4ebb1cd1e60.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/160c533b-5996-41a8-aaa0-9963d9031a7a.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/4ce32a54-9492-4d34-97d9-7ecfa15bb97c.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/4ce32a54-9492-4d34-97d9-7ecfa15bb97c.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/6a10f6dd-6ecc-4a95-b4cc-48997791a2bf.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.74558,
-    "lng": -95.38824,
-    "persons": 2,
-    "reviewsCount": 114,
-    "rating": 4.51,
-    "type": "Entire rental unit",
-    "userId": 67753663,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/6a10f6dd-6ecc-4a95-b4cc-48997791a2bf.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.74558,
+    lng: -95.38824,
+    persons: 2,
+    reviewsCount: 114,
+    rating: 4.51,
+    type: "Entire rental unit",
+    userId: 67753663,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 322, 4, 5, 8, 9, 139, 12, 77, 79, 16, 663, 89, 90, 91, 93, 30, 94, 95,
-      671, 96, 35, 101, 39, 103, 40, 104, 41, 44, 236, 45, 46, 57, 251, 61
+      671, 96, 35, 101, 39, 103, 40, 104, 41, 44, 236, 45, 46, 57, 251, 61,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Kitchen"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 94,
-      "currency": "USD",
-      "total": 94,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Kitchen"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 94,
+      currency: "USD",
+      total: 94,
+      priceItems: [
         {
-          "amount": 60
+          amount: 60,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 12
+          amount: 12,
         },
         {
-          "amount": 12
-        }
-      ]
-    }
+          amount: 12,
+        },
+      ],
+    },
   },
   {
-    "id": "28910138",
-    "url": "https://www.airbnb.com/rooms/28910138",
-    "deeplink": "https://www.airbnb.com/rooms/28910138?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 17,
-    "name": "Midtown Flat",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "28910138",
+    url: "https://www.airbnb.com/rooms/28910138",
+    deeplink:
+      "https://www.airbnb.com/rooms/28910138?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 17,
+    name: "Midtown Flat",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/5de1e7cc-2fc4-4c4c-9134-6c3f2dc4b8b4.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/98b4fb9f-e3cf-4f06-afd8-951153ce2818.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5d4a8db8-09b0-4abe-ae47-5649258a2110.jpg?im_w=720",
@@ -6250,55 +6444,57 @@
       "https://a0.muscache.com/im/pictures/f03fc98c-18d8-48ca-923d-efb36aee7aee.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/4c1674f7-086e-477b-834e-3d42c196722c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/07495f6a-d1f7-4131-93d8-aa442fde93d9.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/812feaac-2a94-4a9e-9ab7-ed69ae656013.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/812feaac-2a94-4a9e-9ab7-ed69ae656013.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f47fc83e-17ec-4a90-af61-4b1bca2748ed.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.73807,
-    "lng": -95.37171,
-    "persons": 3,
-    "reviewsCount": 27,
-    "rating": 4.74,
-    "type": "Private room in home",
-    "userId": 7885135,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/f47fc83e-17ec-4a90-af61-4b1bca2748ed.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.73807,
+    lng: -95.37171,
+    persons: 3,
+    reviewsCount: 27,
+    rating: 4.74,
+    type: "Private room in home",
+    userId: 7885135,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 4, 5, 8, 392, 9, 394, 522, 139, 15, 657, 665, 30, 415, 671, 672, 33,
       34, 35, 36, 37, 39, 40, 41, 42, 44, 172, 45, 46, 47, 308, 56, 57, 185,
       315, 61, 322, 73, 201, 77, 79, 85, 86, 87, 89, 90, 91, 93, 94, 95, 96,
-      100, 101, 103, 104, 107, 236, 625, 626, 251
+      100, 101, 103, 104, 107, 236, 625, 626, 251,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Kitchen"],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 61,
-      "currency": "USD",
-      "total": 61,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Kitchen"],
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 61,
+      currency: "USD",
+      total: 61,
+      priceItems: [
         {
-          "amount": 50
+          amount: 50,
         },
         {
-          "amount": 8
+          amount: 8,
         },
         {
-          "amount": 3
-        }
-      ]
-    }
+          amount: 3,
+        },
+      ],
+    },
   },
   {
-    "id": "4892312",
-    "url": "https://www.airbnb.com/rooms/4892312",
-    "deeplink": "https://www.airbnb.com/rooms/4892312?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 18,
-    "name": "Secluded Room with En-suite Bathroom Midtown",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "4892312",
+    url: "https://www.airbnb.com/rooms/4892312",
+    deeplink:
+      "https://www.airbnb.com/rooms/4892312?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 18,
+    name: "Secluded Room with En-suite Bathroom Midtown",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/96600949/747d91f1_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/82126340/6373d720_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/96601135/5eedf9ac_original.jpg?im_w=720",
@@ -6309,56 +6505,58 @@
       "https://a0.muscache.com/im/pictures/96601331/400628cd_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/61362210/d2ab82bc_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/96601413/b593c184_original.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/96601620/9cfa4a1e_original.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/96601620/9cfa4a1e_original.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/users/25172760/profile_pic/1426782718/original.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.75162,
-    "lng": -95.38224,
-    "persons": 2,
-    "reviewsCount": 470,
-    "rating": 4.84,
-    "type": "Private room in townhouse",
-    "userId": 25172760,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/users/25172760/profile_pic/1426782718/original.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.75162,
+    lng: -95.38224,
+    persons: 2,
+    reviewsCount: 470,
+    rating: 4.84,
+    type: "Private room in townhouse",
+    userId: 25172760,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 2, 3, 4, 5, 9, 73, 77, 85, 86, 23, 89, 91, 28, 30, 31, 33, 34, 35, 36,
-      103, 40, 104, 41, 42, 43, 107, 44, 45, 46, 51, 52, 61
+      103, 40, 104, 41, 42, 43, 107, 44, 45, 46, 51, 52, 61,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in"],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 95,
-      "currency": "USD",
-      "total": 95,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in"],
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 95,
+      currency: "USD",
+      total: 95,
+      priceItems: [
         {
-          "amount": 51
+          amount: 51,
         },
         {
-          "amount": 20
+          amount: 20,
         },
         {
-          "amount": 12
+          amount: 12,
         },
         {
-          "amount": 12
-        }
-      ]
-    }
+          amount: 12,
+        },
+      ],
+    },
   },
   {
-    "id": "44577367",
-    "url": "https://www.airbnb.com/rooms/44577367",
-    "deeplink": "https://www.airbnb.com/rooms/44577367?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 19,
-    "name": "The Safari African Lodge",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Pearland",
-    "images": [
+    id: "44577367",
+    url: "https://www.airbnb.com/rooms/44577367",
+    deeplink:
+      "https://www.airbnb.com/rooms/44577367?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 19,
+    name: "The Safari African Lodge",
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 1,
+    city: "Pearland",
+    images: [
       "https://a0.muscache.com/im/pictures/airflow/Hosting-44577367/original/6de5b4d4-e9ea-40f9-a566-9346846d8a4e.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/airflow/Hosting-44577367/original/ea48d178-e2f6-441a-98e1-df8a7200df6f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/airflow/Hosting-44577367/original/4cb81269-bf57-4a24-9ff2-3dcf564d92f7.jpg?im_w=720",
@@ -6388,55 +6586,57 @@
       "https://a0.muscache.com/im/pictures/airflow/Hosting-44577367/original/248e4739-005a-4915-a48a-e576c9f5bdaf.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/airflow/Hosting-44577367/original/2e70309b-9c8b-44c9-836e-c8d8e0939ff6.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/airflow/Hosting-44577367/original/027dc6db-739d-4a63-b657-6dfcd1a8ab00.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/airflow/Hosting-44577367/original/503c0b8f-4716-4731-aae8-e8e142f96b0c.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/airflow/Hosting-44577367/original/503c0b8f-4716-4731-aae8-e8e142f96b0c.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-5920860/original/999472a2-b976-4949-95cd-98d7ef28bc95.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.56513,
-    "lng": -95.23458,
-    "persons": 2,
-    "reviewsCount": 118,
-    "rating": 4.92,
-    "type": "Private room in home",
-    "userId": 5920860,
-    "address": "Pearland, TX, United States",
-    "amenityIds": [
-      1, 33, 34, 35, 4, 36, 5, 7, 8, 40, 9, 41, 42, 77, 46, 15, 25, 27, 93, 30
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-5920860/original/999472a2-b976-4949-95cd-98d7ef28bc95.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.56513,
+    lng: -95.23458,
+    persons: 2,
+    reviewsCount: 118,
+    rating: 4.92,
+    type: "Private room in home",
+    userId: 5920860,
+    address: "Pearland, TX, United States",
+    amenityIds: [
+      1, 33, 34, 35, 4, 36, 5, 7, 8, 40, 9, 41, 42, 77, 46, 15, 25, 27, 93, 30,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Kitchen"],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 136,
-      "currency": "USD",
-      "total": 136,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Kitchen"],
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 136,
+      currency: "USD",
+      total: 136,
+      priceItems: [
         {
-          "amount": 82
+          amount: 82,
         },
         {
-          "amount": 25
+          amount: 25,
         },
         {
-          "amount": 18
+          amount: 18,
         },
         {
-          "amount": 11
-        }
-      ]
-    }
+          amount: 11,
+        },
+      ],
+    },
   },
   {
-    "id": "559446772621308059",
-    "url": "https://www.airbnb.com/rooms/559446772621308059",
-    "deeplink": "https://www.airbnb.com/rooms/559446772621308059?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 20,
-    "name": "Bohemian Seabrook: NASA/Kemah/ClearLake/Baytown",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Seabrook",
-    "images": [
+    id: "559446772621308059",
+    url: "https://www.airbnb.com/rooms/559446772621308059",
+    deeplink:
+      "https://www.airbnb.com/rooms/559446772621308059?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 20,
+    name: "Bohemian Seabrook: NASA/Kemah/ClearLake/Baytown",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Seabrook",
+    images: [
       "https://a0.muscache.com/im/pictures/c4c5ce7d-d609-4b69-9d50-659e8ee73503.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-559446772621308059/original/12f6f48d-decb-4f91-85ea-83e91bf6b04b.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-559446772621308059/original/117426a8-0df7-4fbb-a01f-a2bbe66a3527.jpeg?im_w=720",
@@ -6466,58 +6666,60 @@
       "https://a0.muscache.com/im/pictures/f2110f5e-e370-423a-9563-f426e850a40a.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-559446772621308059/original/952682ba-b801-4482-8e03-ea4aa2e0de62.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/bf8dfe32-b0a6-46d4-a208-9e9f547b2d28.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/1e0ba620-ba70-4e19-bedf-6475c4e0de7d.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/1e0ba620-ba70-4e19-bedf-6475c4e0de7d.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-341998310/original/5cfaff72-2822-4404-9aaa-6aebc63b9952.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.56523,
-    "lng": -95.02001,
-    "persons": 2,
-    "reviewsCount": 65,
-    "rating": 4.83,
-    "type": "Private room in home",
-    "userId": 341998310,
-    "address": "Seabrook, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-341998310/original/5cfaff72-2822-4404-9aaa-6aebc63b9952.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.56523,
+    lng: -95.02001,
+    persons: 2,
+    reviewsCount: 65,
+    rating: 4.83,
+    type: "Private room in home",
+    userId: 341998310,
+    address: "Seabrook, TX, United States",
+    amenityIds: [
       1, 2, 4, 5, 8, 392, 9, 137, 394, 139, 12, 661, 23, 280, 665, 667, 30, 415,
       671, 672, 33, 34, 674, 35, 36, 37, 39, 40, 41, 42, 44, 45, 46, 47, 51,
       179, 308, 53, 60, 61, 73, 331, 77, 79, 85, 86, 89, 90, 91, 92, 93, 94, 95,
-      96, 98, 99, 227, 611, 100, 103, 104, 236, 626, 251
+      96, 98, 99, 227, 611, 100, 103, 104, 236, 626, 251,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 67,
-      "currency": "USD",
-      "total": 67,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 67,
+      currency: "USD",
+      total: 67,
+      priceItems: [
         {
-          "amount": 38
+          amount: 38,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 9
+          amount: 9,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "44647724",
-    "url": "https://www.airbnb.com/rooms/44647724",
-    "deeplink": "https://www.airbnb.com/rooms/44647724?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 21,
-    "name": "(9) Nice room & pool close to  IAH Houston Airport",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Humble",
-    "images": [
+    id: "44647724",
+    url: "https://www.airbnb.com/rooms/44647724",
+    deeplink:
+      "https://www.airbnb.com/rooms/44647724?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 21,
+    name: "(9) Nice room & pool close to  IAH Houston Airport",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Humble",
+    images: [
       "https://a0.muscache.com/im/pictures/eec9e7e2-4e9e-4260-aefe-5d97194fa75d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/80f7f1e8-6fc1-4c3c-abde-4012ee1c0b04.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/8d5574e4-450f-4e05-a5b8-def7efca6cef.jpg?im_w=720",
@@ -6526,109 +6728,113 @@
       "https://a0.muscache.com/im/pictures/66989a58-5b11-45ad-9199-31580614df21.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/1f1731fe-e158-426d-b1b2-a815dad5b438.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/023ea000-f524-4f89-adbe-90bcbfc5b772.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/cc9022ac-a4de-4286-af92-ccf46a546d01.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/cc9022ac-a4de-4286-af92-ccf46a546d01.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/8d6d3335-79fd-47a1-ad03-4e53c8d76c99.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 30.01486,
-    "lng": -95.31913,
-    "persons": 2,
-    "reviewsCount": 57,
-    "rating": 4.84,
-    "type": "Private room in home",
-    "userId": 156699227,
-    "address": "Humble, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/8d6d3335-79fd-47a1-ad03-4e53c8d76c99.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 30.01486,
+    lng: -95.31913,
+    persons: 2,
+    reviewsCount: 57,
+    rating: 4.84,
+    type: "Private room in home",
+    userId: 156699227,
+    address: "Humble, TX, United States",
+    amenityIds: [
       1, 4, 5, 7, 8, 73, 11, 139, 77, 16, 146, 89, 90, 91, 92, 93, 30, 94, 33,
-      34, 35, 37, 39, 40, 41, 42, 44, 236, 45, 46, 51, 52
+      34, 35, 37, 39, 40, 41, 42, 44, 236, 45, 46, 51, 52,
     ],
-    "previewAmenities": ["Wifi", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 49,
-      "currency": "USD",
-      "total": 49,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 49,
+      currency: "USD",
+      total: 49,
+      priceItems: [
         {
-          "amount": 32
+          amount: 32,
         },
         {
-          "amount": 5
+          amount: 5,
         },
         {
-          "amount": 6
+          amount: 6,
         },
         {
-          "amount": 6
-        }
-      ]
-    }
+          amount: 6,
+        },
+      ],
+    },
   },
   {
-    "id": "42083804",
-    "url": "https://www.airbnb.com/rooms/42083804",
-    "deeplink": "https://www.airbnb.com/rooms/42083804?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 22,
-    "name": "Midtown Houston, Large Studio",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "42083804",
+    url: "https://www.airbnb.com/rooms/42083804",
+    deeplink:
+      "https://www.airbnb.com/rooms/42083804?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 22,
+    name: "Midtown Houston, Large Studio",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-42083804/original/8914d91e-b31e-4e5e-9369-dc7549566171.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-42083804/original/3532643c-fca1-4a16-8ea9-104bd832ab24.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-42083804/original/07bc02d6-3a61-49a3-b23b-cd42697c254c.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-42083804/original/e95f0592-a397-4db1-8c82-c2266d310c59.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-42083804/original/5ab75e88-ae74-4bed-8571-5bca628c6dfb.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-42083804/original/30c67daa-5ef4-43fa-8cf8-e2536166e7f7.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-42083804/original/a85414d2-a8b3-4943-8cdb-861e564a3364.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-42083804/original/a85414d2-a8b3-4943-8cdb-861e564a3364.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/6a10f6dd-6ecc-4a95-b4cc-48997791a2bf.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.74632,
-    "lng": -95.37917,
-    "persons": 2,
-    "reviewsCount": 13,
-    "rating": 4.85,
-    "type": "Entire rental unit",
-    "userId": 67753663,
-    "address": "Houston, TX, United States",
-    "amenityIds": [1, 33, 129, 34, 35, 4, 5, 39, 8, 12],
-    "previewAmenities": ["Wifi", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 94,
-      "currency": "USD",
-      "total": 94,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/6a10f6dd-6ecc-4a95-b4cc-48997791a2bf.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.74632,
+    lng: -95.37917,
+    persons: 2,
+    reviewsCount: 13,
+    rating: 4.85,
+    type: "Entire rental unit",
+    userId: 67753663,
+    address: "Houston, TX, United States",
+    amenityIds: [1, 33, 129, 34, 35, 4, 5, 39, 8, 12],
+    previewAmenities: ["Wifi", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 94,
+      currency: "USD",
+      total: 94,
+      priceItems: [
         {
-          "amount": 60
+          amount: 60,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 12
+          amount: 12,
         },
         {
-          "amount": 12
-        }
-      ]
-    }
+          amount: 12,
+        },
+      ],
+    },
   },
   {
-    "id": "23729314",
-    "url": "https://www.airbnb.com/rooms/23729314",
-    "deeplink": "https://www.airbnb.com/rooms/23729314?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 23,
-    "name": "Nautic Room  #2.  1.7miles/7 min from IAH Airport",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Humble",
-    "images": [
+    id: "23729314",
+    url: "https://www.airbnb.com/rooms/23729314",
+    deeplink:
+      "https://www.airbnb.com/rooms/23729314?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 23,
+    name: "Nautic Room  #2.  1.7miles/7 min from IAH Airport",
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 1,
+    city: "Humble",
+    images: [
       "https://a0.muscache.com/im/pictures/95eedccf-e0c8-4af1-b1b2-6ca3c4dfa589.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/b355f768-8458-4f90-9be4-b1fc4696cc0c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/1d170ce4-39cc-4f62-a60f-b91c5b18a6c0.jpg?im_w=720",
@@ -6638,56 +6844,58 @@
       "https://a0.muscache.com/im/pictures/bf22f4bc-6a3a-4790-b601-2ced6a4971fb.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/4b4ce599-1c43-437f-8d68-89f1c4455255.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/35b30d69-05bf-4c83-ae3e-c9bf363abcf4.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/828d8ec5-25b4-489c-bf97-8f77ce4c7580.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/828d8ec5-25b4-489c-bf97-8f77ce4c7580.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-177891077/original/056847e8-9daf-4e65-810a-7344becfd94a.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 30.01087,
-    "lng": -95.30834,
-    "persons": 2,
-    "reviewsCount": 537,
-    "rating": 4.96,
-    "type": "Private room in home",
-    "userId": 177891077,
-    "address": "Humble, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-177891077/original/056847e8-9daf-4e65-810a-7344becfd94a.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 30.01087,
+    lng: -95.30834,
+    persons: 2,
+    reviewsCount: 537,
+    rating: 4.96,
+    type: "Private room in home",
+    userId: 177891077,
+    address: "Humble, TX, United States",
+    amenityIds: [
       1, 35, 4, 36, 5, 103, 40, 9, 41, 42, 44, 45, 77, 46, 51, 53, 85, 86, 23,
-      93, 30
+      93, 30,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 54,
-      "currency": "USD",
-      "total": 54,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 54,
+      currency: "USD",
+      total: 54,
+      priceItems: [
         {
-          "amount": 31
+          amount: 31,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 7
+          amount: 7,
         },
         {
-          "amount": 6
-        }
-      ]
-    }
+          amount: 6,
+        },
+      ],
+    },
   },
   {
-    "id": "22118356",
-    "url": "https://www.airbnb.com/rooms/22118356",
-    "deeplink": "https://www.airbnb.com/rooms/22118356?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 24,
-    "name": "The Zen Den: near NRG/Med Ctr/rice-no cleaning fee",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "22118356",
+    url: "https://www.airbnb.com/rooms/22118356",
+    deeplink:
+      "https://www.airbnb.com/rooms/22118356?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 24,
+    name: "The Zen Den: near NRG/Med Ctr/rice-no cleaning fee",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/27a292e1-3b2f-4e5a-976a-882b3be0b2b4.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/96951444-6914-4b78-a712-302a22a14594.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/b6eb390c-ca04-44a1-8125-5eb604a454f5.jpg?im_w=720",
@@ -6713,55 +6921,57 @@
       "https://a0.muscache.com/im/pictures/03427d75-04ee-4ddd-9c2c-07a51c8d45bf.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/ddb7d47b-1f6a-49e2-86e0-e9ae1b53d83d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/ff7b78a2-afa5-41ca-9938-82d1dea7e263.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-22118356/original/537b2e10-f63b-4c1e-853e-aab7d325b268.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-22118356/original/537b2e10-f63b-4c1e-853e-aab7d325b268.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a3f34120-d3b1-4ccf-a388-d5cfd41e87f1.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.68882,
-    "lng": -95.42628,
-    "persons": 2,
-    "reviewsCount": 183,
-    "rating": 4.96,
-    "type": "Private room in rental unit",
-    "userId": 90659311,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/a3f34120-d3b1-4ccf-a388-d5cfd41e87f1.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.68882,
+    lng: -95.42628,
+    persons: 2,
+    reviewsCount: 183,
+    rating: 4.96,
+    type: "Private room in rental unit",
+    userId: 90659311,
+    address: "Houston, TX, United States",
+    amenityIds: [
       3, 4, 5, 7, 8, 9, 522, 139, 145, 657, 23, 280, 25, 665, 30, 415, 671, 672,
       33, 34, 35, 36, 40, 41, 42, 44, 45, 46, 686, 51, 179, 308, 53, 61, 322,
       77, 79, 85, 86, 89, 90, 91, 92, 93, 94, 611, 100, 101, 102, 103, 104, 107,
-      236, 625, 248, 251
+      236, 625, 248, 251,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 64,
-      "currency": "USD",
-      "total": 64,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 64,
+      currency: "USD",
+      total: 64,
+      priceItems: [
         {
-          "amount": 48
+          amount: 48,
         },
         {
-          "amount": 8
+          amount: 8,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "21191692",
-    "url": "https://www.airbnb.com/rooms/21191692",
-    "deeplink": "https://www.airbnb.com/rooms/21191692?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 25,
-    "name": "Classy and Welcoming Home with Modern Bathroom",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "21191692",
+    url: "https://www.airbnb.com/rooms/21191692",
+    deeplink:
+      "https://www.airbnb.com/rooms/21191692?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 25,
+    name: "Classy and Welcoming Home with Modern Bathroom",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/57c7e295-3931-48c7-83fd-0332026aa4e0.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/23cc7175-13a6-4bd0-82f4-9ec859626fc4.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/507a2829-f756-4ddd-baa4-00b1f2e4f7ce.jpg?im_w=720",
@@ -6772,56 +6982,58 @@
       "https://a0.muscache.com/im/pictures/2039c22b-1ad7-4066-a90e-e60b0f80c449.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/1b0cbc55-bbc7-4d88-832f-60a45c1174a0.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/9cfe4b70-19a9-49e0-bae1-854716a1241e.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/f7859faf-2ba3-49cc-96a8-8e16182082bf.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/f7859faf-2ba3-49cc-96a8-8e16182082bf.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f708d3d3-7100-4d2b-89c9-d9e32f81a08d.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.62863,
-    "lng": -95.48539,
-    "persons": 2,
-    "reviewsCount": 165,
-    "rating": 4.83,
-    "type": "Private room in home",
-    "userId": 30981862,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/f708d3d3-7100-4d2b-89c9-d9e32f81a08d.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.62863,
+    lng: -95.48539,
+    persons: 2,
+    reviewsCount: 165,
+    rating: 4.83,
+    type: "Private room in home",
+    userId: 30981862,
+    address: "Houston, TX, United States",
+    amenityIds: [
       4, 5, 8, 9, 77, 85, 86, 23, 280, 89, 153, 90, 91, 92, 93, 30, 94, 95, 96,
-      33, 34, 98, 35, 99, 36, 100, 101, 40, 41, 42, 44, 45, 46, 51, 53
+      33, 34, 98, 35, 99, 36, 100, 101, 40, 41, 42, 44, 45, 46, 51, 53,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 67,
-      "currency": "USD",
-      "total": 67,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 67,
+      currency: "USD",
+      total: 67,
+      priceItems: [
         {
-          "amount": 32
+          amount: 32,
         },
         {
-          "amount": 18
+          amount: 18,
         },
         {
-          "amount": 8
+          amount: 8,
         },
         {
-          "amount": 9
-        }
-      ]
-    }
+          amount: 9,
+        },
+      ],
+    },
   },
   {
-    "id": "21552002",
-    "url": "https://www.airbnb.com/rooms/21552002",
-    "deeplink": "https://www.airbnb.com/rooms/21552002?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 26,
-    "name": "(2)Perfect place close to IAH Houston Bush Airport",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Humble",
-    "images": [
+    id: "21552002",
+    url: "https://www.airbnb.com/rooms/21552002",
+    deeplink:
+      "https://www.airbnb.com/rooms/21552002?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 26,
+    name: "(2)Perfect place close to IAH Houston Bush Airport",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Humble",
+    images: [
       "https://a0.muscache.com/im/pictures/8572afe9-22f9-4f8b-b789-22570f04850d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/d6a4cfa3-81f5-492c-bd1d-a6bab34c0c53.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e4041e90-9c8d-4b0c-8c8a-509efb395b39.jpg?im_w=720",
@@ -6838,56 +7050,58 @@
       "https://a0.muscache.com/im/pictures/65e9574c-eddf-4583-816f-0b3f5da05c6e.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/2ac5e747-c6af-4acf-bd06-7826563698a8.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/690c0d4f-82bc-4f7a-8068-8123634667a0.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/292bd7aa-751d-4f44-ad8b-19f869f85893.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/292bd7aa-751d-4f44-ad8b-19f869f85893.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/8d6d3335-79fd-47a1-ad03-4e53c8d76c99.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 30.01072,
-    "lng": -95.29909,
-    "persons": 2,
-    "reviewsCount": 315,
-    "rating": 4.89,
-    "type": "Private room in home",
-    "userId": 156699227,
-    "address": "Humble, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/8d6d3335-79fd-47a1-ad03-4e53c8d76c99.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 30.01072,
+    lng: -95.29909,
+    persons: 2,
+    reviewsCount: 315,
+    rating: 4.89,
+    type: "Private room in home",
+    userId: 156699227,
+    address: "Humble, TX, United States",
+    amenityIds: [
       1, 4, 5, 8, 9, 77, 17, 18, 23, 89, 90, 91, 92, 93, 30, 94, 95, 96, 33, 34,
-      35, 100, 101, 39, 40, 41, 42, 44, 45, 46, 51, 52, 56
+      35, 100, 101, 39, 40, 41, 42, 44, 45, 46, 51, 52, 56,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 52,
-      "currency": "USD",
-      "total": 52,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 52,
+      currency: "USD",
+      total: 52,
+      priceItems: [
         {
-          "amount": 34
+          amount: 34,
         },
         {
-          "amount": 5
+          amount: 5,
         },
         {
-          "amount": 7
+          amount: 7,
         },
         {
-          "amount": 6
-        }
-      ]
-    }
+          amount: 6,
+        },
+      ],
+    },
   },
   {
-    "id": "654491924906292501",
-    "url": "https://www.airbnb.com/rooms/654491924906292501",
-    "deeplink": "https://www.airbnb.com/rooms/654491924906292501?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 27,
-    "name": "Private room and bathroom in house hosted by Enis",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "654491924906292501",
+    url: "https://www.airbnb.com/rooms/654491924906292501",
+    deeplink:
+      "https://www.airbnb.com/rooms/654491924906292501?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 27,
+    name: "Private room and bathroom in house hosted by Enis",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-654491924906292501/original/621490c4-e4ce-49b7-b34d-7484197fb21e.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-654491924906292501/original/1aae648a-d068-4135-b114-9c7ee70719fd.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-654491924906292501/original/4cddaf7f-c257-40e4-938f-25e4e306ee6c.jpeg?im_w=720",
@@ -6899,58 +7113,60 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-654491924906292501/original/8d0ad1c3-1972-4692-88cd-4aa22a8594b8.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-654491924906292501/original/c9677a43-518d-4784-9f30-723817b1bf25.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-654491924906292501/original/33407a63-4e66-40e1-bc25-82058fff6a9f.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-654491924906292501/original/9a2937c0-c499-4656-bee0-89d9686d6513.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-654491924906292501/original/9a2937c0-c499-4656-bee0-89d9686d6513.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a4070ffa-6105-45e1-bee4-7ec13e772519.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.67792,
-    "lng": -95.44063,
-    "persons": 1,
-    "reviewsCount": 20,
-    "rating": 4.95,
-    "type": "Private room in home",
-    "userId": 325132315,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/a4070ffa-6105-45e1-bee4-7ec13e772519.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.67792,
+    lng: -95.44063,
+    persons: 1,
+    reviewsCount: 20,
+    rating: 4.95,
+    type: "Private room in home",
+    userId: 325132315,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 129, 4, 5, 8, 9, 394, 139, 657, 23, 665, 667, 30, 415, 671, 33, 34, 35,
       36, 37, 167, 40, 41, 42, 44, 45, 46, 47, 51, 52, 308, 56, 315, 60, 322,
       73, 77, 79, 211, 85, 86, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 611, 101,
-      103, 232, 107, 236, 364, 625
+      103, 232, 107, 236, 364, 625,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 61,
-      "currency": "USD",
-      "total": 61,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 61,
+      currency: "USD",
+      total: 61,
+      priceItems: [
         {
-          "amount": 40
+          amount: 40,
         },
         {
-          "amount": 5
+          amount: 5,
         },
         {
-          "amount": 8
+          amount: 8,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "37633787",
-    "url": "https://www.airbnb.com/rooms/37633787",
-    "deeplink": "https://www.airbnb.com/rooms/37633787?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 28,
-    "name": "Ike Room @ your HTX Home Away From Home!",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "37633787",
+    url: "https://www.airbnb.com/rooms/37633787",
+    deeplink:
+      "https://www.airbnb.com/rooms/37633787?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 28,
+    name: "Ike Room @ your HTX Home Away From Home!",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/825fcdb7-dd0a-4793-8cb1-6e6146640650.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/a9c7b7f5-552d-47e6-be92-7367a77a9254.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/661df293-9475-4a65-ba3f-8d45c6f86217.jpg?im_w=720",
@@ -6964,56 +7180,58 @@
       "https://a0.muscache.com/im/pictures/ab50afcd-afb8-42fb-8ee9-8ad2d6c93bbb.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/4c658efd-b337-4fb3-8364-36d9d89697ce.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/a70304cd-3995-4da1-96f2-a8303d15e9f2.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/d19154dc-64eb-4eac-a574-e3cd675ba7a2.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/d19154dc-64eb-4eac-a574-e3cd675ba7a2.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/c4f6822d-9708-47e5-ba30-6a3fc8dc6a36.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.67199,
-    "lng": -95.36513,
-    "persons": 2,
-    "reviewsCount": 309,
-    "rating": 4.86,
-    "type": "Private room in home",
-    "userId": 188417542,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/c4f6822d-9708-47e5-ba30-6a3fc8dc6a36.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.67199,
+    lng: -95.36513,
+    persons: 2,
+    reviewsCount: 309,
+    rating: 4.86,
+    type: "Private room in home",
+    userId: 188417542,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 4, 5, 8, 139, 77, 79, 145, 657, 146, 85, 86, 23, 89, 665, 90, 93, 30,
-      415, 98, 35, 611, 36, 39, 40, 41, 42, 44, 46, 47, 51, 627, 54, 57, 61
+      415, 98, 35, 611, 36, 39, 40, 41, 42, 44, 46, 47, 51, 627, 54, 57, 61,
     ],
-    "previewAmenities": ["Wifi", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 42,
-      "currency": "USD",
-      "total": 42,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 42,
+      currency: "USD",
+      total: 42,
+      priceItems: [
         {
-          "amount": 25
+          amount: 25,
         },
         {
-          "amount": 7
+          amount: 7,
         },
         {
-          "amount": 5
+          amount: 5,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "36774644",
-    "url": "https://www.airbnb.com/rooms/36774644",
-    "deeplink": "https://www.airbnb.com/rooms/36774644?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 29,
-    "name": "ROOM#4  free check in&out   (No Cleaning fee!)",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "36774644",
+    url: "https://www.airbnb.com/rooms/36774644",
+    deeplink:
+      "https://www.airbnb.com/rooms/36774644?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 29,
+    name: "ROOM#4  free check in&out   (No Cleaning fee!)",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/158ab604-4115-4ab5-a04f-ab278fac735f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/39d69070-f54c-4e93-ac78-5d1c4dc4ee65.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/b547f22e-a3c0-437d-883b-332ef23bcd91.jpg?im_w=720",
@@ -7023,53 +7241,55 @@
       "https://a0.muscache.com/im/pictures/39290d91-b178-498d-bc6a-8a18cf86a129.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/790f49d0-693f-430a-a6a2-3dadfa689e28.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e050efc5-ac58-4bd9-9fc9-b2c5f9ac74bc.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/86409511-38cd-4507-bbd1-4061f7c2d7e8.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/86409511-38cd-4507-bbd1-4061f7c2d7e8.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a141753e-85fc-4f7e-8dea-474bd18cc6cd.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.94762,
-    "lng": -95.44067,
-    "persons": 1,
-    "reviewsCount": 237,
-    "rating": 4.62,
-    "type": "Private room in home",
-    "userId": 36229060,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/a141753e-85fc-4f7e-8dea-474bd18cc6cd.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.94762,
+    lng: -95.44067,
+    persons: 1,
+    reviewsCount: 237,
+    rating: 4.62,
+    type: "Private room in home",
+    userId: 36229060,
+    address: "Houston, TX, United States",
+    amenityIds: [
       34, 35, 4, 36, 5, 40, 232, 9, 41, 44, 77, 79, 51, 211, 54, 23, 56, 89, 91,
-      30
+      30,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 34,
-      "currency": "USD",
-      "total": 34,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 34,
+      currency: "USD",
+      total: 34,
+      priceItems: [
         {
-          "amount": 26
+          amount: 26,
         },
         {
-          "amount": 4
+          amount: 4,
         },
         {
-          "amount": 4
-        }
-      ]
-    }
+          amount: 4,
+        },
+      ],
+    },
   },
   {
-    "id": "644190052111702152",
-    "url": "https://www.airbnb.com/rooms/644190052111702152",
-    "deeplink": "https://www.airbnb.com/rooms/644190052111702152?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 30,
-    "name": "Lovely Room in TownHouse, close to Hobby Airport",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "644190052111702152",
+    url: "https://www.airbnb.com/rooms/644190052111702152",
+    deeplink:
+      "https://www.airbnb.com/rooms/644190052111702152?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 30,
+    name: "Lovely Room in TownHouse, close to Hobby Airport",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-644190052111702152/original/af960d7b-7174-477c-8418-409156dc16e1.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-644190052111702152/original/0c68687b-5ec8-4011-8dfa-87f0fff5f32c.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-644190052111702152/original/57fa9f2c-f3cf-46b1-9a0b-37988f3a85b3.jpeg?im_w=720",
@@ -7091,57 +7311,59 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-644190052111702152/original/a3c29e06-a7fe-4a43-91f5-7967f5de9671.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-644190052111702152/original/0bee6116-570f-429d-a11a-8ed928e02043.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-644190052111702152/original/52824c3b-245f-44ea-bbca-4d1cc7c93c06.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-644190052111702152/original/19021df8-8ff3-47ce-a2cb-40182be08ac4.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-644190052111702152/original/19021df8-8ff3-47ce-a2cb-40182be08ac4.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/8838a853-70ed-4233-976a-3695ccb1ccab.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.66388,
-    "lng": -95.26116,
-    "persons": 2,
-    "reviewsCount": 7,
-    "rating": 5,
-    "type": "Private room in condo",
-    "userId": 365769099,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/8838a853-70ed-4233-976a-3695ccb1ccab.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.66388,
+    lng: -95.26116,
+    persons: 2,
+    reviewsCount: 7,
+    rating: 5,
+    type: "Private room in condo",
+    userId: 365769099,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 4, 5, 8, 392, 9, 137, 139, 77, 79, 657, 89, 90, 91, 92, 93, 30, 95,
       415, 671, 96, 33, 34, 35, 611, 37, 40, 41, 42, 44, 236, 45, 51, 52, 308,
-      61
+      61,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 64,
-      "currency": "USD",
-      "total": 64,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 64,
+      currency: "USD",
+      total: 64,
+      priceItems: [
         {
-          "amount": 28
+          amount: 28,
         },
         {
-          "amount": 20
+          amount: 20,
         },
         {
-          "amount": 8
+          amount: 8,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "45351992",
-    "url": "https://www.airbnb.com/rooms/45351992",
-    "deeplink": "https://www.airbnb.com/rooms/45351992?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 31,
-    "name": "Studio Zo(e)-PrivateRoom-Galveston/Houston/Airport",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Friendswood",
-    "images": [
+    id: "45351992",
+    url: "https://www.airbnb.com/rooms/45351992",
+    deeplink:
+      "https://www.airbnb.com/rooms/45351992?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 31,
+    name: "Studio Zo(e)-PrivateRoom-Galveston/Houston/Airport",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Friendswood",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-45351992/original/41858408-e2c0-4e28-9f49-a1e841a0bc02.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-45351992/original/3c3ace93-bbf1-4764-ab64-73e2ee9d8be7.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-45351992/original/bd81144f-54fd-4fe4-8787-5397fe9ff1be.jpeg?im_w=720",
@@ -7163,57 +7385,59 @@
       "https://a0.muscache.com/im/pictures/e6739a3b-c38c-47a5-bc4f-bf4bc4d290e0.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/13b0cb26-6e16-44a5-9424-1c1a2adfdc8a.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-45351992/original/c5f548a0-b91a-4445-99a0-5b94893183d0.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-45351992/original/4b9b3bcb-7796-4d1a-8044-28aaf99ad499.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-45351992/original/4b9b3bcb-7796-4d1a-8044-28aaf99ad499.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-233902848/original/32475b7f-1208-4ece-a609-d84f80724b2f.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.54651,
-    "lng": -95.1725,
-    "persons": 2,
-    "reviewsCount": 117,
-    "rating": 4.97,
-    "type": "Private room in home",
-    "userId": 233902848,
-    "address": "Friendswood, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-233902848/original/32475b7f-1208-4ece-a609-d84f80724b2f.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.54651,
+    lng: -95.1725,
+    persons: 2,
+    reviewsCount: 117,
+    rating: 4.97,
+    type: "Private room in home",
+    userId: 233902848,
+    address: "Friendswood, TX, United States",
+    amenityIds: [
       1, 4, 5, 9, 77, 15, 79, 657, 85, 23, 280, 89, 90, 91, 667, 92, 93, 30, 94,
       671, 97, 35, 227, 36, 100, 37, 101, 39, 40, 41, 42, 44, 45, 46, 47, 51,
-      179, 53, 56
+      179, 53, 56,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in"],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 87,
-      "currency": "USD",
-      "total": 87,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in"],
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 87,
+      currency: "USD",
+      total: 87,
+      priceItems: [
         {
-          "amount": 46
+          amount: 46,
         },
         {
-          "amount": 20
+          amount: 20,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 10
-        }
-      ]
-    }
+          amount: 10,
+        },
+      ],
+    },
   },
   {
-    "id": "31317026",
-    "url": "https://www.airbnb.com/rooms/31317026",
-    "deeplink": "https://www.airbnb.com/rooms/31317026?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 32,
-    "name": "Cozy Private Room 2",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "31317026",
+    url: "https://www.airbnb.com/rooms/31317026",
+    deeplink:
+      "https://www.airbnb.com/rooms/31317026?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 32,
+    name: "Cozy Private Room 2",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/c20337af-9abb-4b40-a549-934c44cc6fd3.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e7215600-7841-457b-851d-84f635d32b00.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/c889207e-50e4-42fc-ac2d-9c4c0389907d.jpg?im_w=720",
@@ -7227,56 +7451,58 @@
       "https://a0.muscache.com/im/pictures/febb7a1c-c0e1-4ddf-bede-1cbe54e2d191.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/40a65c46-74a7-4460-83e4-8aa25da74146.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/0e418ebd-ffae-4fff-ba3f-3ff7fc831846.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/99c2d762-dbcd-4452-addb-e5d5f42a64db.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/99c2d762-dbcd-4452-addb-e5d5f42a64db.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/13b6877d-a976-4f36-9060-16d33eeae420.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.61183,
-    "lng": -95.37192,
-    "persons": 1,
-    "reviewsCount": 12,
-    "rating": 4.58,
-    "type": "Private room in home",
-    "userId": 232667140,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/13b6877d-a976-4f36-9060-16d33eeae420.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.61183,
+    lng: -95.37192,
+    persons: 1,
+    reviewsCount: 12,
+    rating: 4.58,
+    type: "Private room in home",
+    userId: 232667140,
+    address: "Houston, TX, United States",
+    amenityIds: [
       4, 5, 139, 77, 23, 89, 90, 91, 92, 93, 30, 95, 671, 96, 33, 34, 35, 36,
-      37, 39, 103, 40, 104, 42, 44, 236, 46, 51, 53
+      37, 39, 103, 40, 104, 42, 44, 236, 46, 51, 53,
     ],
-    "previewAmenities": ["Wifi", "Self check-in"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 42,
-      "currency": "USD",
-      "total": 41,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Self check-in"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 42,
+      currency: "USD",
+      total: 41,
+      priceItems: [
         {
-          "amount": 35
+          amount: 35,
         },
         {
-          "amount": 4
+          amount: 4,
         },
         {
-          "amount": 5
+          amount: 5,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "13732596",
-    "url": "https://www.airbnb.com/rooms/13732596",
-    "deeplink": "https://www.airbnb.com/rooms/13732596?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 33,
-    "name": "Private Room Near Texas Med Center & NRG Stadium",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "13732596",
+    url: "https://www.airbnb.com/rooms/13732596",
+    deeplink:
+      "https://www.airbnb.com/rooms/13732596?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 33,
+    name: "Private Room Near Texas Med Center & NRG Stadium",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/d8ebbe85-b162-4e27-8a3e-a3ea19eaea97.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/a4536859-94e6-47dc-a259-1723c654f4bb.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/bf2fa4fb-35d4-45ee-b7f5-b0c842f5d798.jpg?im_w=720",
@@ -7285,54 +7511,56 @@
       "https://a0.muscache.com/im/pictures/748a9c9a-266b-49c6-9613-76d7aa666c10.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/fa76ab2a-0303-490a-bf15-f324a925d038.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/067e8e6d-79af-485e-97c6-32e223604d10.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/69a5ebdf-be7e-453f-898b-7409045f981f.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/69a5ebdf-be7e-453f-898b-7409045f981f.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-48084452/original/03937f18-d356-450e-9de6-2c3822696183.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.63989,
-    "lng": -95.40371,
-    "persons": 2,
-    "reviewsCount": 220,
-    "rating": 4.81,
-    "type": "Private room in home",
-    "userId": 48084452,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-48084452/original/03937f18-d356-450e-9de6-2c3822696183.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.63989,
+    lng: -95.40371,
+    persons: 2,
+    reviewsCount: 220,
+    rating: 4.81,
+    type: "Private room in home",
+    userId: 48084452,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 4, 5, 8, 77, 85, 86, 23, 280, 89, 90, 91, 92, 93, 30, 94, 31, 95, 96,
       33, 34, 35, 611, 36, 100, 37, 101, 39, 103, 40, 104, 41, 44, 45, 46, 625,
-      50, 626, 51, 179, 53, 61
+      50, 626, 51, 179, 53, 61,
     ],
-    "previewAmenities": ["Wifi", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 47,
-      "currency": "USD",
-      "total": 47,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 47,
+      currency: "USD",
+      total: 47,
+      priceItems: [
         {
-          "amount": 35
+          amount: 35,
         },
         {
-          "amount": 6
+          amount: 6,
         },
         {
-          "amount": 6
-        }
-      ]
-    }
+          amount: 6,
+        },
+      ],
+    },
   },
   {
-    "id": "676197477296349624",
-    "url": "https://www.airbnb.com/rooms/676197477296349624",
-    "deeplink": "https://www.airbnb.com/rooms/676197477296349624?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 34,
-    "name": "Nice 1 private bedroom with private bathroom +TV",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "676197477296349624",
+    url: "https://www.airbnb.com/rooms/676197477296349624",
+    deeplink:
+      "https://www.airbnb.com/rooms/676197477296349624?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 34,
+    name: "Nice 1 private bedroom with private bathroom +TV",
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/ecd7136a-5521-4672-955d-77363913988c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-669696126400806126/original/ddde4352-4e17-4f93-9784-898912eea870.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-669696126400806126/original/b7a25ad3-a6d6-4ed0-ad44-09296eed7550.jpeg?im_w=720",
@@ -7340,53 +7568,55 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-669696126400806126/original/02a3fe0d-8117-4807-85fe-ea1627d3d630.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-669696126400806126/original/c201a82d-b760-41ab-9423-640294468230.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-669696126400806126/original/64eb5a62-7b40-47e2-ad50-ff0bb93db6cf.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-669696126400806126/original/653ca3b7-7ad8-4609-ad11-398dc23f0b1e.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-669696126400806126/original/653ca3b7-7ad8-4609-ad11-398dc23f0b1e.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/ff61ba6a-f6ff-4b10-949b-cfca25f8c390.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.58409,
-    "lng": -95.19396,
-    "persons": 2,
-    "reviewsCount": 11,
-    "rating": 5,
-    "type": "Private room in home",
-    "userId": 345394394,
-    "address": "Houston, TX, United States",
-    "amenityIds": [1, 33, 35, 99, 4, 5, 9, 42, 45, 46, 179, 27, 219, 510],
-    "previewAmenities": ["Wifi", "Free parking"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 62,
-      "currency": "USD",
-      "total": 62,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/ff61ba6a-f6ff-4b10-949b-cfca25f8c390.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.58409,
+    lng: -95.19396,
+    persons: 2,
+    reviewsCount: 11,
+    rating: 5,
+    type: "Private room in home",
+    userId: 345394394,
+    address: "Houston, TX, United States",
+    amenityIds: [1, 33, 35, 99, 4, 5, 9, 42, 45, 46, 179, 27, 219, 510],
+    previewAmenities: ["Wifi", "Free parking"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 62,
+      currency: "USD",
+      total: 62,
+      priceItems: [
         {
-          "amount": 41
+          amount: 41,
         },
         {
-          "amount": 5
+          amount: 5,
         },
         {
-          "amount": 8
+          amount: 8,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "844400428266419638",
-    "url": "https://www.airbnb.com/rooms/844400428266419638",
-    "deeplink": "https://www.airbnb.com/rooms/844400428266419638?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 35,
-    "name": "Spacious Lakehouse Private Room",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Sugar Land",
-    "images": [
+    id: "844400428266419638",
+    url: "https://www.airbnb.com/rooms/844400428266419638",
+    deeplink:
+      "https://www.airbnb.com/rooms/844400428266419638?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 35,
+    name: "Spacious Lakehouse Private Room",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Sugar Land",
+    images: [
       "https://a0.muscache.com/im/pictures/be5da6bf-f221-48e1-b5a8-167fbd21df78.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5fc157f2-2bb9-4228-8c5b-5d7ff2e1da0d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/0a2d4885-3f22-479d-92c5-f586ad3d84c9.jpg?im_w=720",
@@ -7405,55 +7635,57 @@
       "https://a0.muscache.com/im/pictures/e562abb8-2179-4048-a3fd-15eda35c6409.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e2cd024f-49de-47b1-a74c-fd1db4fa9804.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e227a9ec-b486-4322-ad16-01042a84d57e.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/d6f25f39-4bd5-443a-bd5b-f34f6ed25cdc.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/d6f25f39-4bd5-443a-bd5b-f34f6ed25cdc.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/ff3bb4d1-818c-4fd8-806e-084231687131.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.60746,
-    "lng": -95.68398,
-    "persons": 2,
-    "reviewsCount": 3,
-    "rating": 5,
-    "type": "Private room in home",
-    "userId": 447796099,
-    "address": "Sugar Land, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/ff3bb4d1-818c-4fd8-806e-084231687131.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.60746,
+    lng: -95.68398,
+    persons: 2,
+    reviewsCount: 3,
+    rating: 5,
+    type: "Private room in home",
+    userId: 447796099,
+    address: "Sugar Land, TX, United States",
+    amenityIds: [
       1, 4, 132, 5, 133, 8, 9, 137, 139, 145, 657, 280, 665, 27, 30, 671, 33,
       34, 35, 36, 37, 40, 41, 42, 44, 45, 46, 47, 51, 179, 308, 53, 185, 315,
       61, 322, 77, 79, 85, 86, 89, 90, 91, 92, 93, 94, 95, 96, 99, 100, 101,
-      104, 232, 236, 510
+      104, 232, 236, 510,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 102,
-      "currency": "USD",
-      "total": 102,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 102,
+      currency: "USD",
+      total: 102,
+      priceItems: [
         {
-          "amount": 83
+          amount: 83,
         },
         {
-          "amount": 14
+          amount: 14,
         },
         {
-          "amount": 5
-        }
-      ]
-    }
+          amount: 5,
+        },
+      ],
+    },
   },
   {
-    "id": "12784036",
-    "url": "https://www.airbnb.com/rooms/12784036",
-    "deeplink": "https://www.airbnb.com/rooms/12784036?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 36,
-    "name": "Spacious Private Room with TV near Downtown!",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "12784036",
+    url: "https://www.airbnb.com/rooms/12784036",
+    deeplink:
+      "https://www.airbnb.com/rooms/12784036?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 36,
+    name: "Spacious Private Room with TV near Downtown!",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/72ed9a70-3aa8-4590-9e95-0ca30cf0f02e.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/71157b89-a103-4d15-bb2c-055d7dcce193.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/7759caab-6d12-41f9-8ba2-006840287532.jpg?im_w=720",
@@ -7466,104 +7698,108 @@
       "https://a0.muscache.com/im/pictures/ecdc4721-f18a-41e1-bf7d-57aefddce781.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/e2db1f67-28d6-4917-8691-737fbeb8a3f3.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/ff1a1930-c73a-4068-aaa0-947d33cc3905.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/07c63118-eb9e-483c-bdc7-29f998f00acd.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/07c63118-eb9e-483c-bdc7-29f998f00acd.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/6e6602d3-a684-4688-a5ae-7bfe33c36a5d.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.73431,
-    "lng": -95.36033,
-    "persons": 3,
-    "reviewsCount": 245,
-    "rating": 4.81,
-    "type": "Private room in home",
-    "userId": 54438284,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/6e6602d3-a684-4688-a5ae-7bfe33c36a5d.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.73431,
+    lng: -95.36033,
+    persons: 3,
+    reviewsCount: 245,
+    rating: 4.81,
+    type: "Private room in home",
+    userId: 54438284,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 3, 131, 4, 5, 8, 392, 137, 331, 77, 79, 657, 85, 86, 23, 89, 665, 90,
       91, 93, 30, 94, 95, 96, 672, 33, 34, 35, 611, 36, 37, 39, 40, 104, 41, 42,
-      44, 236, 45, 46, 625, 626, 308, 251, 315, 61
+      44, 236, 45, 46, 625, 626, 308, 251, 315, 61,
     ],
-    "previewAmenities": ["Wifi", "Kitchen"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 67,
-      "currency": "USD",
-      "total": 67,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 67,
+      currency: "USD",
+      total: 67,
+      priceItems: [
         {
-          "amount": 35
+          amount: 35,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 8
+          amount: 8,
         },
         {
-          "amount": 9
-        }
-      ]
-    }
+          amount: 9,
+        },
+      ],
+    },
   },
   {
-    "id": "825507014595155457",
-    "url": "https://www.airbnb.com/rooms/825507014595155457",
-    "deeplink": "https://www.airbnb.com/rooms/825507014595155457?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 37,
-    "name": "Cozy apartment close to downtown",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "825507014595155457",
+    url: "https://www.airbnb.com/rooms/825507014595155457",
+    deeplink:
+      "https://www.airbnb.com/rooms/825507014595155457?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 37,
+    name: "Cozy apartment close to downtown",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-825507014595155457/original/b979de7b-2f77-4829-b505-1ffd7141b112.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-825507014595155457/original/b3d1ece2-9b8f-42a1-9954-ce8f5c2003a5.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-825507014595155457/original/cbec4c1b-08f5-4b1c-97e0-3b03069c63dd.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-825507014595155457/original/149a7cbb-ecbd-4db4-9987-1d1fc922a293.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-825507014595155457/original/3a282083-3fd5-44f6-bbb0-4acbad3898c3.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-825507014595155457/original/3a282083-3fd5-44f6-bbb0-4acbad3898c3.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/6a5f76e5-e40a-428c-bea9-576a3105ac5f.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.72828,
-    "lng": -95.42671,
-    "persons": 1,
-    "reviewsCount": 2,
-    "type": "Private room in rental unit",
-    "userId": 201677698,
-    "address": "Houston, TX, United States",
-    "amenityIds": [1, 4, 100, 5, 7, 8, 9, 25, 90, 91],
-    "previewAmenities": ["Wifi", "Free parking", "Kitchen"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 61,
-      "currency": "USD",
-      "total": 61,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/6a5f76e5-e40a-428c-bea9-576a3105ac5f.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.72828,
+    lng: -95.42671,
+    persons: 1,
+    reviewsCount: 2,
+    type: "Private room in rental unit",
+    userId: 201677698,
+    address: "Houston, TX, United States",
+    amenityIds: [1, 4, 100, 5, 7, 8, 9, 25, 90, 91],
+    previewAmenities: ["Wifi", "Free parking", "Kitchen"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 61,
+      currency: "USD",
+      total: 61,
+      priceItems: [
         {
-          "amount": 45
+          amount: 45,
         },
         {
-          "amount": 8
+          amount: 8,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "864044826230402064",
-    "url": "https://www.airbnb.com/rooms/864044826230402064",
-    "deeplink": "https://www.airbnb.com/rooms/864044826230402064?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 38,
-    "name": "Large Master bedroom w/full bath-Near Airport(IAH)",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Atascocita",
-    "images": [
+    id: "864044826230402064",
+    url: "https://www.airbnb.com/rooms/864044826230402064",
+    deeplink:
+      "https://www.airbnb.com/rooms/864044826230402064?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 38,
+    name: "Large Master bedroom w/full bath-Near Airport(IAH)",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Atascocita",
+    images: [
       "https://a0.muscache.com/im/pictures/01a721c9-87f8-4ca1-8fa9-0ac1a15071b0.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/504b74e0-9acf-4430-ab9e-f1ceafc9dda3.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/0c6e5ff9-7c56-4775-a444-dd42c99903d6.jpg?im_w=720",
@@ -7576,109 +7812,113 @@
       "https://a0.muscache.com/im/pictures/a61d1055-ea89-4952-8429-c5b18bbd2bfb.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/b8c15eee-366f-47e2-ac70-5efea674dcf2.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/abdebcfa-a2b4-4c49-92f4-99339becbebe.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/dbddb4c8-7990-43ec-b07c-e6ad349b4293.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/dbddb4c8-7990-43ec-b07c-e6ad349b4293.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-508917862/original/b40b22b3-a94b-4df7-aa15-1ff2ca8359e4.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.9455,
-    "lng": -95.19366,
-    "persons": 2,
-    "reviewsCount": 4,
-    "rating": 5,
-    "type": "Private room in home",
-    "userId": 508917862,
-    "address": "Atascocita, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-508917862/original/b40b22b3-a94b-4df7-aa15-1ff2ca8359e4.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.9455,
+    lng: -95.19366,
+    persons: 2,
+    reviewsCount: 4,
+    rating: 5,
+    type: "Private room in home",
+    userId: 508917862,
+    address: "Atascocita, TX, United States",
+    amenityIds: [
       64, 4, 5, 8, 9, 77, 79, 528, 657, 85, 89, 665, 91, 92, 93, 30, 94, 95,
       671, 96, 33, 34, 35, 100, 37, 101, 103, 167, 40, 104, 41, 44, 236, 364,
-      45, 46, 47, 51, 308, 53, 510
+      45, 46, 47, 51, 308, 53, 510,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 69,
-      "currency": "USD",
-      "total": 69,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 69,
+      currency: "USD",
+      total: 69,
+      priceItems: [
         {
-          "amount": 32
+          amount: 32,
         },
         {
-          "amount": 20
+          amount: 20,
         },
         {
-          "amount": 9
+          amount: 9,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "35711388",
-    "url": "https://www.airbnb.com/rooms/35711388",
-    "deeplink": "https://www.airbnb.com/rooms/35711388?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 39,
-    "name": "Full Size Bed in Houston. Wifi, Hulu, Netflix",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "35711388",
+    url: "https://www.airbnb.com/rooms/35711388",
+    deeplink:
+      "https://www.airbnb.com/rooms/35711388?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 39,
+    name: "Full Size Bed in Houston. Wifi, Hulu, Netflix",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/66a1d1d5-ea04-4e81-a357-b139cae37d4b.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/7e9accc7-7018-48b6-b7c9-6340345d9fc5.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/0c87787c-7837-490b-ad00-7753d20423ee.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5f39e54c-77a1-4bfd-a1b7-9fc2264bae8d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/4a9efda0-e651-4d27-8dce-599ea15834c3.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/75f4bf3c-1b90-40dd-a6ee-24f5d540abd3.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/75f4bf3c-1b90-40dd-a6ee-24f5d540abd3.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/e6ba2768-8d9f-41f2-8f2f-cd5106d68118.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 29.661869,
-    "lng": -95.542824,
-    "persons": 2,
-    "reviewsCount": 138,
-    "rating": 4.83,
-    "type": "Private room in home",
-    "userId": 41477521,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/e6ba2768-8d9f-41f2-8f2f-cd5106d68118.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 29.661869,
+    lng: -95.542824,
+    persons: 2,
+    reviewsCount: 138,
+    rating: 4.83,
+    type: "Private room in home",
+    userId: 41477521,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 4, 5, 8, 9, 11, 77, 23, 89, 90, 91, 92, 93, 30, 94, 95, 32, 96, 33, 34,
-      35, 100, 37, 101, 40, 41, 44, 45, 46, 51, 54
+      35, 100, 37, 101, 40, 41, 44, 45, 46, 51, 54,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 48,
-      "currency": "USD",
-      "total": 48,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 48,
+      currency: "USD",
+      total: 48,
+      priceItems: [
         {
-          "amount": 36
+          amount: 36,
         },
         {
-          "amount": 6
+          amount: 6,
         },
         {
-          "amount": 6
-        }
-      ]
-    }
+          amount: 6,
+        },
+      ],
+    },
   },
   {
-    "id": "34362766",
-    "url": "https://www.airbnb.com/rooms/34362766",
-    "deeplink": "https://www.airbnb.com/rooms/34362766?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 40,
-    "name": "Private Bedroom located in the Heights",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Houston",
-    "images": [
+    id: "34362766",
+    url: "https://www.airbnb.com/rooms/34362766",
+    deeplink:
+      "https://www.airbnb.com/rooms/34362766?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 40,
+    name: "Private Bedroom located in the Heights",
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 1,
+    city: "Houston",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-34362766/original/75727d9b-cf49-4503-bb49-ea28c07b6a27.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-34362766/original/541b12ff-fa79-4aa1-91e5-6544696f8a1c.png?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-34362766/original/a9ee326c-5d98-42c0-935e-67a0a25eb0e1.jpeg?im_w=720",
@@ -7690,57 +7930,59 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-34362766/original/8ba2c1c8-2e62-4860-99a9-af11f6aa4d23.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-34362766/original/d212fc12-06ff-45db-bcaf-775c8e173cfd.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-34362766/original/c2b9e793-a544-4c58-bec7-83efac5bf1ce.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-34362766/original/9ca3c1c4-1f17-465f-a663-9f0a19a773da.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-34362766/original/9ca3c1c4-1f17-465f-a663-9f0a19a773da.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-117453400/original/2fc8020c-4abd-4283-9946-d7d1e3450a2d.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 29.79747,
-    "lng": -95.41697,
-    "persons": 2,
-    "reviewsCount": 76,
-    "rating": 5,
-    "type": "Private room in townhouse",
-    "userId": 117453400,
-    "address": "Houston, TX, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-117453400/original/2fc8020c-4abd-4283-9946-d7d1e3450a2d.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 29.79747,
+    lng: -95.41697,
+    persons: 2,
+    reviewsCount: 76,
+    rating: 5,
+    type: "Private room in townhouse",
+    userId: 117453400,
+    address: "Houston, TX, United States",
+    amenityIds: [
       1, 4, 5, 8, 392, 9, 522, 139, 527, 657, 23, 663, 667, 30, 415, 671, 672,
       33, 34, 35, 36, 37, 39, 40, 41, 42, 44, 45, 46, 51, 53, 185, 61, 75, 77,
-      79, 85, 86, 87, 89, 90, 91, 92, 476, 93, 94, 95, 96, 100, 103, 104, 625
+      79, 85, 86, 87, 89, 90, 91, 92, 476, 93, 94, 95, 96, 100, 103, 104, 625,
     ],
-    "previewAmenities": ["Wifi", "Free parking", "Self check-in", "Kitchen"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 142,
-      "currency": "USD",
-      "total": 142,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Free parking", "Self check-in", "Kitchen"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 142,
+      currency: "USD",
+      total: 142,
+      priceItems: [
         {
-          "amount": 101
+          amount: 101,
         },
         {
-          "amount": 5
+          amount: 5,
         },
         {
-          "amount": 18
+          amount: 18,
         },
         {
-          "amount": 18
-        }
-      ]
-    }
+          amount: 18,
+        },
+      ],
+    },
   },
   {
-    "id": "624154761912270863",
-    "url": "https://www.airbnb.com/rooms/624154761912270863",
-    "deeplink": "https://www.airbnb.com/rooms/624154761912270863?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 1,
-    "name": "Beautiful Private Room with Balcony - ASTORIA",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Queens",
-    "images": [
+    id: "624154761912270863",
+    url: "https://www.airbnb.com/rooms/624154761912270863",
+    deeplink:
+      "https://www.airbnb.com/rooms/624154761912270863?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 1,
+    name: "Beautiful Private Room with Balcony - ASTORIA",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Queens",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-624154761912270863/original/6b473a79-cb7c-4531-8b79-6fded15eaae2.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-624154761912270863/original/6af27108-7bb8-4421-92a9-cb5d8377c68f.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-624154761912270863/original/c920c00b-4289-4790-b004-930121e742f5.jpeg?im_w=720",
@@ -7756,59 +7998,56 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-624154761912270863/original/a415d3a4-59ce-4edb-9b4b-124336668ab3.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-624154761912270863/original/6a461aa5-c677-4da2-9f38-3ad1e338ae25.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-624154761912270863/original/51183133-0ca9-4f0f-b016-e0fe86d7fb13.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-624154761912270863/original/1b8c9ad0-4b71-49cc-bf21-a11f2cb8be57.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-624154761912270863/original/1b8c9ad0-4b71-49cc-bf21-a11f2cb8be57.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/c20922c0-c5ad-45c9-9858-d166c303535d.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.76835,
-    "lng": -73.92409,
-    "persons": 2,
-    "reviewsCount": 77,
-    "rating": 4.83,
-    "type": "Private room in rental unit",
-    "userId": 442956929,
-    "address": "Queens, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/c20922c0-c5ad-45c9-9858-d166c303535d.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.76835,
+    lng: -73.92409,
+    persons: 2,
+    reviewsCount: 77,
+    rating: 4.83,
+    type: "Private room in rental unit",
+    userId: 442956929,
+    address: "Queens, NY, United States",
+    amenityIds: [
       4, 5, 8, 392, 137, 10, 394, 16, 23, 663, 665, 30, 415, 671, 672, 35, 37,
       39, 40, 41, 42, 44, 45, 47, 51, 308, 53, 56, 57, 315, 61, 322, 73, 77, 79,
-      85, 86, 91, 92, 93, 94, 95, 96, 98, 100, 103, 104, 236, 510
+      85, 86, 91, 92, 93, 94, 95, 96, 98, 100, 103, 104, 236, 510,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 107,
-      "currency": "USD",
-      "total": 107,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 107,
+      currency: "USD",
+      total: 107,
+      priceItems: [
         {
-          "amount": 72
+          amount: 72,
         },
         {
-          "amount": 20
+          amount: 20,
         },
         {
-          "amount": 15
-        }
-      ]
-    }
+          amount: 15,
+        },
+      ],
+    },
   },
   {
-    "id": "53050522",
-    "url": "https://www.airbnb.com/rooms/53050522",
-    "deeplink": "https://www.airbnb.com/rooms/53050522?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 2,
-    "name": "Clean, quiet, safe bedroom by Central Park",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "New York",
-    "images": [
+    id: "53050522",
+    url: "https://www.airbnb.com/rooms/53050522",
+    deeplink:
+      "https://www.airbnb.com/rooms/53050522?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 2,
+    name: "Clean, quiet, safe bedroom by Central Park",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "New York",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-53050522/original/3fc3bd8c-0f84-4087-ae59-7233425ed9f9.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-53050522/original/2151468f-e659-45df-b7a5-fcb8f6fc509e.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-53050522/original/e95eb7c2-8416-4d2d-83c0-d4ca45b6555b.jpeg?im_w=720",
@@ -7816,59 +8055,56 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-53050522/original/8ff31d14-acf9-4a19-af01-8c8d6b5ffe64.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-53050522/original/6a8cfd8f-0ca8-4960-91df-927d1315b2d2.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-53050522/original/2ff70225-6192-4d47-8930-63cc7e75a33a.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-53050522/original/2e8b764c-750f-4c98-9356-7dd53f46ae9e.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-53050522/original/2e8b764c-750f-4c98-9356-7dd53f46ae9e.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/5cecf99e-352d-400f-91d8-8589b783d9f6.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.795273,
-    "lng": -73.963577,
-    "persons": 2,
-    "reviewsCount": 71,
-    "rating": 4.76,
-    "type": "Private room in rental unit",
-    "userId": 400944908,
-    "address": "New York, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/5cecf99e-352d-400f-91d8-8589b783d9f6.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.795273,
+    lng: -73.963577,
+    persons: 2,
+    reviewsCount: 71,
+    rating: 4.76,
+    type: "Private room in rental unit",
+    userId: 400944908,
+    address: "New York, NY, United States",
+    amenityIds: [
       4, 5, 8, 137, 522, 21, 665, 667, 30, 415, 671, 672, 33, 34, 35, 36, 293,
       40, 41, 42, 44, 45, 46, 47, 51, 308, 53, 61, 322, 73, 77, 79, 80, 81, 83,
-      211, 85, 86, 89, 90, 91, 93, 94, 95, 96, 103, 104, 232, 236, 251
+      211, 85, 86, 89, 90, 91, 93, 94, 95, 96, 103, 104, 232, 236, 251,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 127,
-      "currency": "USD",
-      "total": 127,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 127,
+      currency: "USD",
+      total: 127,
+      priceItems: [
         {
-          "amount": 84
+          amount: 84,
         },
         {
-          "amount": 25
+          amount: 25,
         },
         {
-          "amount": 18
-        }
-      ]
-    }
+          amount: 18,
+        },
+      ],
+    },
   },
   {
-    "id": "862494077811567256",
-    "url": "https://www.airbnb.com/rooms/862494077811567256",
-    "deeplink": "https://www.airbnb.com/rooms/862494077811567256?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 3,
-    "name": "Cozy Affordable Pod Room, Manhattan, 1 person",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "New York",
-    "images": [
+    id: "862494077811567256",
+    url: "https://www.airbnb.com/rooms/862494077811567256",
+    deeplink:
+      "https://www.airbnb.com/rooms/862494077811567256?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 3,
+    name: "Cozy Affordable Pod Room, Manhattan, 1 person",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "New York",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-842070058198926794/original/bf70b0ec-73fe-48cd-9dde-f288641a2756.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/5507009a-625c-4e28-a251-103fa72680aa.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/48ff5e0c-7efd-4374-b88e-f3552c96bacc.jpg?im_w=720",
@@ -7883,55 +8119,52 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-839164044101513935/original/11374c44-7995-4649-a329-010b34133a84.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/c6c0679c-85d5-4f20-a0a4-2991ed3e23e2.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5f9b15a8-2410-4699-8efc-3b69345a20d7.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/35b46004-c207-4b92-b9fb-871c7a2f5508.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/35b46004-c207-4b92-b9fb-871c7a2f5508.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/10ea4ea4-c18f-4722-97df-cc61b71eabc4.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 40.749827959776034,
-    "lng": -73.99497600477198,
-    "persons": 1,
-    "reviewsCount": 4,
-    "rating": 4,
-    "type": "Private room in bed and breakfast",
-    "userId": 503712643,
-    "address": "New York, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/10ea4ea4-c18f-4722-97df-cc61b71eabc4.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 40.749827959776034,
+    lng: -73.99497600477198,
+    persons: 1,
+    reviewsCount: 4,
+    rating: 4,
+    type: "Private room in bed and breakfast",
+    userId: 503712643,
+    address: "New York, NY, United States",
+    amenityIds: [
       4, 5, 8, 394, 16, 145, 85, 86, 665, 90, 91, 93, 30, 415, 35, 611, 36, 37,
-      39, 40, 41, 42, 44, 236, 45, 46, 47, 51, 308, 55, 251
+      39, 40, 41, 42, 44, 236, 45, 46, 47, 51, 308, 55, 251,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 99,
-      "currency": "USD",
-      "total": 99,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 99,
+      currency: "USD",
+      total: 99,
+      priceItems: [
         {
-          "amount": 85
+          amount: 85,
         },
         {
-          "amount": 14
-        }
-      ]
-    }
+          amount: 14,
+        },
+      ],
+    },
   },
   {
-    "id": "52355596",
-    "url": "https://www.airbnb.com/rooms/52355596",
-    "deeplink": "https://www.airbnb.com/rooms/52355596?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 4,
-    "name": "Love SUITE & SPA | HOT TUB next to JFK",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Queens",
-    "images": [
+    id: "52355596",
+    url: "https://www.airbnb.com/rooms/52355596",
+    deeplink:
+      "https://www.airbnb.com/rooms/52355596?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 4,
+    name: "Love SUITE & SPA | HOT TUB next to JFK",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Queens",
+    images: [
       "https://a0.muscache.com/im/pictures/4cef6603-5b96-4cf8-a822-a8622b65e52b.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/359394b9-0a95-4a99-b159-993b84c940a7.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/f785230a-ec24-4c7d-9db7-6767cd04775c.jpg?im_w=720",
@@ -7961,61 +8194,58 @@
       "https://a0.muscache.com/im/pictures/0b0605bd-ed84-441d-b9fd-23ff5719cc59.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/24b37998-de0b-4539-850e-07981bbdb18c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/cb6eec4c-ba4e-49b9-9930-84623093374e.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/004dacde-6417-4756-8d3c-f561e0d834d3.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/004dacde-6417-4756-8d3c-f561e0d834d3.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-92900025/original/93eb4dc3-9893-4289-b642-868da1f70fa6.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.68395,
-    "lng": -73.74632,
-    "persons": 2,
-    "reviewsCount": 224,
-    "rating": 4.97,
-    "type": "Private room in guest suite",
-    "userId": 92900025,
-    "address": "Queens, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-92900025/original/93eb4dc3-9893-4289-b642-868da1f70fa6.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.68395,
+    lng: -73.74632,
+    persons: 2,
+    reviewsCount: 224,
+    rating: 4.97,
+    type: "Private room in guest suite",
+    userId: 92900025,
+    address: "Queens, NY, United States",
+    amenityIds: [
       1, 4, 5, 8, 392, 9, 137, 394, 522, 12, 657, 146, 23, 663, 280, 25, 665,
       667, 30, 415, 671, 672, 33, 34, 35, 36, 37, 39, 40, 41, 44, 45, 46, 47,
       51, 179, 308, 54, 57, 60, 322, 70, 73, 77, 79, 211, 85, 86, 87, 89, 90,
       91, 219, 93, 94, 95, 96, 99, 227, 611, 100, 101, 103, 236, 113, 114, 371,
-      510
+      510,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 186,
-      "currency": "USD",
-      "total": 186,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 186,
+      currency: "USD",
+      total: 186,
+      priceItems: [
         {
-          "amount": 119
+          amount: 119,
         },
         {
-          "amount": 40
+          amount: 40,
         },
         {
-          "amount": 27
-        }
-      ]
-    }
+          amount: 27,
+        },
+      ],
+    },
   },
   {
-    "id": "42952334",
-    "url": "https://www.airbnb.com/rooms/42952334",
-    "deeplink": "https://www.airbnb.com/rooms/42952334?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 5,
-    "name": "BestRest SUITE NEAR NYC/NEWARK AIRPORT/OUTLET MALL",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 2,
-    "city": "Newark",
-    "images": [
+    id: "42952334",
+    url: "https://www.airbnb.com/rooms/42952334",
+    deeplink:
+      "https://www.airbnb.com/rooms/42952334?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 5,
+    name: "BestRest SUITE NEAR NYC/NEWARK AIRPORT/OUTLET MALL",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 2,
+    city: "Newark",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-42952334/original/7c16d74f-2ca0-46a4-b2e7-995553a81dcd.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-42952334/original/4667a6aa-f8ef-4595-b407-f89d1425b9e0.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-42952334/original/5c80f42a-8298-42c2-9700-b4f4e61c32bc.jpeg?im_w=720",
@@ -8045,61 +8275,58 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-42952334/original/c4501ca4-f2c4-472f-872e-e82fa8f5ac7b.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-42952334/original/d99553fa-5e73-43b2-88bf-e309b86a6ab6.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-42952334/original/4212827b-9b1e-4673-bbd9-64ff7297df9c.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-42952334/original/2ebad71b-bee9-420a-8a42-b365418a7c4e.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-42952334/original/2ebad71b-bee9-420a-8a42-b365418a7c4e.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-341965845/original/ba830696-4a32-4ce1-b497-ac329967e3c4.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.68911,
-    "lng": -74.19887,
-    "persons": 4,
-    "reviewsCount": 187,
-    "rating": 4.89,
-    "type": "Private room in rental unit",
-    "userId": 341965845,
-    "address": "Newark, NJ, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-341965845/original/ba830696-4a32-4ce1-b497-ac329967e3c4.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.68911,
+    lng: -74.19887,
+    persons: 4,
+    reviewsCount: 187,
+    rating: 4.89,
+    type: "Private room in rental unit",
+    userId: 341965845,
+    address: "Newark, NJ, United States",
+    amenityIds: [
       1, 66, 4, 5, 71, 8, 72, 9, 77, 657, 23, 89, 90, 91, 93, 30, 94, 95, 33,
-      34, 35, 36, 40, 104, 41, 42, 44, 45, 46, 47, 51, 53
+      34, 35, 36, 40, 104, 41, 42, 44, 45, 46, 47, 51, 53,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 89,
-      "currency": "USD",
-      "total": 89,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 89,
+      currency: "USD",
+      total: 89,
+      priceItems: [
         {
-          "amount": 59
+          amount: 59,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 12
+          amount: 12,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "4958223",
-    "url": "https://www.airbnb.com/rooms/4958223",
-    "deeplink": "https://www.airbnb.com/rooms/4958223?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 6,
-    "name": "Central Park View Room",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "New York",
-    "images": [
+    id: "4958223",
+    url: "https://www.airbnb.com/rooms/4958223",
+    deeplink:
+      "https://www.airbnb.com/rooms/4958223?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 6,
+    name: "Central Park View Room",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "New York",
+    images: [
       "https://a0.muscache.com/im/pictures/9d4704ee-46ab-4365-86ec-070017d8c67c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/90840343/45b4f612_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/90839928/cb799ca9_original.jpg?im_w=720",
@@ -8116,53 +8343,55 @@
       "https://a0.muscache.com/im/pictures/ed893bd3-4749-4838-b819-3099369a64fb.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/205a543a-7908-4466-b28c-ad8f7fd7d9a7.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/efaf6622-0be7-4d88-be2e-d0ef5d1d5f55.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/960ba025-7435-4f36-8a86-35d385a4f734.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/960ba025-7435-4f36-8a86-35d385a4f734.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/18de5d6a-b6ce-4af7-92f6-f59d92a0b096.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.795,
-    "lng": -73.96302,
-    "persons": 1,
-    "reviewsCount": 415,
-    "rating": 4.63,
-    "type": "Private room in rental unit",
-    "userId": 25517905,
-    "address": "New York, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/18de5d6a-b6ce-4af7-92f6-f59d92a0b096.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.795,
+    lng: -73.96302,
+    persons: 1,
+    reviewsCount: 415,
+    rating: 4.63,
+    type: "Private room in rental unit",
+    userId: 25517905,
+    address: "New York, NY, United States",
+    amenityIds: [
       3, 4, 5, 394, 77, 211, 21, 85, 86, 87, 665, 30, 287, 671, 35, 36, 37, 38,
-      39, 40, 232, 42, 107, 44, 45, 46
+      39, 40, 232, 42, 107, 44, 45, 46,
     ],
-    "previewAmenities": ["Wifi", "Air conditioning"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 139,
-      "currency": "USD",
-      "total": 139,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Air conditioning"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 139,
+      currency: "USD",
+      total: 139,
+      priceItems: [
         {
-          "amount": 99
+          amount: 99,
         },
         {
-          "amount": 20
+          amount: 20,
         },
         {
-          "amount": 20
-        }
-      ]
-    }
+          amount: 20,
+        },
+      ],
+    },
   },
   {
-    "id": "647264173221741198",
-    "url": "https://www.airbnb.com/rooms/647264173221741198",
-    "deeplink": "https://www.airbnb.com/rooms/647264173221741198?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 7,
-    "name": "Small Private Room Near LaGuardia",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Queens",
-    "images": [
+    id: "647264173221741198",
+    url: "https://www.airbnb.com/rooms/647264173221741198",
+    deeplink:
+      "https://www.airbnb.com/rooms/647264173221741198?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 7,
+    name: "Small Private Room Near LaGuardia",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Queens",
+    images: [
       "https://a0.muscache.com/im/pictures/32e3644c-0ef1-4052-9cba-93e501f71de7.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/816ed861-0385-4a1f-97bf-fdedbbe7e5cd.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/772632d1-f596-4941-b5be-fc057cf3e6fe.jpg?im_w=720",
@@ -8172,49 +8401,51 @@
       "https://a0.muscache.com/im/pictures/294bcd54-c113-4728-b28a-d5c885266cc5.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/deb7410e-037e-4f03-80cf-f86d29021215.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/6bcc6e62-1a8b-43ca-bad8-d98c554fa3a4.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/c827762c-a3cf-472a-bd27-63792e4683ba.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/c827762c-a3cf-472a-bd27-63792e4683ba.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/13588591-8df0-4374-83b1-17662c8725fc.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.75827447762505,
-    "lng": -73.86841177940369,
-    "persons": 1,
-    "reviewsCount": 103,
-    "rating": 4.83,
-    "type": "Private room in rental unit",
-    "userId": 430854617,
-    "address": "Queens, NY, United States",
-    "amenityIds": [
-      1, 35, 4, 36, 5, 37, 39, 8, 42, 44, 77, 46, 85, 665, 91, 61, 93, 94, 671
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/13588591-8df0-4374-83b1-17662c8725fc.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.75827447762505,
+    lng: -73.86841177940369,
+    persons: 1,
+    reviewsCount: 103,
+    rating: 4.83,
+    type: "Private room in rental unit",
+    userId: 430854617,
+    address: "Queens, NY, United States",
+    amenityIds: [
+      1, 35, 4, 36, 5, 37, 39, 8, 42, 44, 77, 46, 85, 665, 91, 61, 93, 94, 671,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Air conditioning"],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 58,
-      "currency": "USD",
-      "total": 58,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Air conditioning"],
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 58,
+      currency: "USD",
+      total: 58,
+      priceItems: [
         {
-          "amount": 50
+          amount: 50,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "13788132",
-    "url": "https://www.airbnb.com/rooms/13788132",
-    "deeplink": "https://www.airbnb.com/rooms/13788132?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 8,
-    "name": "Sunny, cozy room in Brooklyn.",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Brooklyn",
-    "images": [
+    id: "13788132",
+    url: "https://www.airbnb.com/rooms/13788132",
+    deeplink:
+      "https://www.airbnb.com/rooms/13788132?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 8,
+    name: "Sunny, cozy room in Brooklyn.",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Brooklyn",
+    images: [
       "https://a0.muscache.com/im/pictures/53b485cc-8bc2-422c-8b5d-97a21987684d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/2bb93f2e-22d0-4acf-ab69-91128c713c4b.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/11a7fad9-4980-40db-b01a-13f9a11e8ad6.jpg?im_w=720",
@@ -8228,58 +8459,56 @@
       "https://a0.muscache.com/im/pictures/5814d061-fa88-45ab-8d96-cb66ad8512cf.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/298eed3f-975f-4fa9-94cf-4d22afc6583d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/1c9234fc-aebf-414c-9aad-6ebfc51eae10.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/0f996205-c6f0-45f2-93c0-2c1c6bcce891.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/0f996205-c6f0-45f2-93c0-2c1c6bcce891.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/d9535237-40c2-4e96-bd77-0e7f752bcfc6.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.69602,
-    "lng": -73.96182,
-    "persons": 2,
-    "reviewsCount": 322,
-    "rating": 4.91,
-    "type": "Private room in rental unit",
-    "userId": 19483885,
-    "address": "Brooklyn, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/d9535237-40c2-4e96-bd77-0e7f752bcfc6.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.69602,
+    lng: -73.96182,
+    persons: 2,
+    reviewsCount: 322,
+    rating: 4.91,
+    type: "Private room in rental unit",
+    userId: 19483885,
+    address: "Brooklyn, NY, United States",
+    amenityIds: [
       1, 2, 3, 4, 5, 8, 137, 10, 77, 79, 657, 85, 23, 89, 91, 28, 93, 30, 94,
-      95, 671, 96, 611, 39, 103, 40, 41, 42, 44, 45, 46, 47, 49, 50, 51, 308, 54
+      95, 671, 96, 611, 39, 103, 40, 41, 42, 44, 45, 46, 47, 49, 50, 51, 308,
+      54,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 105,
-      "currency": "USD",
-      "total": 105,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 105,
+      currency: "USD",
+      total: 105,
+      priceItems: [
         {
-          "amount": 70
+          amount: 70,
         },
         {
-          "amount": 20
+          amount: 20,
         },
         {
-          "amount": 15
-        }
-      ]
-    }
+          amount: 15,
+        },
+      ],
+    },
   },
   {
-    "id": "50496488",
-    "url": "https://www.airbnb.com/rooms/50496488",
-    "deeplink": "https://www.airbnb.com/rooms/50496488?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 9,
-    "name": "Art Deco room in BK close to metro & Industry City",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Brooklyn",
-    "images": [
+    id: "50496488",
+    url: "https://www.airbnb.com/rooms/50496488",
+    deeplink:
+      "https://www.airbnb.com/rooms/50496488?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 9,
+    name: "Art Deco room in BK close to metro & Industry City",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Brooklyn",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-50496488/original/6a0ba6dc-f95e-4e12-bb2f-d47ebe6fb662.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-50496488/original/9a9c4e4a-1ca4-4216-add6-a223800f0e4f.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-50496488/original/6da2a978-2a51-4569-8b9c-c9c5d5657117.jpeg?im_w=720",
@@ -8306,115 +8535,109 @@
       "https://a0.muscache.com/im/pictures/13cd2e88-3965-4265-93f0-47393d7a79e2.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/b985a38e-713c-41d4-85ce-85d646d73ce0.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5575a281-1e45-4e62-af5e-603c4feb4417.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/cf677d11-9134-4366-b3a9-1a05367de522.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/cf677d11-9134-4366-b3a9-1a05367de522.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/d866583b-2b6b-4e08-ae62-825f66832b47.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.65713,
-    "lng": -74.00466,
-    "persons": 2,
-    "reviewsCount": 116,
-    "rating": 4.98,
-    "type": "Private room in rental unit",
-    "userId": 51913277,
-    "address": "Brooklyn, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/d866583b-2b6b-4e08-ae62-825f66832b47.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.65713,
+    lng: -74.00466,
+    persons: 2,
+    reviewsCount: 116,
+    rating: 4.98,
+    type: "Private room in rental unit",
+    userId: 51913277,
+    address: "Brooklyn, NY, United States",
+    amenityIds: [
       1, 4, 5, 8, 137, 394, 146, 23, 663, 280, 665, 30, 415, 671, 672, 35, 36,
       37, 293, 39, 40, 41, 42, 44, 45, 46, 47, 51, 308, 54, 61, 322, 77, 79, 80,
       81, 83, 211, 85, 86, 89, 90, 91, 93, 94, 95, 96, 611, 100, 103, 104, 107,
-      236, 625, 627
+      236, 625, 627,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 147,
-      "currency": "USD",
-      "total": 147,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 147,
+      currency: "USD",
+      total: 147,
+      priceItems: [
         {
-          "amount": 91
+          amount: 91,
         },
         {
-          "amount": 35
+          amount: 35,
         },
         {
-          "amount": 21
-        }
-      ]
-    }
+          amount: 21,
+        },
+      ],
+    },
   },
   {
-    "id": "20933293",
-    "url": "https://www.airbnb.com/rooms/20933293",
-    "deeplink": "https://www.airbnb.com/rooms/20933293?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 10,
-    "name": "Cozy 1BR APT in the heart of Astoria",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Queens",
-    "images": [
+    id: "20933293",
+    url: "https://www.airbnb.com/rooms/20933293",
+    deeplink:
+      "https://www.airbnb.com/rooms/20933293?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 10,
+    name: "Cozy 1BR APT in the heart of Astoria",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Queens",
+    images: [
       "https://a0.muscache.com/im/pictures/d95b3f98-783b-4482-b787-4fe3b34cc5d3.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/db994687-0b50-4b64-83f4-89e30d75fe3c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/871a9c2a-273e-493b-aca0-3ebedbcc70a6.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/bcaa0976-8254-4f60-bed0-592a750d0576.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/bcaa0976-8254-4f60-bed0-592a750d0576.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/07d5a923-c0ed-4dfb-ac71-0cab939812cf.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.76597,
-    "lng": -73.92489,
-    "persons": 2,
-    "reviewsCount": 391,
-    "rating": 4.84,
-    "type": "Private room in rental unit",
-    "userId": 150489232,
-    "address": "Queens, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/07d5a923-c0ed-4dfb-ac71-0cab939812cf.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.76597,
+    lng: -73.92489,
+    persons: 2,
+    reviewsCount: 391,
+    rating: 4.84,
+    type: "Private room in rental unit",
+    userId: 150489232,
+    address: "Queens, NY, United States",
+    amenityIds: [
       1, 4, 5, 8, 10, 77, 79, 657, 85, 86, 23, 663, 89, 91, 667, 93, 94, 31, 95,
-      96, 33, 34, 35, 611, 36, 103, 40, 41, 42, 44, 45, 626, 51, 52, 251, 61
+      96, 33, 34, 35, 611, 36, 103, 40, 41, 42, 44, 45, 626, 51, 52, 251, 61,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 96,
-      "currency": "USD",
-      "total": 96,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 96,
+      currency: "USD",
+      total: 96,
+      priceItems: [
         {
-          "amount": 52
+          amount: 52,
         },
         {
-          "amount": 30
+          amount: 30,
         },
         {
-          "amount": 14
-        }
-      ]
-    }
+          amount: 14,
+        },
+      ],
+    },
   },
   {
-    "id": "9178165",
-    "url": "https://www.airbnb.com/rooms/9178165",
-    "deeplink": "https://www.airbnb.com/rooms/9178165?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 11,
-    "name": "Great Space..  Central Park Area!",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 2,
-    "city": "New York",
-    "images": [
+    id: "9178165",
+    url: "https://www.airbnb.com/rooms/9178165",
+    deeplink:
+      "https://www.airbnb.com/rooms/9178165?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 11,
+    name: "Great Space..  Central Park Area!",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 2,
+    city: "New York",
+    images: [
       "https://a0.muscache.com/im/pictures/20544428-d213-464a-8d4b-3beb86542d2a.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/140d5c52-37af-4743-a6dc-280ed056d528.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/a654ee1a-4a20-4dff-8b85-e71d4f952811.jpg?im_w=720",
@@ -8424,54 +8647,56 @@
       "https://a0.muscache.com/im/pictures/1d8084c1-1161-4b13-8e20-c984926c91da.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/756737b6-9ea4-4ff4-8c89-3087cf7e931c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/a2b23a37-17d5-4c15-b7cb-568d11e45432.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/c0975695-46df-476b-80c4-4bbf9064dfcb.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/c0975695-46df-476b-80c4-4bbf9064dfcb.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/users/527811/profile_pic/1304392832/original.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 40.79702,
-    "lng": -73.94949,
-    "persons": 4,
-    "reviewsCount": 409,
-    "rating": 4.53,
-    "type": "Private room in rental unit",
-    "userId": 527811,
-    "address": "New York, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/users/527811/profile_pic/1304392832/original.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 40.79702,
+    lng: -73.94949,
+    persons: 4,
+    reviewsCount: 409,
+    rating: 4.53,
+    type: "Private room in rental unit",
+    userId: 527811,
+    address: "New York, NY, United States",
+    amenityIds: [
       1, 129, 66, 67, 4, 68, 5, 133, 8, 11, 77, 16, 21, 85, 86, 23, 89, 90, 27,
       91, 93, 30, 94, 31, 95, 96, 34, 35, 36, 37, 39, 103, 40, 41, 42, 44, 46,
-      60, 61
+      60, 61,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Air conditioning"],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 98,
-      "currency": "USD",
-      "total": 98,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Air conditioning"],
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 98,
+      currency: "USD",
+      total: 98,
+      priceItems: [
         {
-          "amount": 74
+          amount: 74,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 14
-        }
-      ]
-    }
+          amount: 14,
+        },
+      ],
+    },
   },
   {
-    "id": "50032602",
-    "url": "https://www.airbnb.com/rooms/50032602",
-    "deeplink": "https://www.airbnb.com/rooms/50032602?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 12,
-    "name": "Lovely 2 bdrm duplex share with giant backyard.",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Brooklyn",
-    "images": [
+    id: "50032602",
+    url: "https://www.airbnb.com/rooms/50032602",
+    deeplink:
+      "https://www.airbnb.com/rooms/50032602?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 12,
+    name: "Lovely 2 bdrm duplex share with giant backyard.",
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 1,
+    city: "Brooklyn",
+    images: [
       "https://a0.muscache.com/im/pictures/cb9df155-82a6-485c-845b-e6d480c2220e.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/632eade0-2acc-4f8a-8528-7a13a99a7292.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/88e630c0-0513-485a-9094-3f57b177f606.jpg?im_w=720",
@@ -8483,52 +8708,54 @@
       "https://a0.muscache.com/im/pictures/df788ff9-4aa3-4371-9b5b-5d414b46135c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/18d87763-40bf-4a53-bff4-32fc9adb1843.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/fbb4eaea-b624-47dc-ab89-34cbd7bdf66d.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/abd25625-f125-4372-bd1a-855543350836.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/abd25625-f125-4372-bd1a-855543350836.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/14a5e4ad-41a6-40fb-a96c-3de923730395.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.68712,
-    "lng": -73.94687,
-    "persons": 2,
-    "reviewsCount": 87,
-    "rating": 4.91,
-    "type": "Private room in condo",
-    "userId": 66926,
-    "address": "Brooklyn, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/14a5e4ad-41a6-40fb-a96c-3de923730395.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.68712,
+    lng: -73.94687,
+    persons: 2,
+    reviewsCount: 87,
+    rating: 4.91,
+    type: "Private room in condo",
+    userId: 66926,
+    address: "Brooklyn, NY, United States",
+    amenityIds: [
       1, 4, 5, 8, 9, 137, 522, 657, 23, 663, 280, 665, 667, 30, 415, 671, 672,
       33, 34, 35, 36, 37, 40, 41, 42, 44, 45, 46, 179, 308, 185, 61, 322, 73,
       77, 79, 85, 86, 89, 90, 91, 219, 92, 93, 94, 95, 96, 99, 100, 101, 104,
-      625, 626, 500, 510
+      625, 626, 500, 510,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Air conditioning"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 175,
-      "currency": "USD",
-      "total": 175,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 175,
+      currency: "USD",
+      total: 175,
+      priceItems: [
         {
-          "amount": 150
+          amount: 150,
         },
         {
-          "amount": 25
-        }
-      ]
-    }
+          amount: 25,
+        },
+      ],
+    },
   },
   {
-    "id": "24996332",
-    "url": "https://www.airbnb.com/rooms/24996332",
-    "deeplink": "https://www.airbnb.com/rooms/24996332?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 13,
-    "name": "Master Bedroom with Full Bath & Manhattan View",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Queens",
-    "images": [
+    id: "24996332",
+    url: "https://www.airbnb.com/rooms/24996332",
+    deeplink:
+      "https://www.airbnb.com/rooms/24996332?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 13,
+    name: "Master Bedroom with Full Bath & Manhattan View",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Queens",
+    images: [
       "https://a0.muscache.com/im/pictures/4a7b0970-79de-4cb3-8a4c-43a59ca505b1.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/72300eab-2faa-47e2-94cf-70c812ab8d86.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/f2fcce9f-8cb1-49eb-94e8-c592b9d9cdcf.jpg?im_w=720",
@@ -8545,160 +8772,161 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-24996332/original/8c963cd5-4ccd-411b-86db-0c88e0fc3c43.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-24996332/original/66bff967-6a67-4ec7-a3b6-0a0b844288f5.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/e80f8d58-ac39-4089-a8ad-c6a2f35f6904.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-24996332/original/3d546b3a-d47f-4342-85b2-8f5ee004b2d0.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-24996332/original/3d546b3a-d47f-4342-85b2-8f5ee004b2d0.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-129743937/original/288dcc8c-b31a-4a4c-85af-1aa645d73ec8.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.758,
-    "lng": -73.86991,
-    "persons": 2,
-    "reviewsCount": 450,
-    "rating": 4.92,
-    "type": "Private room in home",
-    "userId": 129743937,
-    "address": "Queens, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-129743937/original/288dcc8c-b31a-4a4c-85af-1aa645d73ec8.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.758,
+    lng: -73.86991,
+    persons: 2,
+    reviewsCount: 450,
+    rating: 4.92,
+    type: "Private room in home",
+    userId: 129743937,
+    address: "Queens, NY, United States",
+    amenityIds: [
       4, 5, 8, 77, 79, 146, 211, 85, 23, 663, 89, 90, 91, 93, 30, 94, 671, 96,
-      35, 611, 36, 37, 39, 103, 40, 104, 41, 42, 44, 45, 46, 47, 51, 53, 61
+      35, 611, 36, 37, 39, 103, 40, 104, 41, 42, 44, 45, 46, 47, 51, 53, 61,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 117,
-      "currency": "USD",
-      "total": 117,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 117,
+      currency: "USD",
+      total: 117,
+      priceItems: [
         {
-          "amount": 76
+          amount: 76,
         },
         {
-          "amount": 24
+          amount: 24,
         },
         {
-          "amount": 17
-        }
-      ]
-    }
+          amount: 17,
+        },
+      ],
+    },
   },
   {
-    "id": "37838821",
-    "url": "https://www.airbnb.com/rooms/37838821",
-    "deeplink": "https://www.airbnb.com/rooms/37838821?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 14,
-    "name": "JFK Tiny Room to sleep Room #4",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Queens",
-    "images": [
+    id: "37838821",
+    url: "https://www.airbnb.com/rooms/37838821",
+    deeplink:
+      "https://www.airbnb.com/rooms/37838821?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 14,
+    name: "JFK Tiny Room to sleep Room #4",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Queens",
+    images: [
       "https://a0.muscache.com/im/pictures/8d7db19d-951a-4454-bce3-3631268b3545.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/04cbf2ea-99fd-46c6-a047-dcf20780b17c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/c413c4be-833a-44b2-b703-170ea15584d2.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/c9fb3ff7-d7d4-46d5-b9cc-ae661e05b220.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5a61d736-50cf-4d97-8881-d281ffc94e11.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/fc8f9267-7b9b-4c3c-b35b-afe6aa8928a2.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/c19f87e6-7add-4b6a-9ff8-6268619ae3b8.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/c19f87e6-7add-4b6a-9ff8-6268619ae3b8.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/aace4bba-d114-47c1-98c4-0d17e56d39b0.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 40.66842,
-    "lng": -73.78358,
-    "persons": 1,
-    "reviewsCount": 516,
-    "rating": 4.73,
-    "type": "Private room in home",
-    "userId": 232251881,
-    "address": "Queens, NY, United States",
-    "amenityIds": [
-      35, 131, 4, 36, 103, 40, 42, 12, 77, 85, 86, 23, 89, 90, 91, 30, 287
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/aace4bba-d114-47c1-98c4-0d17e56d39b0.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 40.66842,
+    lng: -73.78358,
+    persons: 1,
+    reviewsCount: 516,
+    rating: 4.73,
+    type: "Private room in home",
+    userId: 232251881,
+    address: "Queens, NY, United States",
+    amenityIds: [
+      35, 131, 4, 36, 103, 40, 42, 12, 77, 85, 86, 23, 89, 90, 91, 30, 287,
     ],
-    "previewAmenities": ["Wifi"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 62,
-      "currency": "USD",
-      "total": 62,
-      "priceItems": [
+    previewAmenities: ["Wifi"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 62,
+      currency: "USD",
+      total: 62,
+      priceItems: [
         {
-          "amount": 43
+          amount: 43,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 9
-        }
-      ]
-    }
+          amount: 9,
+        },
+      ],
+    },
   },
   {
-    "id": "53688207",
-    "url": "https://www.airbnb.com/rooms/53688207",
-    "deeplink": "https://www.airbnb.com/rooms/53688207?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 15,
-    "name": "Great location private bedroom in Queens 3",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Queens",
-    "images": [
+    id: "53688207",
+    url: "https://www.airbnb.com/rooms/53688207",
+    deeplink:
+      "https://www.airbnb.com/rooms/53688207?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 15,
+    name: "Great location private bedroom in Queens 3",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Queens",
+    images: [
       "https://a0.muscache.com/im/pictures/5f949049-aff2-4265-8e8f-0dd8db10d018.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/7187be2e-e68e-483a-a9c7-07d2a4dd4df2.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/f3ded48a-f99e-44e9-a8b8-44bf738a5e95.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/f88584d0-f949-4cea-9352-48ae471a17ff.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/26e165e6-8d32-4d34-aad1-a27698ad0545.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/892ec4ad-8cf1-41f2-aef8-e71f263c765a.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/6ed552c8-3eaf-499c-8716-b9f4ae3b8868.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/6ed552c8-3eaf-499c-8716-b9f4ae3b8868.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/d049c4e1-22d2-4d0b-b942-befb00747ada.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 40.76847,
-    "lng": -73.92297,
-    "persons": 2,
-    "reviewsCount": 63,
-    "rating": 4.6,
-    "type": "Private room in condo",
-    "userId": 74488815,
-    "address": "Queens, NY, United States",
-    "amenityIds": [35, 4, 36, 5, 39, 8, 40, 41, 42, 44, 45, 30],
-    "previewAmenities": ["Wifi", "Kitchen", "Air conditioning"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 93,
-      "currency": "USD",
-      "total": 93,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/d049c4e1-22d2-4d0b-b942-befb00747ada.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 40.76847,
+    lng: -73.92297,
+    persons: 2,
+    reviewsCount: 63,
+    rating: 4.6,
+    type: "Private room in condo",
+    userId: 74488815,
+    address: "Queens, NY, United States",
+    amenityIds: [35, 4, 36, 5, 39, 8, 40, 41, 42, 44, 45, 30],
+    previewAmenities: ["Wifi", "Kitchen", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 93,
+      currency: "USD",
+      total: 93,
+      priceItems: [
         {
-          "amount": 60
+          amount: 60,
         },
         {
-          "amount": 20
+          amount: 20,
         },
         {
-          "amount": 13
-        }
-      ]
-    }
+          amount: 13,
+        },
+      ],
+    },
   },
   {
-    "id": "703861417912415870",
-    "url": "https://www.airbnb.com/rooms/703861417912415870",
-    "deeplink": "https://www.airbnb.com/rooms/703861417912415870?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 16,
-    "name": "Amazing, Comfortable room, great location on UES",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "New York",
-    "images": [
+    id: "703861417912415870",
+    url: "https://www.airbnb.com/rooms/703861417912415870",
+    deeplink:
+      "https://www.airbnb.com/rooms/703861417912415870?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 16,
+    name: "Amazing, Comfortable room, great location on UES",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "New York",
+    images: [
       "https://a0.muscache.com/im/pictures/a824610a-1520-4c94-b0a7-05520944476c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/7a700b5d-5d10-4281-bf2f-28f9600651a9.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-703861417912415870/original/21b604b0-1bca-42b5-8340-c429738cdf46.jpeg?im_w=720",
@@ -8708,55 +8936,57 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-703861417912415870/original/4229afbd-13d8-4400-818f-0aa11b4c4704.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-703861417912415870/original/b6aef700-fd34-4a49-b4bb-2519d681ed3d.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/06c26c4b-2338-4eb3-acb4-d788168075ca.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/2f595551-b793-41a5-841b-e1f3e37c65f8.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/2f595551-b793-41a5-841b-e1f3e37c65f8.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/0ddd4afc-2c63-4695-bebe-e2f6055adc5e.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 40.7808922,
-    "lng": -73.948542,
-    "persons": 2,
-    "reviewsCount": 37,
-    "rating": 4.24,
-    "type": "Private room in rental unit",
-    "userId": 477167118,
-    "address": "New York, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/0ddd4afc-2c63-4695-bebe-e2f6055adc5e.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 40.7808922,
+    lng: -73.948542,
+    persons: 2,
+    reviewsCount: 37,
+    rating: 4.24,
+    type: "Private room in rental unit",
+    userId: 477167118,
+    address: "New York, NY, United States",
+    amenityIds: [
       1, 129, 2, 4, 5, 8, 392, 137, 10, 394, 522, 12, 145, 657, 23, 663, 665,
       667, 30, 415, 671, 672, 35, 36, 37, 39, 40, 41, 42, 44, 45, 46, 47, 308,
       61, 66, 73, 77, 79, 211, 85, 86, 89, 90, 91, 93, 94, 95, 96, 227, 611,
-      103, 236, 625, 626, 251
+      103, 236, 625, 626, 251,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Air conditioning"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 155,
-      "currency": "USD",
-      "total": 155,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 155,
+      currency: "USD",
+      total: 155,
+      priceItems: [
         {
-          "amount": 103
+          amount: 103,
         },
         {
-          "amount": 30
+          amount: 30,
         },
         {
-          "amount": 22
-        }
-      ]
-    }
+          amount: 22,
+        },
+      ],
+    },
   },
   {
-    "id": "41359474",
-    "url": "https://www.airbnb.com/rooms/41359474",
-    "deeplink": "https://www.airbnb.com/rooms/41359474?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 17,
-    "name": "Enjoy New York and Manhattan just 20 minutes away",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Union City",
-    "images": [
+    id: "41359474",
+    url: "https://www.airbnb.com/rooms/41359474",
+    deeplink:
+      "https://www.airbnb.com/rooms/41359474?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 17,
+    name: "Enjoy New York and Manhattan just 20 minutes away",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Union City",
+    images: [
       "https://a0.muscache.com/im/pictures/airflow/Hosting-41359474/original/edcd1c5c-caf0-4822-8d66-f25edee02a07.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-41359474/original/dcc78368-ca51-4eae-8601-8d89b6391b28.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-41359474/original/4e3d95f5-bdc1-4146-91e8-3c4144acf61f.jpeg?im_w=720",
@@ -8786,53 +9016,55 @@
       "https://a0.muscache.com/im/pictures/8e7d490c-89ad-4b55-be4a-35c0a3ba2b00.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/45561e4c-bb9e-465f-a8eb-549d9e166048.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/385cd624-54e6-4653-8af3-aca018c9f3da.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-41359474/original/a30c6703-2440-44b3-ba53-fc422635b937.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-41359474/original/a30c6703-2440-44b3-ba53-fc422635b937.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-197748572/original/27459adc-d363-4f91-8a40-9672afae2e5c.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.77943,
-    "lng": -74.02014,
-    "persons": 1,
-    "reviewsCount": 133,
-    "rating": 4.86,
-    "type": "Private room in home",
-    "userId": 197748572,
-    "address": "Union City, NJ, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-197748572/original/27459adc-d363-4f91-8a40-9672afae2e5c.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.77943,
+    lng: -74.02014,
+    persons: 1,
+    reviewsCount: 133,
+    rating: 4.86,
+    type: "Private room in home",
+    userId: 197748572,
+    address: "Union City, NJ, United States",
+    amenityIds: [
       1, 129, 67, 4, 5, 8, 77, 146, 85, 23, 87, 88, 89, 91, 93, 30, 94, 671, 96,
-      98, 35, 36, 39, 103, 40, 42, 44, 45, 46, 627, 57
+      98, 35, 36, 39, 103, 40, 42, 44, 45, 46, 627, 57,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Air conditioning"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 86,
-      "currency": "USD",
-      "total": 86,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 86,
+      currency: "USD",
+      total: 86,
+      priceItems: [
         {
-          "amount": 67
+          amount: 67,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "842859220033081539",
-    "url": "https://www.airbnb.com/rooms/842859220033081539",
-    "deeplink": "https://www.airbnb.com/rooms/842859220033081539?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 18,
-    "name": "10\" from Jfk + bus stop + up 2 people + mall",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Queens",
-    "images": [
+    id: "842859220033081539",
+    url: "https://www.airbnb.com/rooms/842859220033081539",
+    deeplink:
+      "https://www.airbnb.com/rooms/842859220033081539?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 18,
+    name: '10" from Jfk + bus stop + up 2 people + mall',
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 1,
+    city: "Queens",
+    images: [
       "https://a0.muscache.com/im/pictures/bb782f6a-0fae-417c-a39d-da3a98468444.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/f39337cd-c23c-446a-bf61-5e7550436f94.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-842859220033081539/original/99bdab5c-78a2-48e3-a90b-cf2f4b94a7a1.jpeg?im_w=720",
@@ -8843,58 +9075,56 @@
       "https://a0.muscache.com/im/pictures/27d9eb76-4a54-4138-aa43-ef99aac14c2d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/2e25c02a-7634-4b34-b3fb-be632b6a1aa7.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/0f775cce-5d18-40b0-87cc-20d23976d668.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/d58140b8-d022-4a6f-9098-57fcc0b55f2b.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/d58140b8-d022-4a6f-9098-57fcc0b55f2b.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-149431096/original/bcfa2e8a-a0f4-4db7-bc13-66bb69cb32fd.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.67609783535909,
-    "lng": -73.77863086760044,
-    "persons": 2,
-    "reviewsCount": 25,
-    "rating": 4.96,
-    "type": "Private room in bed and breakfast",
-    "userId": 149431096,
-    "address": "Queens, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-149431096/original/bcfa2e8a-a0f4-4db7-bc13-66bb69cb32fd.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.67609783535909,
+    lng: -73.77863086760044,
+    persons: 2,
+    reviewsCount: 25,
+    rating: 4.96,
+    type: "Private room in bed and breakfast",
+    userId: 149431096,
+    address: "Queens, NY, United States",
+    amenityIds: [
       1, 2, 4, 5, 8, 9, 12, 77, 79, 146, 85, 663, 89, 90, 91, 93, 30, 94, 95,
-      415, 96, 672, 35, 100, 101, 40, 104, 42, 44, 236, 45, 46, 51, 308, 54, 510
+      415, 96, 672, 35, 100, 101, 40, 104, 42, 44, 236, 45, 46, 51, 308, 54,
+      510,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 74,
-      "currency": "USD",
-      "total": 74,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 74,
+      currency: "USD",
+      total: 74,
+      priceItems: [
         {
-          "amount": 54
+          amount: 54,
         },
         {
-          "amount": 9
+          amount: 9,
         },
         {
-          "amount": 11
-        }
-      ]
-    }
+          amount: 11,
+        },
+      ],
+    },
   },
   {
-    "id": "42952051",
-    "url": "https://www.airbnb.com/rooms/42952051",
-    "deeplink": "https://www.airbnb.com/rooms/42952051?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 19,
-    "name": "BestRest #4 NEAR NYC/NEWARK AIRPORT/OUTLET MALL",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Newark",
-    "images": [
+    id: "42952051",
+    url: "https://www.airbnb.com/rooms/42952051",
+    deeplink:
+      "https://www.airbnb.com/rooms/42952051?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 19,
+    name: "BestRest #4 NEAR NYC/NEWARK AIRPORT/OUTLET MALL",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Newark",
+    images: [
       "https://a0.muscache.com/im/pictures/bce76b95-a7ac-44e9-83d1-9b58dc06557d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/161d5372-a6fe-4844-9029-972a2e618a8b.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/93103854-1aaa-4aea-a5d2-bf1c29f97c65.jpg?im_w=720",
@@ -8912,56 +9142,58 @@
       "https://a0.muscache.com/im/pictures/4a3861f2-e2d7-4d13-b9f9-5a89fcacd8c8.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/638e9189-c972-4037-af71-7a134f87ba1e.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/9830b69d-a9e2-4aa0-a425-da8133f932b3.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/655217a7-0395-4c4e-918a-3cf68c584ba4.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/655217a7-0395-4c4e-918a-3cf68c584ba4.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-341965845/original/ba830696-4a32-4ce1-b497-ac329967e3c4.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.68874,
-    "lng": -74.19903,
-    "persons": 2,
-    "reviewsCount": 270,
-    "rating": 4.91,
-    "type": "Private room in rental unit",
-    "userId": 341965845,
-    "address": "Newark, NJ, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-341965845/original/ba830696-4a32-4ce1-b497-ac329967e3c4.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.68874,
+    lng: -74.19903,
+    persons: 2,
+    reviewsCount: 270,
+    rating: 4.91,
+    type: "Private room in rental unit",
+    userId: 341965845,
+    address: "Newark, NJ, United States",
+    amenityIds: [
       1, 4, 5, 8, 9, 77, 23, 89, 90, 91, 93, 30, 94, 95, 96, 33, 34, 35, 36, 40,
-      41, 42, 44, 45, 46, 47
+      41, 42, 44, 45, 46, 47,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Air conditioning"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 84,
-      "currency": "USD",
-      "total": 84,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 84,
+      currency: "USD",
+      total: 84,
+      priceItems: [
         {
-          "amount": 55
+          amount: 55,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "699885231741637561",
-    "url": "https://www.airbnb.com/rooms/699885231741637561",
-    "deeplink": "https://www.airbnb.com/rooms/699885231741637561?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 20,
-    "name": "Comfortable Single Room Near LGA, Citi Field",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Queens",
-    "images": [
+    id: "699885231741637561",
+    url: "https://www.airbnb.com/rooms/699885231741637561",
+    deeplink:
+      "https://www.airbnb.com/rooms/699885231741637561?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 20,
+    name: "Comfortable Single Room Near LGA, Citi Field",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Queens",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-699885231741637561/original/6f25b75b-2543-4e61-9b36-dc5381726d8f.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-699885231741637561/original/4166b7a8-17b0-41ad-a2cf-5b7311494f23.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-699885231741637561/original/a66d3f30-9910-4d0a-8a04-97c5b81cfe58.jpeg?im_w=720",
@@ -8978,58 +9210,55 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-699885231741637561/original/caa9f9d5-7453-4da9-8ff0-aa79c3b0850f.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-699885231741637561/original/86faccea-1938-4e69-a2c1-8ce81a9e20a4.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-699885231741637561/original/af2ab344-9961-4d02-b26a-9de4ca133111.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/6c30cfe7-9d0d-414f-89a9-5d3333f91885.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/6c30cfe7-9d0d-414f-89a9-5d3333f91885.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-129743937/original/288dcc8c-b31a-4a4c-85af-1aa645d73ec8.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.75753,
-    "lng": -73.86979,
-    "persons": 1,
-    "reviewsCount": 84,
-    "rating": 4.85,
-    "type": "Private room in home",
-    "userId": 129743937,
-    "address": "Queens, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-129743937/original/288dcc8c-b31a-4a4c-85af-1aa645d73ec8.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.75753,
+    lng: -73.86979,
+    persons: 1,
+    reviewsCount: 84,
+    rating: 4.85,
+    type: "Private room in home",
+    userId: 129743937,
+    address: "Queens, NY, United States",
+    amenityIds: [
       1, 4, 5, 8, 77, 85, 23, 89, 91, 93, 30, 94, 96, 35, 611, 36, 37, 39, 103,
-      40, 41, 42, 44, 236, 45, 46, 47, 51, 53, 251
+      40, 41, 42, 44, 236, 45, 46, 47, 51, 53, 251,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 78,
-      "currency": "USD",
-      "total": 78,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 78,
+      currency: "USD",
+      total: 78,
+      priceItems: [
         {
-          "amount": 55
+          amount: 55,
         },
         {
-          "amount": 12
+          amount: 12,
         },
         {
-          "amount": 11
-        }
-      ]
-    }
+          amount: 11,
+        },
+      ],
+    },
   },
   {
-    "id": "26337727",
-    "url": "https://www.airbnb.com/rooms/26337727",
-    "deeplink": "https://www.airbnb.com/rooms/26337727?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 21,
-    "name": "Cozy room 5 mins from EWR and Close to bus to NYC",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Newark",
-    "images": [
+    id: "26337727",
+    url: "https://www.airbnb.com/rooms/26337727",
+    deeplink:
+      "https://www.airbnb.com/rooms/26337727?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 21,
+    name: "Cozy room 5 mins from EWR and Close to bus to NYC",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Newark",
+    images: [
       "https://a0.muscache.com/im/pictures/09f525e0-ab32-46a8-a6f6-d4fd024f931e.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/195527e2-1c4d-435d-aed2-46750d0f1923.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/55a85d89-f517-424b-b74f-b5cc0b8c0e3c.jpg?im_w=720",
@@ -9044,59 +9273,56 @@
       "https://a0.muscache.com/im/pictures/d43807ea-86fc-41f6-a224-eb47cb1f6044.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/ce553076-fb92-49af-b81b-3c23b5d0ab49.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5fdf1581-a052-49f7-8f67-21594491636c.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/4c9949a9-70ca-4e81-bc42-11f918e51811.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/4c9949a9-70ca-4e81-bc42-11f918e51811.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-133717720/original/f53e6e5a-99b2-4dfb-8e98-b4ee638f26d9.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 40.7112,
-    "lng": -74.19974,
-    "persons": 1,
-    "reviewsCount": 538,
-    "rating": 4.78,
-    "type": "Private room in home",
-    "userId": 133717720,
-    "address": "Newark, NJ, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-133717720/original/f53e6e5a-99b2-4dfb-8e98-b4ee638f26d9.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 40.7112,
+    lng: -74.19974,
+    persons: 1,
+    reviewsCount: 538,
+    rating: 4.78,
+    type: "Private room in home",
+    userId: 133717720,
+    address: "Newark, NJ, United States",
+    amenityIds: [
       1, 2, 4, 5, 8, 9, 77, 85, 86, 23, 89, 90, 91, 92, 93, 30, 94, 95, 287, 96,
       33, 34, 35, 611, 36, 37, 39, 103, 40, 41, 42, 44, 45, 46, 47, 625, 51, 53,
-      57, 61
+      57, 61,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 72,
-      "currency": "USD",
-      "total": 72,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 72,
+      currency: "USD",
+      total: 72,
+      priceItems: [
         {
-          "amount": 56
+          amount: 56,
         },
         {
-          "amount": 9
+          amount: 9,
         },
         {
-          "amount": 7
-        }
-      ]
-    }
+          amount: 7,
+        },
+      ],
+    },
   },
   {
-    "id": "880460093374779673",
-    "url": "https://www.airbnb.com/rooms/880460093374779673",
-    "deeplink": "https://www.airbnb.com/rooms/880460093374779673?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 22,
-    "name": "Cozy Affordable Pod Room, Just For One, Manhattan",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "New York",
-    "images": [
+    id: "880460093374779673",
+    url: "https://www.airbnb.com/rooms/880460093374779673",
+    deeplink:
+      "https://www.airbnb.com/rooms/880460093374779673?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 22,
+    name: "Cozy Affordable Pod Room, Just For One, Manhattan",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "New York",
+    images: [
       "https://a0.muscache.com/im/pictures/961b18c8-7293-4d35-93e8-748d4c707a39.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-847492996872693798/original/3cf51b8d-7342-418b-a7f9-077e5158a785.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/26769206-71af-4241-9e28-59628f2835d4.jpg?im_w=720",
@@ -9111,54 +9337,51 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-847492996872693798/original/cdeb16c8-a72e-4daa-bb97-dbd9ca2e9a1b.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/9685d5fb-0379-453f-896b-faef8177d39c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5cb110b5-cdc8-490f-853d-42bf7df3762b.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/be3bf47f-deea-46a9-9587-4d2c0b6c65b7.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/be3bf47f-deea-46a9-9587-4d2c0b6c65b7.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/10ea4ea4-c18f-4722-97df-cc61b71eabc4.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 40.74956810308899,
-    "lng": -73.99473041940479,
-    "persons": 1,
-    "reviewsCount": 1,
-    "type": "Private room in bed and breakfast",
-    "userId": 503712643,
-    "address": "New York, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/10ea4ea4-c18f-4722-97df-cc61b71eabc4.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 40.74956810308899,
+    lng: -73.99473041940479,
+    persons: 1,
+    reviewsCount: 1,
+    type: "Private room in bed and breakfast",
+    userId: 503712643,
+    address: "New York, NY, United States",
+    amenityIds: [
       4, 5, 8, 394, 16, 145, 85, 86, 665, 90, 91, 93, 30, 415, 35, 611, 36, 37,
-      39, 40, 41, 42, 44, 236, 45, 46, 47, 51, 308, 55, 251
+      39, 40, 41, 42, 44, 236, 45, 46, 47, 51, 308, 55, 251,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 104,
-      "currency": "USD",
-      "total": 104,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 104,
+      currency: "USD",
+      total: 104,
+      priceItems: [
         {
-          "amount": 89
+          amount: 89,
         },
         {
-          "amount": 15
-        }
-      ]
-    }
+          amount: 15,
+        },
+      ],
+    },
   },
   {
-    "id": "862495285333480066",
-    "url": "https://www.airbnb.com/rooms/862495285333480066",
-    "deeplink": "https://www.airbnb.com/rooms/862495285333480066?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 23,
-    "name": "Cozy Affordable Pod Room, Just For One, Manhattan",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "New York",
-    "images": [
+    id: "862495285333480066",
+    url: "https://www.airbnb.com/rooms/862495285333480066",
+    deeplink:
+      "https://www.airbnb.com/rooms/862495285333480066?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 23,
+    name: "Cozy Affordable Pod Room, Just For One, Manhattan",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "New York",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-842070058198926794/original/bf70b0ec-73fe-48cd-9dde-f288641a2756.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/32efcf4c-a028-4866-9d36-f7cf69166a6c.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/9091c571-5f33-4e43-9c07-a9a3dde01e6e.jpg?im_w=720",
@@ -9173,105 +9396,104 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-839164044101513935/original/11374c44-7995-4649-a329-010b34133a84.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/1e424df4-969d-434c-8b91-6722472125e6.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/37dc1088-7487-41f9-98df-ff03ee2039fa.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/70588563-6c0a-43d4-8383-d29d072534e1.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/70588563-6c0a-43d4-8383-d29d072534e1.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/10ea4ea4-c18f-4722-97df-cc61b71eabc4.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 40.747585343360996,
-    "lng": -73.996791581124,
-    "persons": 1,
-    "reviewsCount": 1,
-    "type": "Private room in bed and breakfast",
-    "userId": 503712643,
-    "address": "New York, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/10ea4ea4-c18f-4722-97df-cc61b71eabc4.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 40.747585343360996,
+    lng: -73.996791581124,
+    persons: 1,
+    reviewsCount: 1,
+    type: "Private room in bed and breakfast",
+    userId: 503712643,
+    address: "New York, NY, United States",
+    amenityIds: [
       4, 5, 8, 394, 16, 145, 85, 86, 665, 90, 91, 93, 30, 415, 35, 611, 36, 37,
-      39, 40, 41, 42, 44, 236, 45, 46, 47, 51, 308, 55, 251
+      39, 40, 41, 42, 44, 236, 45, 46, 47, 51, 308, 55, 251,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 99,
-      "currency": "USD",
-      "total": 99,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 99,
+      currency: "USD",
+      total: 99,
+      priceItems: [
         {
-          "amount": 85
+          amount: 85,
         },
         {
-          "amount": 14
-        }
-      ]
-    }
+          amount: 14,
+        },
+      ],
+    },
   },
   {
-    "id": "7160363",
-    "url": "https://www.airbnb.com/rooms/7160363",
-    "deeplink": "https://www.airbnb.com/rooms/7160363?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 24,
-    "name": "Sky View Central Park Room & Private Bathroom",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "New York",
-    "images": [
+    id: "7160363",
+    url: "https://www.airbnb.com/rooms/7160363",
+    deeplink:
+      "https://www.airbnb.com/rooms/7160363?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 24,
+    name: "Sky View Central Park Room & Private Bathroom",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "New York",
+    images: [
       "https://a0.muscache.com/im/pictures/9eda6020-eb19-4a62-b61f-c30fa0b5b035.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/90832938/c30b0482_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/90833628/92d8d6d6_original.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/c98140f0-bbdc-4a39-be43-05b9da17e56d.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/0f4dd718-0bf6-4861-ae48-ceebd401f6e8.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/0f4dd718-0bf6-4861-ae48-ceebd401f6e8.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/18de5d6a-b6ce-4af7-92f6-f59d92a0b096.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.79664,
-    "lng": -73.95981,
-    "persons": 1,
-    "reviewsCount": 344,
-    "rating": 4.64,
-    "type": "Private room in rental unit",
-    "userId": 25517905,
-    "address": "New York, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/18de5d6a-b6ce-4af7-92f6-f59d92a0b096.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.79664,
+    lng: -73.95981,
+    persons: 1,
+    reviewsCount: 344,
+    rating: 4.64,
+    type: "Private room in rental unit",
+    userId: 25517905,
+    address: "New York, NY, United States",
+    amenityIds: [
       129, 3, 4, 5, 77, 146, 211, 21, 85, 86, 23, 87, 88, 665, 90, 30, 671, 35,
-      36, 37, 39, 40, 232, 107, 44, 45
+      36, 37, 39, 40, 232, 107, 44, 45,
     ],
-    "previewAmenities": ["Wifi", "Air conditioning"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 141,
-      "currency": "USD",
-      "total": 141,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Air conditioning"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 141,
+      currency: "USD",
+      total: 141,
+      priceItems: [
         {
-          "amount": 101
+          amount: 101,
         },
         {
-          "amount": 20
+          amount: 20,
         },
         {
-          "amount": 20
-        }
-      ]
-    }
+          amount: 20,
+        },
+      ],
+    },
   },
   {
-    "id": "18671835",
-    "url": "https://www.airbnb.com/rooms/18671835",
-    "deeplink": "https://www.airbnb.com/rooms/18671835?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 25,
-    "name": "Private Room with Skyline View. Near LGA airport",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Queens",
-    "images": [
+    id: "18671835",
+    url: "https://www.airbnb.com/rooms/18671835",
+    deeplink:
+      "https://www.airbnb.com/rooms/18671835?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 25,
+    name: "Private Room with Skyline View. Near LGA airport",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Queens",
+    images: [
       "https://a0.muscache.com/im/pictures/effda898-a4cf-4b6d-aa0b-1c6b7dbbe261.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/3993b035-1734-45d3-9a26-4495e3ccb515.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-18671835/original/66efe7f6-efdc-4de1-bad4-5e72d5e216cc.jpeg?im_w=720",
@@ -9289,200 +9511,203 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-18671835/original/10f7eb79-1efa-470c-8638-3f6707f11de8.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-18671835/original/e381530c-e481-436b-81d8-64e5f3438fa4.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/6c30cfe7-9d0d-414f-89a9-5d3333f91885.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-18671835/original/75f7f242-152c-4466-af20-3213db6de3a0.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-18671835/original/75f7f242-152c-4466-af20-3213db6de3a0.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-129743937/original/288dcc8c-b31a-4a4c-85af-1aa645d73ec8.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.75809,
-    "lng": -73.86806,
-    "persons": 2,
-    "reviewsCount": 344,
-    "rating": 4.9,
-    "type": "Private room in home",
-    "userId": 129743937,
-    "address": "Queens, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-129743937/original/288dcc8c-b31a-4a4c-85af-1aa645d73ec8.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.75809,
+    lng: -73.86806,
+    persons: 2,
+    reviewsCount: 344,
+    rating: 4.9,
+    type: "Private room in home",
+    userId: 129743937,
+    address: "Queens, NY, United States",
+    amenityIds: [
       4, 5, 8, 77, 85, 23, 663, 89, 91, 93, 30, 94, 96, 35, 611, 36, 37, 39,
-      103, 40, 41, 42, 44, 45, 46, 47, 51, 52, 251
+      103, 40, 41, 42, 44, 45, 46, 47, 51, 52, 251,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 91,
-      "currency": "USD",
-      "total": 91,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 91,
+      currency: "USD",
+      total: 91,
+      priceItems: [
         {
-          "amount": 63
+          amount: 63,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 13
-        }
-      ]
-    }
+          amount: 13,
+        },
+      ],
+    },
   },
   {
-    "id": "17665943",
-    "url": "https://www.airbnb.com/rooms/17665943",
-    "deeplink": "https://www.airbnb.com/rooms/17665943?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 26,
-    "name": "Room in Queens, NY, near LGA.",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "East elmhurst ",
-    "images": [
+    id: "17665943",
+    url: "https://www.airbnb.com/rooms/17665943",
+    deeplink:
+      "https://www.airbnb.com/rooms/17665943?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 26,
+    name: "Room in Queens, NY, near LGA.",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "East elmhurst ",
+    images: [
       "https://a0.muscache.com/im/pictures/4e1e62e5-f0af-4021-9376-58f6389c77a3.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/f066d68f-da55-443d-aa69-dfb695a6eb4f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/0b61bd9c-55ec-42bc-91f7-ce26291f7c5f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5f68a2d6-1950-4c9e-9d52-3dfb30810278.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/1d55c20c-34fb-443b-8db1-db1e516b1c13.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/b37c944d-0a03-4186-972f-a696fff28ff7.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/4961c424-8396-4749-8d9b-6ad1e840d6c0.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/4961c424-8396-4749-8d9b-6ad1e840d6c0.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/24d34738-c499-4bb8-9db2-f0f60f8da843.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 40.76094,
-    "lng": -73.87846,
-    "persons": 2,
-    "reviewsCount": 604,
-    "rating": 4.75,
-    "type": "Private room in home",
-    "userId": 119987770,
-    "address": "East elmhurst , NY, United States",
-    "amenityIds": [
-      1, 35, 131, 4, 36, 5, 37, 39, 40, 42, 44, 77, 46, 79, 50, 23, 91, 30, 31
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/24d34738-c499-4bb8-9db2-f0f60f8da843.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 40.76094,
+    lng: -73.87846,
+    persons: 2,
+    reviewsCount: 604,
+    rating: 4.75,
+    type: "Private room in home",
+    userId: 119987770,
+    address: "East elmhurst , NY, United States",
+    amenityIds: [
+      1, 35, 131, 4, 36, 5, 37, 39, 40, 42, 44, 77, 46, 79, 50, 23, 91, 30, 31,
     ],
-    "previewAmenities": ["Wifi", "Air conditioning"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 81,
-      "currency": "USD",
-      "total": 81,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 81,
+      currency: "USD",
+      total: 81,
+      priceItems: [
         {
-          "amount": 69
+          amount: 69,
         },
         {
-          "amount": 12
-        }
-      ]
-    }
+          amount: 12,
+        },
+      ],
+    },
   },
   {
-    "id": "880267314718704911",
-    "url": "https://www.airbnb.com/rooms/880267314718704911",
-    "deeplink": "https://www.airbnb.com/rooms/880267314718704911?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 27,
-    "name": "Beautiful Central Park Apt Unit- Large one bedroom",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "New York",
-    "images": [
+    id: "880267314718704911",
+    url: "https://www.airbnb.com/rooms/880267314718704911",
+    deeplink:
+      "https://www.airbnb.com/rooms/880267314718704911?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 27,
+    name: "Beautiful Central Park Apt Unit- Large one bedroom",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "New York",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-880267314718704911/original/acc76c53-df27-4d28-81b4-a18a93d3a588.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-880267314718704911/original/319fdaa7-1121-4521-8fa0-6ad98438b15f.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-880267314718704911/original/19aa07f9-61a5-415f-8f26-cf1d04711f58.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-880267314718704911/original/30c13669-ba10-4c1e-a4a6-f330bf50d019.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-880267314718704911/original/bf929df7-3b50-4c4a-b1ee-4d2bfdaa653a.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-880267314718704911/original/c63656a3-6b29-4012-b719-6d4d28b58987.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-880267314718704911/original/c63656a3-6b29-4012-b719-6d4d28b58987.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-13545610/original/8e7aa68f-1ea1-42e1-87ab-ac0c3a77c618.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 40.79338673049422,
-    "lng": -73.96471646619017,
-    "persons": 3,
-    "reviewsCount": 0,
-    "type": "Entire rental unit",
-    "userId": 13545610,
-    "address": "New York, NY, United States",
-    "amenityIds": [1, 33, 227, 4, 5, 8, 347, 47],
-    "previewAmenities": ["Wifi", "Kitchen", "Air conditioning"],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 175,
-      "currency": "USD",
-      "total": 175,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-13545610/original/8e7aa68f-1ea1-42e1-87ab-ac0c3a77c618.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 40.79338673049422,
+    lng: -73.96471646619017,
+    persons: 3,
+    reviewsCount: 0,
+    type: "Entire rental unit",
+    userId: 13545610,
+    address: "New York, NY, United States",
+    amenityIds: [1, 33, 227, 4, 5, 8, 347, 47],
+    previewAmenities: ["Wifi", "Kitchen", "Air conditioning"],
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 175,
+      currency: "USD",
+      total: 175,
+      priceItems: [
         {
-          "amount": 150
+          amount: 150,
         },
         {
-          "amount": 25
-        }
-      ]
-    }
+          amount: 25,
+        },
+      ],
+    },
   },
   {
-    "id": "10413576",
-    "url": "https://www.airbnb.com/rooms/10413576",
-    "deeplink": "https://www.airbnb.com/rooms/10413576?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 28,
-    "name": "Quiet home free ferry to Manhattan",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Staten Island",
-    "images": [
+    id: "10413576",
+    url: "https://www.airbnb.com/rooms/10413576",
+    deeplink:
+      "https://www.airbnb.com/rooms/10413576?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 28,
+    name: "Quiet home free ferry to Manhattan",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Staten Island",
+    images: [
       "https://a0.muscache.com/im/pictures/9a7470ac-766b-4861-b8d1-0641ba3c6d7f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/891ffe91-db73-4ae7-8932-7284ccc75a39.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/fb66a7ab-b513-4201-9352-763726b2660d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/6b8fc937-4e83-49d9-a44b-74354d4f482e.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/771552cb-f6d6-4d06-8f4f-403e191093f0.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/771552cb-f6d6-4d06-8f4f-403e191093f0.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/ee027555-4be9-4941-bdb9-f61fbcd8eff5.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.64365,
-    "lng": -74.09113,
-    "persons": 2,
-    "reviewsCount": 286,
-    "rating": 4.78,
-    "type": "Private room in home",
-    "userId": 53627900,
-    "address": "Staten Island, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/ee027555-4be9-4941-bdb9-f61fbcd8eff5.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.64365,
+    lng: -74.09113,
+    persons: 2,
+    reviewsCount: 286,
+    rating: 4.78,
+    type: "Private room in home",
+    userId: 53627900,
+    address: "Staten Island, NY, United States",
+    amenityIds: [
       33, 34, 3, 4, 100, 5, 101, 8, 40, 9, 41, 43, 44, 45, 46, 17, 50, 19, 90,
-      91, 30
+      91, 30,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Air conditioning"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 64,
-      "currency": "USD",
-      "total": 64,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 64,
+      currency: "USD",
+      total: 64,
+      priceItems: [
         {
-          "amount": 55
+          amount: 55,
         },
         {
-          "amount": 9
-        }
-      ]
-    }
+          amount: 9,
+        },
+      ],
+    },
   },
   {
-    "id": "31218310",
-    "url": "https://www.airbnb.com/rooms/31218310",
-    "deeplink": "https://www.airbnb.com/rooms/31218310?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 29,
-    "name": "Hello traveling nurse/doctor No CLeaning Fees —-Q",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Staten Island",
-    "images": [
+    id: "31218310",
+    url: "https://www.airbnb.com/rooms/31218310",
+    deeplink:
+      "https://www.airbnb.com/rooms/31218310?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 29,
+    name: "Hello traveling nurse/doctor No CLeaning Fees —-Q",
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 1,
+    city: "Staten Island",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-31218310/original/15099420-3ce9-4448-aec6-984cf2e8c051.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-31218310/original/dbe4061a-a93d-4276-bf53-f1bea4253da2.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/6c49bdac-c1b5-4f56-b3a5-fedbf70b6799.jpg?im_w=720",
@@ -9502,56 +9727,53 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-31218310/original/594cd448-48ae-476b-86d3-365b3c57b253.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-31218310/original/cd331f72-d2ea-49f9-b5fe-61a13efb6bf4.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-31218310/original/74393b06-694e-4d85-9bf7-cb76a26494fc.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-31218310/original/f39387cf-bb0e-4d1b-8cda-608a4b1e2977.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-31218310/original/f39387cf-bb0e-4d1b-8cda-608a4b1e2977.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/29e7cc33-b64a-4981-b934-33b9e4b22904.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.56653,
-    "lng": -74.10441,
-    "persons": 2,
-    "reviewsCount": 210,
-    "rating": 4.85,
-    "type": "Private room in home",
-    "userId": 233485864,
-    "address": "Staten Island, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/29e7cc33-b64a-4981-b934-33b9e4b22904.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.56653,
+    lng: -74.10441,
+    persons: 2,
+    reviewsCount: 210,
+    rating: 4.85,
+    type: "Private room in home",
+    userId: 233485864,
+    address: "Staten Island, NY, United States",
+    amenityIds: [
       1, 2, 4, 5, 8, 392, 9, 137, 394, 522, 139, 145, 657, 23, 663, 665, 30,
       287, 415, 671, 672, 674, 35, 36, 39, 40, 41, 42, 44, 45, 46, 51, 308, 53,
-      61, 77, 79, 85, 86, 90, 91, 93, 94, 95, 96, 611, 103, 104, 236, 625, 251
+      61, 77, 79, 85, 86, 90, 91, 93, 94, 95, 96, 611, 103, 104, 236, 625, 251,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 89,
-      "currency": "USD",
-      "total": 89,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 89,
+      currency: "USD",
+      total: 89,
+      priceItems: [
         {
-          "amount": 76
+          amount: 76,
         },
         {
-          "amount": 13
-        }
-      ]
-    }
+          amount: 13,
+        },
+      ],
+    },
   },
   {
-    "id": "737188583474491405",
-    "url": "https://www.airbnb.com/rooms/737188583474491405",
-    "deeplink": "https://www.airbnb.com/rooms/737188583474491405?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 30,
-    "name": "King Size Bed in Cozy Private Room in Brooklyn",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Brooklyn",
-    "images": [
+    id: "737188583474491405",
+    url: "https://www.airbnb.com/rooms/737188583474491405",
+    deeplink:
+      "https://www.airbnb.com/rooms/737188583474491405?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 30,
+    name: "King Size Bed in Cozy Private Room in Brooklyn",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Brooklyn",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-737188583474491405/original/c9b9d488-5041-4d5d-b445-e5ae73eb38cf.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-737188583474491405/original/812bde76-d88a-4c03-886b-a9097e6967f0.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-737188583474491405/original/4b5d1805-bc87-4366-8886-c5d47522a3e4.jpeg?im_w=720",
@@ -9560,50 +9782,52 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-737188583474491405/original/5dc7149a-496f-417e-85e6-ce6f656cc02a.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-737188583474491405/original/e0603f1e-80ed-4028-99ba-f9baa6725c24.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-737188583474491405/original/7f0cf007-859d-485b-ad29-6dd87cc2342e.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/6594d96a-09f5-4903-b5fa-e5a639e90957.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/6594d96a-09f5-4903-b5fa-e5a639e90957.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-264816557/original/08bdf6ad-3226-44ee-a0f1-a9923352c93a.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 40.6637722,
-    "lng": -73.89162209999999,
-    "persons": 1,
-    "reviewsCount": 15,
-    "rating": 4.93,
-    "type": "Private room in rental unit",
-    "userId": 264816557,
-    "address": "Brooklyn, NY, United States",
-    "amenityIds": [35, 4, 36, 5, 37, 39, 40, 42, 45, 46, 47, 79, 665, 91, 30],
-    "previewAmenities": ["Wifi", "Air conditioning"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 62,
-      "currency": "USD",
-      "total": 62,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-264816557/original/08bdf6ad-3226-44ee-a0f1-a9923352c93a.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 40.6637722,
+    lng: -73.89162209999999,
+    persons: 1,
+    reviewsCount: 15,
+    rating: 4.93,
+    type: "Private room in rental unit",
+    userId: 264816557,
+    address: "Brooklyn, NY, United States",
+    amenityIds: [35, 4, 36, 5, 37, 39, 40, 42, 45, 46, 47, 79, 665, 91, 30],
+    previewAmenities: ["Wifi", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 62,
+      currency: "USD",
+      total: 62,
+      priceItems: [
         {
-          "amount": 43
+          amount: 43,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 9
-        }
-      ]
-    }
+          amount: 9,
+        },
+      ],
+    },
   },
   {
-    "id": "47243424",
-    "url": "https://www.airbnb.com/rooms/47243424",
-    "deeplink": "https://www.airbnb.com/rooms/47243424?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 31,
-    "name": "Relaxing room near JFK",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Queens",
-    "images": [
+    id: "47243424",
+    url: "https://www.airbnb.com/rooms/47243424",
+    deeplink:
+      "https://www.airbnb.com/rooms/47243424?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 31,
+    name: "Relaxing room near JFK",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Queens",
+    images: [
       "https://a0.muscache.com/im/pictures/9cd4881d-c99e-4c42-9bec-cd4a4a4871c1.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-47243424/original/8ccd2522-55f5-4988-b7ff-7312cb54ebcd.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-47243424/original/9750894d-a17b-4b1b-aa76-7b03eca02111.jpeg?im_w=720",
@@ -9616,95 +9840,99 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-47243424/original/cdc64b2a-d209-4e2d-af91-b6659341fc26.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/2f60aad1-829b-40ca-aec5-7f9824ceef49.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/459dd2c3-b742-4cee-87db-06a487fc10a5.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/8c0bdd65-b65d-4eb9-8844-6cb64d1e770a.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/8c0bdd65-b65d-4eb9-8844-6cb64d1e770a.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/4bfe70a1-feb4-47de-aaff-ed2f1d7102ae.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 40.67119,
-    "lng": -73.81247,
-    "persons": 2,
-    "reviewsCount": 331,
-    "rating": 4.4,
-    "type": "Private room in home",
-    "userId": 381374171,
-    "address": "Queens, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/4bfe70a1-feb4-47de-aaff-ed2f1d7102ae.jpg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 40.67119,
+    lng: -73.81247,
+    persons: 2,
+    reviewsCount: 331,
+    rating: 4.4,
+    type: "Private room in home",
+    userId: 381374171,
+    address: "Queens, NY, United States",
+    amenityIds: [
       1, 35, 4, 36, 5, 40, 41, 42, 44, 45, 77, 46, 657, 51, 54, 663, 57, 89, 90,
-      91, 61, 93, 30
+      91, 61, 93, 30,
     ],
-    "previewAmenities": ["Wifi", "Self check-in", "Air conditioning"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 82,
-      "currency": "USD",
-      "total": 82,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 82,
+      currency: "USD",
+      total: 82,
+      priceItems: [
         {
-          "amount": 70
+          amount: 70,
         },
         {
-          "amount": 12
-        }
-      ]
-    }
+          amount: 12,
+        },
+      ],
+    },
   },
   {
-    "id": "44360566",
-    "url": "https://www.airbnb.com/rooms/44360566",
-    "deeplink": "https://www.airbnb.com/rooms/44360566?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 32,
-    "name": "Quiet Room in Harlem. 1 guest ONLY! no extra guest",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "New York",
-    "images": [
+    id: "44360566",
+    url: "https://www.airbnb.com/rooms/44360566",
+    deeplink:
+      "https://www.airbnb.com/rooms/44360566?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 32,
+    name: "Quiet Room in Harlem. 1 guest ONLY! no extra guest",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "New York",
+    images: [
       "https://a0.muscache.com/im/pictures/6d6bc7c3-a2b6-40f3-88b4-84fd3df66ada.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/98e1afd3-f1c0-421e-a9ca-6a2861670ef3.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/01f14636-9f9b-4450-af57-41b515cf4d8e.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/5b9f8667-3a78-4fb7-b04f-809de3988421.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/ac5fa2d9-9e40-4169-bc5b-52c294356f12.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/ac5fa2d9-9e40-4169-bc5b-52c294356f12.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/fb21122a-2e0b-4e22-bdf4-a31fae9ce7b8.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.81667,
-    "lng": -73.94253,
-    "persons": 1,
-    "reviewsCount": 145,
-    "rating": 4.73,
-    "type": "Private room in rental unit",
-    "userId": 357899706,
-    "address": "New York, NY, United States",
-    "amenityIds": [35, 4, 8, 40, 41, 42, 91, 44, 45, 93, 30, 46],
-    "previewAmenities": ["Wifi", "Kitchen"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 88,
-      "currency": "USD",
-      "total": 88,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/fb21122a-2e0b-4e22-bdf4-a31fae9ce7b8.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.81667,
+    lng: -73.94253,
+    persons: 1,
+    reviewsCount: 145,
+    rating: 4.73,
+    type: "Private room in rental unit",
+    userId: 357899706,
+    address: "New York, NY, United States",
+    amenityIds: [35, 4, 8, 40, 41, 42, 91, 44, 45, 93, 30, 46],
+    previewAmenities: ["Wifi", "Kitchen"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 88,
+      currency: "USD",
+      total: 88,
+      priceItems: [
         {
-          "amount": 75
+          amount: 75,
         },
         {
-          "amount": 13
-        }
-      ]
-    }
+          amount: 13,
+        },
+      ],
+    },
   },
   {
-    "id": "39633917",
-    "url": "https://www.airbnb.com/rooms/39633917",
-    "deeplink": "https://www.airbnb.com/rooms/39633917?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 33,
-    "name": "Basement room with 1 double size bed near LGA",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Queens",
-    "images": [
+    id: "39633917",
+    url: "https://www.airbnb.com/rooms/39633917",
+    deeplink:
+      "https://www.airbnb.com/rooms/39633917?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 33,
+    name: "Basement room with 1 double size bed near LGA",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Queens",
+    images: [
       "https://a0.muscache.com/im/pictures/651b7008-b834-45ac-a263-91f35ad13b27.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/8fe1b368-d9a1-42ec-9058-475437dfa8d3.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/c6373314-2ab2-455b-8eb1-31ba825d1667.jpg?im_w=720",
@@ -9712,50 +9940,52 @@
       "https://a0.muscache.com/im/pictures/432fb516-a108-44aa-bb2b-e9ef24cadfe9.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/ceadc5ec-e2fa-4f79-acd5-f5153cd970ab.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/795f5681-0371-4cf5-a148-1a13669ce3e2.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/e0d384fc-ecf8-461e-a9f0-a5b27d9d5949.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/e0d384fc-ecf8-461e-a9f0-a5b27d9d5949.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-302847508/original/6483fc73-8bd9-41d1-8960-2219a25b185b.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 40.76822,
-    "lng": -73.87467,
-    "persons": 2,
-    "reviewsCount": 202,
-    "rating": 4.59,
-    "type": "Private room in home",
-    "userId": 302847508,
-    "address": "Queens, NY, United States",
-    "amenityIds": [1, 35, 4, 36, 5, 37, 40, 41, 42, 44, 45, 46, 23, 89, 30],
-    "previewAmenities": ["Wifi", "Air conditioning"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 72,
-      "currency": "USD",
-      "total": 72,
-      "priceItems": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-302847508/original/6483fc73-8bd9-41d1-8960-2219a25b185b.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 40.76822,
+    lng: -73.87467,
+    persons: 2,
+    reviewsCount: 202,
+    rating: 4.59,
+    type: "Private room in home",
+    userId: 302847508,
+    address: "Queens, NY, United States",
+    amenityIds: [1, 35, 4, 36, 5, 37, 40, 41, 42, 44, 45, 46, 23, 89, 30],
+    previewAmenities: ["Wifi", "Air conditioning"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 72,
+      currency: "USD",
+      total: 72,
+      priceItems: [
         {
-          "amount": 47
+          amount: 47,
         },
         {
-          "amount": 15
+          amount: 15,
         },
         {
-          "amount": 10
-        }
-      ]
-    }
+          amount: 10,
+        },
+      ],
+    },
   },
   {
-    "id": "691352072367698800",
-    "url": "https://www.airbnb.com/rooms/691352072367698800",
-    "deeplink": "https://www.airbnb.com/rooms/691352072367698800?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 34,
-    "name": "Private room near to la guardia and Manhattan",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Queens",
-    "images": [
+    id: "691352072367698800",
+    url: "https://www.airbnb.com/rooms/691352072367698800",
+    deeplink:
+      "https://www.airbnb.com/rooms/691352072367698800?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 34,
+    name: "Private room near to la guardia and Manhattan",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Queens",
+    images: [
       "https://a0.muscache.com/im/pictures/5bb52b80-4176-4bde-9021-ce2650ea180b.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/2403787b-dd19-4635-a9e4-67ebb7b27824.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-691352072367698800/original/c5c0c4c4-3f1b-423c-8bfe-502f6b75cce5.jpeg?im_w=720",
@@ -9765,50 +9995,52 @@
       "https://a0.muscache.com/im/pictures/63897407-176b-46b2-9f88-f6a3803541ae.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/a4bbabb3-fe96-435e-9c9e-ff44f62f08ac.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/27faa8b0-4973-4c3b-8ae3-987e9b6d0cc9.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/08e1f4fd-c09e-492e-9839-10aa18542956.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/08e1f4fd-c09e-492e-9839-10aa18542956.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/13588591-8df0-4374-83b1-17662c8725fc.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.75724,
-    "lng": -73.86934,
-    "persons": 1,
-    "reviewsCount": 65,
-    "rating": 4.88,
-    "type": "Private room in rental unit",
-    "userId": 430854617,
-    "address": "Queens, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/13588591-8df0-4374-83b1-17662c8725fc.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.75724,
+    lng: -73.86934,
+    persons: 1,
+    reviewsCount: 65,
+    rating: 4.88,
+    type: "Private room in rental unit",
+    userId: 430854617,
+    address: "Queens, NY, United States",
+    amenityIds: [
       322, 4, 5, 8, 137, 77, 79, 657, 146, 85, 661, 663, 665, 90, 91, 93, 94,
-      95, 415, 96, 672, 35, 36, 37, 39, 42, 236, 47, 626, 308, 251
+      95, 415, 96, 672, 35, 36, 37, 39, 42, 236, 47, 626, 308, 251,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Air conditioning"],
-    "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 82,
-      "currency": "USD",
-      "total": 82,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Air conditioning"],
+    cancelPolicy: "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+    price: {
+      rate: 82,
+      currency: "USD",
+      total: 82,
+      priceItems: [
         {
-          "amount": 70
+          amount: 70,
         },
         {
-          "amount": 12
-        }
-      ]
-    }
+          amount: 12,
+        },
+      ],
+    },
   },
   {
-    "id": "42951218",
-    "url": "https://www.airbnb.com/rooms/42951218",
-    "deeplink": "https://www.airbnb.com/rooms/42951218?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 35,
-    "name": "BestRest #1 NEAR NYC/NEWARK AIRPORT/OUTLET MALL",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Newark",
-    "images": [
+    id: "42951218",
+    url: "https://www.airbnb.com/rooms/42951218",
+    deeplink:
+      "https://www.airbnb.com/rooms/42951218?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 35,
+    name: "BestRest #1 NEAR NYC/NEWARK AIRPORT/OUTLET MALL",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Newark",
+    images: [
       "https://a0.muscache.com/im/pictures/airflow/Hosting-42951218/original/bd660f9a-91e5-4560-902a-dee743e71e71.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/airflow/Hosting-42951218/original/23b8a839-8af7-457e-90a1-a2b6f401cdf0.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/bf19115e-d344-4c25-b4a2-2684a306ad8c.jpg?im_w=720",
@@ -9832,55 +10064,57 @@
       "https://a0.muscache.com/im/pictures/7d859b91-1425-42fb-8f58-c37a2ab38e66.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/74261e82-4b5a-45e6-b809-8ff781394fa3.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/c65b4e92-fa0d-4ad2-bacb-bfc466574888.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/b108b427-ceb6-4d36-8cfb-e0482e661141.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/b108b427-ceb6-4d36-8cfb-e0482e661141.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-341965845/original/ba830696-4a32-4ce1-b497-ac329967e3c4.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.68741,
-    "lng": -74.19958,
-    "persons": 2,
-    "reviewsCount": 89,
-    "rating": 4.91,
-    "type": "Private room in rental unit",
-    "userId": 341965845,
-    "address": "Newark, NJ, United States",
-    "amenityIds": [
-      1, 33, 34, 35, 4, 36, 5, 8, 40, 9, 41, 42, 44, 45, 77, 46, 47, 30, 94
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-341965845/original/ba830696-4a32-4ce1-b497-ac329967e3c4.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.68741,
+    lng: -74.19958,
+    persons: 2,
+    reviewsCount: 89,
+    rating: 4.91,
+    type: "Private room in rental unit",
+    userId: 341965845,
+    address: "Newark, NJ, United States",
+    amenityIds: [
+      1, 33, 34, 35, 4, 36, 5, 8, 40, 9, 41, 42, 44, 45, 77, 46, 47, 30, 94,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Air conditioning"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 84,
-      "currency": "USD",
-      "total": 84,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Air conditioning"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 84,
+      currency: "USD",
+      total: 84,
+      priceItems: [
         {
-          "amount": 55
+          amount: 55,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 11
+          amount: 11,
         },
         {
-          "amount": 8
-        }
-      ]
-    }
+          amount: 8,
+        },
+      ],
+    },
   },
   {
-    "id": "14090491",
-    "url": "https://www.airbnb.com/rooms/14090491",
-    "deeplink": "https://www.airbnb.com/rooms/14090491?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 36,
-    "name": "1BR located in Newark Min. to NJPAC/Prudential Ctr",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Newark",
-    "images": [
+    id: "14090491",
+    url: "https://www.airbnb.com/rooms/14090491",
+    deeplink:
+      "https://www.airbnb.com/rooms/14090491?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 36,
+    name: "1BR located in Newark Min. to NJPAC/Prudential Ctr",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Newark",
+    images: [
       "https://a0.muscache.com/im/pictures/dfffa604-f11a-4112-a595-d84aeab08ed7.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/9119d4e5-3b96-4e1a-b0aa-243db9d5b57f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/824dc7ca-f802-4083-998b-e6172740b02c.jpg?im_w=720",
@@ -9897,57 +10131,59 @@
       "https://a0.muscache.com/im/pictures/489cccf6-1a46-481a-98f0-26195b7c1052.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/98c4b2ba-73d2-47cf-951e-b08febb0deb6.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/28970862-998e-4a22-b546-02efe5524c78.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/0fb1d275-f507-4920-870b-ea737a607b23.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/0fb1d275-f507-4920-870b-ea737a607b23.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/74ccdeab-f40e-4e78-9449-c1880d44d55b.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.71553,
-    "lng": -74.1905,
-    "persons": 1,
-    "reviewsCount": 329,
-    "rating": 4.93,
-    "type": "Private room in rental unit",
-    "userId": 84758841,
-    "address": "Newark, NJ, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/74ccdeab-f40e-4e78-9449-c1880d44d55b.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.71553,
+    lng: -74.1905,
+    persons: 1,
+    reviewsCount: 329,
+    rating: 4.93,
+    type: "Private room in rental unit",
+    userId: 84758841,
+    address: "Newark, NJ, United States",
+    amenityIds: [
       1, 129, 2, 3, 4, 5, 8, 9, 137, 139, 657, 23, 27, 30, 33, 34, 35, 36, 37,
       38, 39, 40, 41, 42, 44, 45, 46, 49, 50, 308, 61, 73, 77, 79, 85, 86, 89,
-      90, 91, 92, 476, 93, 94, 95, 96, 611, 101, 104, 236, 625
+      90, 91, 92, 476, 93, 94, 95, 96, 611, 101, 104, 236, 625,
     ],
-    "previewAmenities": ["Wifi", "Kitchen", "Air conditioning"],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 72,
-      "currency": "USD",
-      "total": 72,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Air conditioning"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 72,
+      currency: "USD",
+      total: 72,
+      priceItems: [
         {
-          "amount": 46
+          amount: 46,
         },
         {
-          "amount": 10
+          amount: 10,
         },
         {
-          "amount": 9
+          amount: 9,
         },
         {
-          "amount": 7
-        }
-      ]
-    }
+          amount: 7,
+        },
+      ],
+    },
   },
   {
-    "id": "829274057349888000",
-    "url": "https://www.airbnb.com/rooms/829274057349888000",
-    "deeplink": "https://www.airbnb.com/rooms/829274057349888000?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 37,
-    "name": "Cozy Private Bedroom @ NYC by Ahmed",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Queens",
-    "images": [
+    id: "829274057349888000",
+    url: "https://www.airbnb.com/rooms/829274057349888000",
+    deeplink:
+      "https://www.airbnb.com/rooms/829274057349888000?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 37,
+    name: "Cozy Private Bedroom @ NYC by Ahmed",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Queens",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-829274057349888000/original/b1ce6f1e-c3e3-4cb6-ad6c-49fa53a3706f.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-829274057349888000/original/42b0420b-a565-40dc-b5a9-cdf86768bfc0.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/0bcb868b-56f1-4a80-a8ca-b7b38a38e9db.jpg?im_w=720",
@@ -9963,55 +10199,52 @@
       "https://a0.muscache.com/im/pictures/ee4221ef-f173-4fc1-ad6b-022a0a032b28.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/2eb7780e-d93f-48fc-bcbf-19a6cb465d69.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/50fd8aa9-eec0-4afa-8c77-db7b737778df.jpg?im_w=720",
-      "https://a0.muscache.com/im/pictures/159e948e-480b-445c-abc8-dacb823d34c0.jpg?im_w=720"
+      "https://a0.muscache.com/im/pictures/159e948e-480b-445c-abc8-dacb823d34c0.jpg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-501589992/original/2ca0d08d-a2a5-49be-81b8-3fcb16b3029f.jpeg?aki_policy=profile_x_medium",
-    "isSuperhost": false,
-    "rareFind": false,
-    "lat": 40.7741199,
-    "lng": -73.90738449999999,
-    "persons": 2,
-    "reviewsCount": 14,
-    "rating": 4.93,
-    "type": "Private room in rental unit",
-    "userId": 501589992,
-    "address": "Queens, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/User-501589992/original/2ca0d08d-a2a5-49be-81b8-3fcb16b3029f.jpeg?aki_policy=profile_x_medium",
+    isSuperhost: false,
+    rareFind: false,
+    lat: 40.7741199,
+    lng: -73.90738449999999,
+    persons: 2,
+    reviewsCount: 14,
+    rating: 4.93,
+    type: "Private room in rental unit",
+    userId: 501589992,
+    address: "Queens, NY, United States",
+    amenityIds: [
       1, 33, 66, 35, 227, 4, 36, 5, 37, 39, 8, 42, 47, 51, 53, 25, 90, 91, 93,
-      30
+      30,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 98,
-      "currency": "USD",
-      "total": 98,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 98,
+      currency: "USD",
+      total: 98,
+      priceItems: [
         {
-          "amount": 84
+          amount: 84,
         },
         {
-          "amount": 14
-        }
-      ]
-    }
+          amount: 14,
+        },
+      ],
+    },
   },
   {
-    "id": "795600421725758974",
-    "url": "https://www.airbnb.com/rooms/795600421725758974",
-    "deeplink": "https://www.airbnb.com/rooms/795600421725758974?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 38,
-    "name": "Springfield Garden estates",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Queens",
-    "images": [
+    id: "795600421725758974",
+    url: "https://www.airbnb.com/rooms/795600421725758974",
+    deeplink:
+      "https://www.airbnb.com/rooms/795600421725758974?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 38,
+    name: "Springfield Garden estates",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Queens",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-795600421725758974/original/8d843463-ba1c-46e6-97b7-a520afeaaf6b.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-795600421725758974/original/ce27229b-f7b5-48cf-9ab0-4b6feb150114.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-795600421725758974/original/c3e01917-bcf1-44b5-a92f-63c197c0dded.jpeg?im_w=720",
@@ -10022,50 +10255,52 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-795600421725758974/original/91d88295-146b-4b29-807f-0cc65df35dd7.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-795600421725758974/original/ab2328ca-4c95-4c08-9614-98ebe14f2e41.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-795600421725758974/original/84409e91-dabd-4453-ab21-c016e7d7aa6a.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-795600421725758974/original/4260f831-1ff3-49df-bb8e-39b6145172a0.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-795600421725758974/original/4260f831-1ff3-49df-bb8e-39b6145172a0.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/13dbbcc8-5dee-498c-8f56-ce9289297410.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.67160780000001,
-    "lng": -73.75674775767212,
-    "persons": 1,
-    "reviewsCount": 32,
-    "rating": 4.72,
-    "type": "Private room in home",
-    "userId": 493903378,
-    "address": "Queens, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/13dbbcc8-5dee-498c-8f56-ce9289297410.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.67160780000001,
+    lng: -73.75674775767212,
+    persons: 1,
+    reviewsCount: 32,
+    rating: 4.72,
+    type: "Private room in home",
+    userId: 493903378,
+    address: "Queens, NY, United States",
+    amenityIds: [
       1, 4, 73, 137, 201, 77, 79, 146, 85, 23, 87, 663, 665, 90, 667, 30, 35,
-      36, 37, 39, 103, 40, 104, 42, 44, 46, 47, 51, 52, 57, 61
+      36, 37, 39, 103, 40, 104, 42, 44, 46, 47, 51, 52, 57, 61,
     ],
-    "previewAmenities": ["Wifi", "Self check-in"],
-    "cancelPolicy": "CANCEL_FLEXIBLE",
-    "price": {
-      "rate": 61,
-      "currency": "USD",
-      "total": 61,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Self check-in"],
+    cancelPolicy: "CANCEL_FLEXIBLE",
+    price: {
+      rate: 61,
+      currency: "USD",
+      total: 61,
+      priceItems: [
         {
-          "amount": 52
+          amount: 52,
         },
         {
-          "amount": 9
-        }
-      ]
-    }
+          amount: 9,
+        },
+      ],
+    },
   },
   {
-    "id": "617499038697675576",
-    "url": "https://www.airbnb.com/rooms/617499038697675576",
-    "deeplink": "https://www.airbnb.com/rooms/617499038697675576?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 39,
-    "name": "Lovely master suite in Brooklyn next to Metro & IC",
-    "bathrooms": 1,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "Brooklyn",
-    "images": [
+    id: "617499038697675576",
+    url: "https://www.airbnb.com/rooms/617499038697675576",
+    deeplink:
+      "https://www.airbnb.com/rooms/617499038697675576?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 39,
+    name: "Lovely master suite in Brooklyn next to Metro & IC",
+    bathrooms: 1,
+    bedrooms: 1,
+    beds: 1,
+    city: "Brooklyn",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-617499038697675576/original/fdd72dde-a61b-4958-80ca-606b494aa77a.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-617499038697675576/original/610d2c42-5e9a-4728-8aaf-124eb352c0f7.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-617499038697675576/original/df219f52-0dd7-4400-a575-d7e160783d84.jpeg?im_w=720",
@@ -10081,60 +10316,57 @@
       "https://a0.muscache.com/im/pictures/f6dff6e8-c339-4249-b9d3-c63abc959f9f.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-617499038697675576/original/ee63a260-5b01-4b86-a03f-93f1af731405.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-617499038697675576/original/9ff20667-3fd7-4cac-9dc4-8ec8bc657c82.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-617499038697675576/original/856258c8-5c7e-45bd-a540-91c2f9823053.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-617499038697675576/original/856258c8-5c7e-45bd-a540-91c2f9823053.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/d866583b-2b6b-4e08-ae62-825f66832b47.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.65653,
-    "lng": -74.00497,
-    "persons": 2,
-    "reviewsCount": 77,
-    "rating": 4.99,
-    "type": "Private room in rental unit",
-    "userId": 51913277,
-    "address": "Brooklyn, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/d866583b-2b6b-4e08-ae62-825f66832b47.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.65653,
+    lng: -74.00497,
+    persons: 2,
+    reviewsCount: 77,
+    rating: 4.99,
+    type: "Private room in rental unit",
+    userId: 51913277,
+    address: "Brooklyn, NY, United States",
+    amenityIds: [
       1, 4, 5, 8, 392, 137, 10, 394, 657, 146, 23, 663, 280, 665, 30, 415, 671,
       672, 35, 36, 37, 39, 40, 41, 42, 44, 45, 46, 47, 51, 179, 308, 54, 56, 61,
       322, 77, 79, 211, 85, 86, 89, 90, 91, 93, 94, 95, 96, 611, 100, 103, 236,
-      625, 251
+      625, 251,
     ],
-    "previewAmenities": [
-      "Wifi",
-      "Kitchen",
-      "Self check-in",
-      "Air conditioning"
-    ],
-    "cancelPolicy": "CANCEL_MODERATE",
-    "price": {
-      "rate": 159,
-      "currency": "USD",
-      "total": 159,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen", "Self check-in", "Air conditioning"],
+    cancelPolicy: "CANCEL_MODERATE",
+    price: {
+      rate: 159,
+      currency: "USD",
+      total: 159,
+      priceItems: [
         {
-          "amount": 101
+          amount: 101,
         },
         {
-          "amount": 35
+          amount: 35,
         },
         {
-          "amount": 23
-        }
-      ]
-    }
+          amount: 23,
+        },
+      ],
+    },
   },
   {
-    "id": "764766608238216047",
-    "url": "https://www.airbnb.com/rooms/764766608238216047",
-    "deeplink": "https://www.airbnb.com/rooms/764766608238216047?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
-    "position": 40,
-    "name": "Glamorous Room /NO cleaning fee!",
-    "bathrooms": 1.5,
-    "bedrooms": 1,
-    "beds": 1,
-    "city": "New York",
-    "images": [
+    id: "764766608238216047",
+    url: "https://www.airbnb.com/rooms/764766608238216047",
+    deeplink:
+      "https://www.airbnb.com/rooms/764766608238216047?check_in=2023-09-16&check_out=2023-09-17&adults=1&children=0&infants=0&pets=0",
+    position: 40,
+    name: "Glamorous Room /NO cleaning fee!",
+    bathrooms: 1.5,
+    bedrooms: 1,
+    beds: 1,
+    city: "New York",
+    images: [
       "https://a0.muscache.com/im/pictures/miso/Hosting-764766608238216047/original/bcd672d3-5cca-45aa-83c1-380fc7246af8.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-764766608238216047/original/f867ef93-2f76-42ca-a47c-e35d2460f9a5.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-764766608238216047/original/ed9b7f72-9ecb-433e-a362-af3ee5092267.jpeg?im_w=720",
@@ -10164,39 +10396,41 @@
       "https://a0.muscache.com/im/pictures/miso/Hosting-764766608238216047/original/60f4311b-51a5-4ec9-97c5-afeca39f9b74.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-764766608238216047/original/c16158b5-b4b0-4f06-b0b4-2f9b268cc906.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-764766608238216047/original/5ed6c376-56f5-43f6-acd5-660583470b7f.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-764766608238216047/original/b0b98cfb-b38f-489f-af17-f81a7ab2e85d.jpeg?im_w=720"
+      "https://a0.muscache.com/im/pictures/miso/Hosting-764766608238216047/original/b0b98cfb-b38f-489f-af17-f81a7ab2e85d.jpeg?im_w=720",
     ],
-    "hostThumbnail": "https://a0.muscache.com/im/pictures/user/9e67f472-7f51-4809-a46a-6143af7433e2.jpg?aki_policy=profile_x_medium",
-    "isSuperhost": true,
-    "rareFind": false,
-    "lat": 40.84886,
-    "lng": -73.93429,
-    "persons": 2,
-    "reviewsCount": 39,
-    "rating": 4.95,
-    "type": "Private room in rental unit",
-    "userId": 477886839,
-    "address": "New York, NY, United States",
-    "amenityIds": [
+    hostThumbnail:
+      "https://a0.muscache.com/im/pictures/user/9e67f472-7f51-4809-a46a-6143af7433e2.jpg?aki_policy=profile_x_medium",
+    isSuperhost: true,
+    rareFind: false,
+    lat: 40.84886,
+    lng: -73.93429,
+    persons: 2,
+    reviewsCount: 39,
+    rating: 4.95,
+    type: "Private room in rental unit",
+    userId: 477886839,
+    address: "New York, NY, United States",
+    amenityIds: [
       1, 129, 4, 132, 8, 392, 10, 394, 522, 12, 145, 657, 146, 21, 23, 663, 665,
       27, 667, 30, 415, 671, 672, 33, 34, 35, 36, 37, 40, 41, 42, 44, 45, 46,
       47, 308, 185, 315, 61, 66, 322, 67, 70, 73, 74, 75, 77, 79, 85, 86, 87,
-      89, 90, 91, 476, 93, 94, 95, 96, 611, 103, 104, 626
+      89, 90, 91, 476, 93, 94, 95, 96, 611, 103, 104, 626,
     ],
-    "previewAmenities": ["Wifi", "Kitchen"],
-    "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
-    "price": {
-      "rate": 127,
-      "currency": "USD",
-      "total": 127,
-      "priceItems": [
+    previewAmenities: ["Wifi", "Kitchen"],
+    cancelPolicy: "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+    price: {
+      rate: 127,
+      currency: "USD",
+      total: 127,
+      priceItems: [
         {
-          "amount": 109
+          amount: 109,
         },
         {
-          "amount": 18
-        }
-      ]
-    }
-  }
-]
+          amount: 18,
+        },
+      ],
+    },
+  },
+];
+export default x;
